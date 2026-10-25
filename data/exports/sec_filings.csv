@@ -1,0 +1,100 @@
+accession,cik,company_key,form,event_type,items,filing_date,filing_month,report_date,description,url
+0001000004-26-000008,1000004,umbrella energy,S-4,Merger registration,,2026-10-20,2026-10,,S-4,https://www.sec.gov/Archives/edgar/data/1000004/000100000426000008/doc0.htm
+0001000004-26-000044,1000004,umbrella energy,8-K,Acquisition completed (8-K 2.01),"2.01,9.01",2026-10-18,2026-10,,8-K,https://www.sec.gov/Archives/edgar/data/1000004/000100000426000044/doc3.htm
+0001000003-26-000112,1000003,initech systems,425,Merger communication,,2026-10-15,2026-10,,425,https://www.sec.gov/Archives/edgar/data/1000003/000100000326000112/doc1.htm
+0001000001-26-000113,1000001,acme,8-K,Acquisition completed (8-K 2.01),"2.01,9.01",2026-10-14,2026-10,,8-K,https://www.sec.gov/Archives/edgar/data/1000001/000100000126000113/doc1.htm
+0001000002-26-000014,1000002,globex,DEFM14A,Definitive merger proxy,,2026-10-06,2026-10,,DEFM14A,https://www.sec.gov/Archives/edgar/data/1000002/000100000226000014/doc1.htm
+0001000003-26-000092,1000003,initech systems,8-K,Acquisition completed (8-K 2.01),"2.01,9.01",2026-09-27,2026-09,,8-K,https://www.sec.gov/Archives/edgar/data/1000003/000100000326000092/doc5.htm
+0001000004-26-000126,1000004,umbrella energy,S-4/A,Merger registration (amended),,2026-09-25,2026-09,,S-4/A,https://www.sec.gov/Archives/edgar/data/1000004/000100000426000126/doc4.htm
+0001000003-26-000040,1000003,initech systems,425,Merger communication,,2026-09-23,2026-09,,425,https://www.sec.gov/Archives/edgar/data/1000003/000100000326000040/doc6.htm
+0001000001-26-000089,1000001,acme,DEFM14A,Definitive merger proxy,,2026-09-01,2026-09,,DEFM14A,https://www.sec.gov/Archives/edgar/data/1000001/000100000126000089/doc7.htm
+0001000004-26-000089,1000004,umbrella energy,S-4,Merger registration,,2026-08-25,2026-08,,S-4,https://www.sec.gov/Archives/edgar/data/1000004/000100000426000089/doc9.htm
+0001000004-26-000076,1000004,umbrella energy,SC 14D9,Tender offer (target response),,2026-08-23,2026-08,,SC 14D9,https://www.sec.gov/Archives/edgar/data/1000004/000100000426000076/doc10.htm
+0001000002-26-000090,1000002,globex,SC 14D9,Tender offer (target response),,2026-08-21,2026-08,,SC 14D9,https://www.sec.gov/Archives/edgar/data/1000002/000100000226000090/doc9.htm
+0001000002-26-000080,1000002,globex,425,Merger communication,,2026-08-03,2026-08,,425,https://www.sec.gov/Archives/edgar/data/1000002/000100000226000080/doc12.htm
+0001000004-26-000029,1000004,umbrella energy,425,Merger communication,,2026-07-23,2026-07,,425,https://www.sec.gov/Archives/edgar/data/1000004/000100000426000029/doc17.htm
+0001000003-26-000084,1000003,initech systems,425,Merger communication,,2026-07-09,2026-07,,425,https://www.sec.gov/Archives/edgar/data/1000003/000100000326000084/doc17.htm
+0001000004-26-000104,1000004,umbrella energy,SC 14D9,Tender offer (target response),,2026-06-26,2026-06,,SC 14D9,https://www.sec.gov/Archives/edgar/data/1000004/000100000426000104/doc23.htm
+0001000002-26-000065,1000002,globex,425,Merger communication,,2026-06-24,2026-06,,425,https://www.sec.gov/Archives/edgar/data/1000002/000100000226000065/doc17.htm
+0001000004-26-000071,1000004,umbrella energy,8-K,Acquisition completed (8-K 2.01),"2.01,9.01",2026-05-26,2026-05,,8-K,https://www.sec.gov/Archives/edgar/data/1000004/000100000426000071/doc24.htm
+0001000003-26-000023,1000003,initech systems,SC TO-T,Tender offer (bidder),,2026-05-03,2026-05,,SC TO-T,https://www.sec.gov/Archives/edgar/data/1000003/000100000326000023/doc25.htm
+0001000002-26-000031,1000002,globex,S-4/A,Merger registration (amended),,2026-04-27,2026-04,,S-4/A,https://www.sec.gov/Archives/edgar/data/1000002/000100000226000031/doc26.htm
+0001000003-26-000071,1000003,initech systems,S-4,Merger registration,,2026-04-27,2026-04,,S-4,https://www.sec.gov/Archives/edgar/data/1000003/000100000326000071/doc26.htm
+0001000001-26-000012,1000001,acme,425,Merger communication,,2026-04-27,2026-04,,425,https://www.sec.gov/Archives/edgar/data/1000001/000100000126000012/doc18.htm
+0001000001-26-000003,1000001,acme,425,Merger communication,,2026-04-21,2026-04,,425,https://www.sec.gov/Archives/edgar/data/1000001/000100000126000003/doc19.htm
+0001000003-26-000126,1000003,initech systems,SC TO-T,Tender offer (bidder),,2026-04-20,2026-04,,SC TO-T,https://www.sec.gov/Archives/edgar/data/1000003/000100000326000126/doc27.htm
+0001000004-26-000021,1000004,umbrella energy,SC TO-T,Tender offer (bidder),,2026-04-12,2026-04,,SC TO-T,https://www.sec.gov/Archives/edgar/data/1000004/000100000426000021/doc29.htm
+0001000002-26-000024,1000002,globex,8-K,Acquisition completed (8-K 2.01),"2.01,9.01",2026-04-01,2026-04,,8-K,https://www.sec.gov/Archives/edgar/data/1000002/000100000226000024/doc30.htm
+0001000003-26-000072,1000003,initech systems,SC 14D9,Tender offer (target response),,2026-03-29,2026-03,,SC 14D9,https://www.sec.gov/Archives/edgar/data/1000003/000100000326000072/doc32.htm
+0001000002-26-000045,1000002,globex,S-4,Merger registration,,2026-02-22,2026-02,,S-4,https://www.sec.gov/Archives/edgar/data/1000002/000100000226000045/doc35.htm
+0001000004-26-000053,1000004,umbrella energy,8-K,Acquisition completed (8-K 2.01),"2.01,9.01",2026-02-07,2026-02,,8-K,https://www.sec.gov/Archives/edgar/data/1000004/000100000426000053/doc34.htm
+0001000003-26-000063,1000003,initech systems,DEFM14A,Definitive merger proxy,,2026-01-12,2026-01,,DEFM14A,https://www.sec.gov/Archives/edgar/data/1000003/000100000326000063/doc39.htm
+0001000001-25-000122,1000001,acme,425,Merger communication,,2025-12-08,2025-12,,425,https://www.sec.gov/Archives/edgar/data/1000001/000100000125000122/doc38.htm
+0001000003-25-000135,1000003,initech systems,8-K,Acquisition completed (8-K 2.01),"2.01,9.01",2025-11-29,2025-11,,8-K,https://www.sec.gov/Archives/edgar/data/1000003/000100000325000135/doc45.htm
+0001000003-25-000059,1000003,initech systems,S-4/A,Merger registration (amended),,2025-11-05,2025-11,,S-4/A,https://www.sec.gov/Archives/edgar/data/1000003/000100000325000059/doc51.htm
+0001000001-25-000060,1000001,acme,425,Merger communication,,2025-10-25,2025-10,,425,https://www.sec.gov/Archives/edgar/data/1000001/000100000125000060/doc41.htm
+0001000001-25-000014,1000001,acme,SC TO-T,Tender offer (bidder),,2025-10-08,2025-10,,SC TO-T,https://www.sec.gov/Archives/edgar/data/1000001/000100000125000014/doc43.htm
+0001000003-25-000102,1000003,initech systems,425,Merger communication,,2025-09-29,2025-09,,425,https://www.sec.gov/Archives/edgar/data/1000003/000100000325000102/doc58.htm
+0001000003-25-000096,1000003,initech systems,SC TO-T,Tender offer (bidder),,2025-09-24,2025-09,,SC TO-T,https://www.sec.gov/Archives/edgar/data/1000003/000100000325000096/doc59.htm
+0001000001-25-000016,1000001,acme,S-4,Merger registration,,2025-08-14,2025-08,,S-4,https://www.sec.gov/Archives/edgar/data/1000001/000100000125000016/doc55.htm
+0001000001-25-000026,1000001,acme,SC TO-T,Tender offer (bidder),,2025-08-08,2025-08,,SC TO-T,https://www.sec.gov/Archives/edgar/data/1000001/000100000125000026/doc57.htm
+0001000002-25-000105,1000002,globex,8-K,Acquisition completed (8-K 2.01),"2.01,9.01",2025-07-22,2025-07,,8-K,https://www.sec.gov/Archives/edgar/data/1000002/000100000225000105/doc56.htm
+0001000001-25-000131,1000001,acme,425,Merger communication,,2025-06-30,2025-06,,425,https://www.sec.gov/Archives/edgar/data/1000001/000100000125000131/doc65.htm
+0001000002-25-000063,1000002,globex,425,Merger communication,,2025-06-28,2025-06,,425,https://www.sec.gov/Archives/edgar/data/1000002/000100000225000063/doc61.htm
+0001000004-25-000060,1000004,umbrella energy,SC TO-T,Tender offer (bidder),,2025-06-26,2025-06,,SC TO-T,https://www.sec.gov/Archives/edgar/data/1000004/000100000425000060/doc57.htm
+0001000004-25-000085,1000004,umbrella energy,SC TO-T,Tender offer (bidder),,2025-06-25,2025-06,,SC TO-T,https://www.sec.gov/Archives/edgar/data/1000004/000100000425000085/doc58.htm
+0001000002-25-000108,1000002,globex,DEFM14A,Definitive merger proxy,,2025-06-14,2025-06,,DEFM14A,https://www.sec.gov/Archives/edgar/data/1000002/000100000225000108/doc62.htm
+0001000001-25-000032,1000001,acme,425,Merger communication,,2025-05-24,2025-05,,425,https://www.sec.gov/Archives/edgar/data/1000001/000100000125000032/doc68.htm
+0001000004-25-000120,1000004,umbrella energy,DEFM14A,Definitive merger proxy,,2025-05-23,2025-05,,DEFM14A,https://www.sec.gov/Archives/edgar/data/1000004/000100000425000120/doc60.htm
+0001000003-25-000018,1000003,initech systems,425,Merger communication,,2025-05-22,2025-05,,425,https://www.sec.gov/Archives/edgar/data/1000003/000100000325000018/doc71.htm
+0001000001-25-000081,1000001,acme,S-4,Merger registration,,2025-05-12,2025-05,,S-4,https://www.sec.gov/Archives/edgar/data/1000001/000100000125000081/doc70.htm
+0001000004-25-000036,1000004,umbrella energy,425,Merger communication,,2025-05-10,2025-05,,425,https://www.sec.gov/Archives/edgar/data/1000004/000100000425000036/doc65.htm
+0001000002-25-000013,1000002,globex,DEFM14A,Definitive merger proxy,,2025-05-10,2025-05,,DEFM14A,https://www.sec.gov/Archives/edgar/data/1000002/000100000225000013/doc67.htm
+0001000001-25-000094,1000001,acme,SC TO-T,Tender offer (bidder),,2025-05-09,2025-05,,SC TO-T,https://www.sec.gov/Archives/edgar/data/1000001/000100000125000094/doc72.htm
+0001000002-25-000059,1000002,globex,DEFM14A,Definitive merger proxy,,2025-04-30,2025-04,,DEFM14A,https://www.sec.gov/Archives/edgar/data/1000002/000100000225000059/doc71.htm
+0001000001-25-000034,1000001,acme,S-4,Merger registration,,2025-04-22,2025-04,,S-4,https://www.sec.gov/Archives/edgar/data/1000001/000100000125000034/doc76.htm
+0001000001-25-000091,1000001,acme,425,Merger communication,,2025-04-13,2025-04,,425,https://www.sec.gov/Archives/edgar/data/1000001/000100000125000091/doc77.htm
+0001000002-25-000022,1000002,globex,SC TO-T,Tender offer (bidder),,2025-03-21,2025-03,,SC TO-T,https://www.sec.gov/Archives/edgar/data/1000002/000100000225000022/doc78.htm
+0001000004-25-000022,1000004,umbrella energy,425,Merger communication,,2025-02-14,2025-02,,425,https://www.sec.gov/Archives/edgar/data/1000004/000100000425000022/doc75.htm
+0001000001-25-000070,1000001,acme,8-K,Acquisition completed (8-K 2.01),"2.01,9.01",2025-02-12,2025-02,,8-K,https://www.sec.gov/Archives/edgar/data/1000001/000100000125000070/doc85.htm
+0001000001-25-000092,1000001,acme,8-K,Acquisition completed (8-K 2.01),"2.01,9.01",2025-02-06,2025-02,,8-K,https://www.sec.gov/Archives/edgar/data/1000001/000100000125000092/doc89.htm
+0001000001-25-000085,1000001,acme,DEFM14A,Definitive merger proxy,,2025-01-14,2025-01,,DEFM14A,https://www.sec.gov/Archives/edgar/data/1000001/000100000125000085/doc90.htm
+0001000002-24-000017,1000002,globex,SC 14D9,Tender offer (target response),,2024-12-19,2024-12,,SC 14D9,https://www.sec.gov/Archives/edgar/data/1000002/000100000224000017/doc92.htm
+0001000004-24-000048,1000004,umbrella energy,425,Merger communication,,2024-12-17,2024-12,,425,https://www.sec.gov/Archives/edgar/data/1000004/000100000424000048/doc77.htm
+0001000002-24-000134,1000002,globex,425,Merger communication,,2024-12-14,2024-12,,425,https://www.sec.gov/Archives/edgar/data/1000002/000100000224000134/doc93.htm
+0001000001-24-000133,1000001,acme,SC TO-T,Tender offer (bidder),,2024-12-04,2024-12,,SC TO-T,https://www.sec.gov/Archives/edgar/data/1000001/000100000124000133/doc95.htm
+0001000001-24-000125,1000001,acme,SC 14D9,Tender offer (target response),,2024-11-02,2024-11,,SC 14D9,https://www.sec.gov/Archives/edgar/data/1000001/000100000124000125/doc99.htm
+0001000004-24-000014,1000004,umbrella energy,SC TO-T,Tender offer (bidder),,2024-10-20,2024-10,,SC TO-T,https://www.sec.gov/Archives/edgar/data/1000004/000100000424000014/doc84.htm
+0001000003-24-000110,1000003,initech systems,8-K,Acquisition completed (8-K 2.01),"2.01,9.01",2024-10-20,2024-10,,8-K,https://www.sec.gov/Archives/edgar/data/1000003/000100000324000110/doc97.htm
+0001000004-24-000051,1000004,umbrella energy,425,Merger communication,,2024-09-22,2024-09,,425,https://www.sec.gov/Archives/edgar/data/1000004/000100000424000051/doc89.htm
+0001000004-24-000098,1000004,umbrella energy,425,Merger communication,,2024-08-29,2024-08,,425,https://www.sec.gov/Archives/edgar/data/1000004/000100000424000098/doc98.htm
+0001000004-24-000080,1000004,umbrella energy,425,Merger communication,,2024-08-27,2024-08,,425,https://www.sec.gov/Archives/edgar/data/1000004/000100000424000080/doc99.htm
+0001000001-24-000134,1000001,acme,DEFM14A,Definitive merger proxy,,2024-08-17,2024-08,,DEFM14A,https://www.sec.gov/Archives/edgar/data/1000001/000100000124000134/doc106.htm
+0001000004-24-000091,1000004,umbrella energy,S-4/A,Merger registration (amended),,2024-08-17,2024-08,,S-4/A,https://www.sec.gov/Archives/edgar/data/1000004/000100000424000091/doc103.htm
+0001000002-24-000005,1000002,globex,S-4/A,Merger registration (amended),,2024-07-18,2024-07,,S-4/A,https://www.sec.gov/Archives/edgar/data/1000002/000100000224000005/doc107.htm
+0001000004-24-000129,1000004,umbrella energy,8-K,Acquisition completed (8-K 2.01),"2.01,9.01",2024-07-08,2024-07,,8-K,https://www.sec.gov/Archives/edgar/data/1000004/000100000424000129/doc113.htm
+0001000001-24-000065,1000001,acme,DEFM14A,Definitive merger proxy,,2024-06-22,2024-06,,DEFM14A,https://www.sec.gov/Archives/edgar/data/1000001/000100000124000065/doc114.htm
+0001000004-24-000038,1000004,umbrella energy,SC 14D9,Tender offer (target response),,2024-06-21,2024-06,,SC 14D9,https://www.sec.gov/Archives/edgar/data/1000004/000100000424000038/doc114.htm
+0001000002-24-000034,1000002,globex,425,Merger communication,,2024-06-09,2024-06,,425,https://www.sec.gov/Archives/edgar/data/1000002/000100000224000034/doc114.htm
+0001000002-24-000030,1000002,globex,DEFM14A,Definitive merger proxy,,2024-05-30,2024-05,,DEFM14A,https://www.sec.gov/Archives/edgar/data/1000002/000100000224000030/doc116.htm
+0001000004-24-000045,1000004,umbrella energy,425,Merger communication,,2024-05-23,2024-05,,425,https://www.sec.gov/Archives/edgar/data/1000004/000100000424000045/doc119.htm
+0001000003-24-000075,1000003,initech systems,SC TO-T,Tender offer (bidder),,2024-05-17,2024-05,,SC TO-T,https://www.sec.gov/Archives/edgar/data/1000003/000100000324000075/doc119.htm
+0001000003-24-000125,1000003,initech systems,S-4/A,Merger registration (amended),,2024-05-16,2024-05,,S-4/A,https://www.sec.gov/Archives/edgar/data/1000003/000100000324000125/doc121.htm
+0001000002-24-000052,1000002,globex,425,Merger communication,,2024-05-14,2024-05,,425,https://www.sec.gov/Archives/edgar/data/1000002/000100000224000052/doc118.htm
+0001000004-24-000119,1000004,umbrella energy,DEFM14A,Definitive merger proxy,,2024-04-22,2024-04,,DEFM14A,https://www.sec.gov/Archives/edgar/data/1000004/000100000424000119/doc123.htm
+0001000001-24-000025,1000001,acme,S-4,Merger registration,,2024-04-16,2024-04,,S-4,https://www.sec.gov/Archives/edgar/data/1000001/000100000124000025/doc124.htm
+0001000001-24-000028,1000001,acme,425,Merger communication,,2024-04-10,2024-04,,425,https://www.sec.gov/Archives/edgar/data/1000001/000100000124000028/doc127.htm
+0001000001-24-000010,1000001,acme,425,Merger communication,,2024-04-03,2024-04,,425,https://www.sec.gov/Archives/edgar/data/1000001/000100000124000010/doc129.htm
+0001000001-24-000008,1000001,acme,8-K,Acquisition completed (8-K 2.01),"2.01,9.01",2024-03-30,2024-03,,8-K,https://www.sec.gov/Archives/edgar/data/1000001/000100000124000008/doc130.htm
+0001000003-24-000056,1000003,initech systems,S-4,Merger registration,,2024-03-28,2024-03,,S-4,https://www.sec.gov/Archives/edgar/data/1000003/000100000324000056/doc126.htm
+0001000002-24-000129,1000002,globex,S-4/A,Merger registration (amended),,2024-03-27,2024-03,,S-4/A,https://www.sec.gov/Archives/edgar/data/1000002/000100000224000129/doc127.htm
+0001000001-24-000039,1000001,acme,425,Merger communication,,2024-03-25,2024-03,,425,https://www.sec.gov/Archives/edgar/data/1000001/000100000124000039/doc132.htm
+0001000003-24-000098,1000003,initech systems,S-4/A,Merger registration (amended),,2024-03-21,2024-03,,S-4/A,https://www.sec.gov/Archives/edgar/data/1000003/000100000324000098/doc127.htm
+0001000001-24-000050,1000001,acme,425,Merger communication,,2024-03-21,2024-03,,425,https://www.sec.gov/Archives/edgar/data/1000001/000100000124000050/doc134.htm
+0001000003-24-000121,1000003,initech systems,S-4,Merger registration,,2024-03-18,2024-03,,S-4,https://www.sec.gov/Archives/edgar/data/1000003/000100000324000121/doc128.htm
+0001000004-24-000007,1000004,umbrella energy,8-K,Acquisition completed (8-K 2.01),"2.01,9.01",2024-03-08,2024-03,,8-K,https://www.sec.gov/Archives/edgar/data/1000004/000100000424000007/doc131.htm
+0001000004-24-000123,1000004,umbrella energy,S-4/A,Merger registration (amended),,2024-02-28,2024-02,,S-4/A,https://www.sec.gov/Archives/edgar/data/1000004/000100000424000123/doc132.htm
+0001000003-24-000078,1000003,initech systems,SC TO-T,Tender offer (bidder),,2024-02-22,2024-02,,SC TO-T,https://www.sec.gov/Archives/edgar/data/1000003/000100000324000078/doc130.htm
+0001000004-24-000025,1000004,umbrella energy,8-K,Acquisition completed (8-K 2.01),"2.01,9.01",2024-02-21,2024-02,,8-K,https://www.sec.gov/Archives/edgar/data/1000004/000100000424000025/doc135.htm
+0001000001-24-000019,1000001,acme,425,Merger communication,,2024-02-18,2024-02,,425,https://www.sec.gov/Archives/edgar/data/1000001/000100000124000019/doc140.htm
+0001000003-24-000079,1000003,initech systems,SC TO-T,Tender offer (bidder),,2024-01-21,2024-01,,SC TO-T,https://www.sec.gov/Archives/edgar/data/1000003/000100000324000079/doc137.htm

@@ -1,0 +1,15 @@
+deal_id,year,decade,acquirer,target,acquirer_key,target_key,value_usd_bn
+acme|vertex-labs|2019,2019,2010,Acme Holdings Inc.,Vertex Labs Corp.,acme,vertex labs,182.4
+globex|stark-biotech|2019,2019,2010,Globex Corporation,Stark Biotech PLC,globex,stark biotech,140.0
+initech-systems|hooli-chips|2021,2021,2020,Initech Systems Corp.,Hooli Chips Ltd,initech systems,hooli chips,96.5
+umbrella-energy|soylent-petroleum|2015,2015,2010,Umbrella Energy Co.,Soylent Petroleum Inc.,umbrella energy,soylent petroleum,81.2
+wayne-enterprises|cyberdyne-systems|2023,2023,2020,"Wayne Enterprises, Inc.",Cyberdyne Systems LLC,wayne enterprises,cyberdyne systems,74.9
+oscorp-industries|tyrell|2018,2018,2010,Oscorp Industries,Tyrell Corp.,oscorp industries,tyrell,68.0
+wonka-foods|dunder-paper|2007,2007,2000,Wonka Foods Group,Dunder Paper Co.,wonka foods,dunder paper,55.3
+globex|nakatomi-trading|2016,2016,2010,Globex Corporation,Nakatomi Trading,globex,nakatomi trading,49.7
+umbrella-energy|black-mesa-resources|2025,2025,2020,Umbrella Energy Co.,Black Mesa Resources,umbrella energy,black mesa resources,35.1
+acme|pied-piper|2022,2022,2020,Acme Holdings Inc.,Pied Piper Inc.,acme,pied piper,27.5
+massive-dynamic|virtucon-media|2026,2026,2020,Massive Dynamic,Virtucon Media,massive dynamic,virtucon media,22.4
+initech-systems|aperture-science|2020,2020,2020,Initech Systems Corp.,Aperture Science,initech systems,aperture science,18.25
+wayne-enterprises|monarch-steel|2012,2012,2010,Wayne Enterprises,Monarch Steel,wayne enterprises,monarch steel,12.8
+massive-dynamic|gringotts-payments|2024,2024,2020,Massive Dynamic,Gringotts Payments,massive dynamic,gringotts payments,
