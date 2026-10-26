@@ -1,5 +1,15 @@
 company_key,display_name,cik,ticker,industry
-umbrella energy,Umbrella Energy Co.,1000004,UMBR,Crude Petroleum & Natural Gas
-initech systems,Initech Systems Corp.,1000003,INIT,Semiconductors & Related Devices
-acme,Acme Holdings Inc.,1000001,ACME,Services-Prepackaged Software
-globex,Globex Corporation,1000002,GLBX,Pharmaceutical Preparations
+broadcom,Broadcom Inc.,1730168,AVGO,Semiconductors & Related Devices
+amazon com,AMAZON COM INC,1018724,AMZN,Retail-Catalog & Mail-Order Houses
+merck and,"Merck & Co., Inc.",310158,MRK,Pharmaceutical Preparations
+capital one financial,CAPITAL ONE FINANCIAL CORP,927628,COF,National Commercial Banks
+bristol myers squibb,BRISTOL MYERS SQUIBB CO,14272,BMY,Pharmaceutical Preparations
+conocophillips,CONOCOPHILLIPS,1163165,COP,Petroleum Refining
+chevron,CHEVRON CORP,93410,CVX,Petroleum Refining
+microsoft,MICROSOFT CORP,789019,MSFT,Services-Prepackaged Software
+cisco systems,"CISCO SYSTEMS, INC.",858877,CSCO,Computer Communications Equipment
+pfizer,PFIZER INC,78003,PFE,Pharmaceutical Preparations
+johnson and johnson,JOHNSON & JOHNSON,200406,JNJ,Pharmaceutical Preparations
+adobe,ADOBE INC.,796343,ADBE,Services-Prepackaged Software
+oracle,ORACLE CORP,1341439,ORCL,Services-Prepackaged Software
+abbvie,AbbVie Inc.,1551152,ABBV,Pharmaceutical Preparations

@@ -1,15 +1,507 @@
 deal_id,year,decade,acquirer,target,acquirer_key,target_key,value_usd_bn
-acme|vertex-labs|2019,2019,2010,Acme Holdings Inc.,Vertex Labs Corp.,acme,vertex labs,182.4
-globex|stark-biotech|2019,2019,2010,Globex Corporation,Stark Biotech PLC,globex,stark biotech,140.0
-initech-systems|hooli-chips|2021,2021,2020,Initech Systems Corp.,Hooli Chips Ltd,initech systems,hooli chips,96.5
-umbrella-energy|soylent-petroleum|2015,2015,2010,Umbrella Energy Co.,Soylent Petroleum Inc.,umbrella energy,soylent petroleum,81.2
-wayne-enterprises|cyberdyne-systems|2023,2023,2020,"Wayne Enterprises, Inc.",Cyberdyne Systems LLC,wayne enterprises,cyberdyne systems,74.9
-oscorp-industries|tyrell|2018,2018,2010,Oscorp Industries,Tyrell Corp.,oscorp industries,tyrell,68.0
-wonka-foods|dunder-paper|2007,2007,2000,Wonka Foods Group,Dunder Paper Co.,wonka foods,dunder paper,55.3
-globex|nakatomi-trading|2016,2016,2010,Globex Corporation,Nakatomi Trading,globex,nakatomi trading,49.7
-umbrella-energy|black-mesa-resources|2025,2025,2020,Umbrella Energy Co.,Black Mesa Resources,umbrella energy,black mesa resources,35.1
-acme|pied-piper|2022,2022,2020,Acme Holdings Inc.,Pied Piper Inc.,acme,pied piper,27.5
-massive-dynamic|virtucon-media|2026,2026,2020,Massive Dynamic,Virtucon Media,massive dynamic,virtucon media,22.4
-initech-systems|aperture-science|2020,2020,2020,Initech Systems Corp.,Aperture Science,initech systems,aperture science,18.25
-wayne-enterprises|monarch-steel|2012,2012,2010,Wayne Enterprises,Monarch Steel,wayne enterprises,monarch steel,12.8
-massive-dynamic|gringotts-payments|2024,2024,2020,Massive Dynamic,Gringotts Payments,massive dynamic,gringotts payments,
+shenhua|china-guodian|2017,2017.0,2010.0,Shenhua Group,China Guodian Corporation,shenhua,china guodian,278.0
+spacex|xai|2026,2026.0,2020.0,SpaceX,xAI,spacex,xai,250.0
+china-minmetals|china-metallurgical|2015,2015.0,2010.0,China Minmetals,China Metallurgical Group,china minmetals,china metallurgical,245.6
+astra-zeneca|gilead-sciences|2020,2020.0,2020.0,Astra Zeneca,Gilead Sciences,astra zeneca,gilead sciences,232.0
+sinograin|china-national-cotton-reserves|2017,2017.0,2010.0,Sinograin,China National Cotton Reserves Corp.,sinograin,china national cotton reserves,213.0
+altria|philip-morris-international|2019,2019.0,2010.0,Altria,Philip Morris International,altria,philip morris international,200.0
+vodafone-airtouch|mannesmann|1999,1999.0,1990.0,Vodafone Airtouch plc,Mannesmann,vodafone airtouch,mannesmann,183.0
+aol|time-warner|2000,2000.0,2000.0,AOL,Time Warner,aol,time warner,182.0
+pfizer|allergan|2015,2015.0,2010.0,Pfizer,"Allergan, plc",pfizer,allergan,160.0
+bhp-billiton|rio-tinto|2008,2008.0,2000.0,BHP Billiton,Rio Tinto,bhp billiton,rio tinto,148.0
+kraft-heinz|unilever|2017,2017.0,2010.0,Kraft Heinz,Unilever,kraft heinz,unilever,143.0
+cigna|humana|2023,2023.0,2020.0,Cigna,Humana,cigna,humana,140.0
+dow-chemical|e-i-du-pont-de-nemours-and|2015,2015.0,2010.0,Dow Chemical,E. I. du Pont de Nemours and Company,dow chemical,e i du pont de nemours and,130.0
+verizon-communications|vodafone-group-remaining-verizon-wireless-45-stake|2013,2013.0,2010.0,Verizon Communications,Vodafone Group (Remaining Verizon Wireless 45% Stake),verizon communications,vodafone group remaining verizon wireless 45 stake,130.0
+mci-worldcom|sprint|1999,1999.0,1990.0,MCI WorldCom,Sprint,mci worldcom,sprint,129.0
+pfizer|astra-zeneca|2014,2014.0,2010.0,Pfizer,Astra Zeneca,pfizer,astra zeneca,123.0
+united-technologies-aerospace-division|raytheon|2019,2019.0,2010.0,United Technologies (Aerospace Division),Raytheon,united technologies aerospace division,raytheon,121.0
+broadcom|qualcomm|2018,2018.0,2010.0,Broadcom,Qualcomm,broadcom,qualcomm,121.0
+chemchina|sinochem|2018,2018.0,2010.0,ChemChina,Sinochem,chemchina,sinochem,120.0
+bhp-billiton-west-australian-iron-ore-assets|rio-tinto-west-australian-iron-ore-assets|2009,2009.0,2000.0,BHP Billiton (West Australian Iron Ore Assets),Rio Tinto (West Australian Iron Ore Assets),bhp billiton west australian iron ore assets,rio tinto west australian iron ore assets,116.0
+china-power-investment|state-nuclear-power-technology|2015,2015.0,2010.0,China Power Investment,State Nuclear Power Technology Corporation,china power investment,state nuclear power technology,112.6
+paramount-skydance|warner-bros-discovery|2026,2026.0,2020.0,Paramount Skydance,Warner Bros. Discovery,paramount skydance,warner bros discovery,111.0
+paramount-skydance|warner-bros-discovery|2025,2025.0,2020.0,Paramount Skydance,Warner Bros. Discovery,paramount skydance,warner bros discovery,108.4
+gaz-de-france|suez-s-a|2007,2007.0,2000.0,Gaz de France,Suez S.A.,gaz de france,suez s a,107.0
+ab-inbev|sabmiller|2015,2015.0,2010.0,AB InBev,SABMiller,ab inbev,sabmiller,107.0
+kohlberg-kravis-roberts-texas-pacific|the-home-depot|2006,2006.0,2000.0,Kohlberg Kravis Roberts Texas Pacific Group,The Home Depot,kohlberg kravis roberts texas pacific,the home depot,100.0
+heinz|kraft|2015,2015.0,2010.0,Heinz,Kraft,heinz,kraft,100.0
+china-national-nuclear|china-nuclear-engineering-and-construction|2018,2018.0,2010.0,China National Nuclear Corp,China Nuclear Engineering & Construction,china national nuclear,china nuclear engineering and construction,99.0
+rfs|abn-amro|2007,2007.0,2000.0,RFS Holdings,ABN Amro,rfs,abn amro,98.0
+royal-dutch-petroleum|shell-transport-and-trading|2004,2004.0,2000.0,Royal Dutch Petroleum,Shell Transport & Trading Company plc,royal dutch petroleum,shell transport and trading,95.0
+energy-transfer-equity|energy-transfer-partners|2018,2018.0,2010.0,Energy Transfer Equity,Energy Transfer Partners,energy transfer equity,energy transfer partners,90.0
+pfizer|warner-lambert|1999,1999.0,1990.0,Pfizer,Warner-Lambert,pfizer,warner lambert,90.0
+honeywell|united-technologies|2016,2016.0,2010.0,Honeywell,United Technologies,honeywell,united technologies,90.0
+barclays|abn-amro|2007,2007.0,2000.0,Barclays,ABN AMRO,barclays,abn amro,89.6
+linde|praxair|2017,2017.0,2010.0,Linde AG,Praxair,linde,praxair,86.0
+atandt|time-warner|2016,2016.0,2010.0,AT&T,Time Warner,atandt,time warner,85.4
+union-pacific-railroad|norfolk-southern-railway|2025,2025.0,2020.0,Union Pacific Railroad,Norfolk Southern Railway,union pacific railroad,norfolk southern railway,85.0
+cheung-kong|hutchison-whampoa|2015,2015.0,2010.0,Cheung Kong Holdings,Hutchison Whampoa,cheung kong,hutchison whampoa,85.0
+unilever|unilever-n-v|2020,2020.0,2020.0,Unilever plc,Unilever N.V.,unilever,unilever n v,81.0
+deutsche-telekom|telecom-italia|1999,1999.0,1990.0,Deutsche Telekom,Telecom Italia,deutsche telekom,telecom italia,81.0
+bhp|bhp|2021,2021.0,2020.0,BHP Group Limited,BHP Group plc,bhp,bhp,80.7
+21st-century-fox|time-warner|2014,2014.0,2010.0,21st Century Fox,Time Warner,21st century fox,time warner,80.0
+charter-communications|time-warner-cable|2015,2015.0,2010.0,Charter Communications,Time Warner Cable,charter communications,time warner cable,78.7
+exxon|mobil|1998,1998.0,1990.0,Exxon,Mobil,exxon,mobil,77.2
+american-home-products|smithkline-beecham|1998,1998.0,1990.0,American Home Products,SmithKline Beecham,american home products,smithkline beecham,77.0
+glaxo-wellcome|smithkline-beecham|2000,2000.0,2000.0,Glaxo Wellcome,SmithKline Beecham,glaxo wellcome,smithkline beecham,76.0
+bristol-myers-squibb|celgene|2019,2019.0,2010.0,Bristol-Myers Squibb,Celgene,bristol myers squibb,celgene,74.0
+comcast|atandt-broadband|2001,2001.0,2000.0,Comcast,AT&T Broadband,comcast,atandt broadband,72.0
+netflix|warner-bros-discovery-tv-film-studios-and-streaming-division|2025,2025.0,2020.0,"Netflix, Inc.","Warner Bros. Discovery ( TV, film studios and streaming division )",netflix,warner bros discovery tv film studios and streaming division,72.0
+royal-dutch-shell|royal-dutch-shell-n-v|2021,2021.0,2020.0,Royal Dutch Shell plc,Royal Dutch Shell N.V.,royal dutch shell,royal dutch shell n v,71.5
+the-walt-disney|21st-century-fox|2018,2018.0,2010.0,The Walt Disney Company,21st Century Fox,the walt disney,21st century fox,71.3
+banca-intesa|sanpaolo-imi|2006,2006.0,2000.0,Banca Intesa,Sanpaolo IMI,banca intesa,sanpaolo imi,71.0
+kinder-morgan|kinder-morgan-energy-partners-kinder-morgan-management-el-paso-pipeline-partners|2014,2014.0,2010.0,Kinder Morgan,Kinder Morgan Energy Partners Kinder Morgan Management El Paso Pipeline Partners,kinder morgan,kinder morgan energy partners kinder morgan management el paso pipeline partners,71.0
+actavis|allergan|2015,2015.0,2010.0,Actavis,"Allergan, Inc",actavis,allergan,70.5
+kkr|walgreens-boots-alliance|2019,2019.0,2010.0,KKR,Walgreens Boots Alliance,kkr,walgreens boots alliance,70.0
+citicorp|travelers|1998,1998.0,1990.0,Citicorp,Travelers Group,citicorp,travelers,70.0
+royal-dutch-shell|bg|2015,2015.0,2010.0,Royal Dutch Shell,BG Group,royal dutch shell,bg,70.0
+bell-atlantic-wireless-unit|vodafone-airtouch-plc-us-wireless-unit|1999,1999.0,1990.0,Bell Atlantic (Wireless Unit),Vodafone Airtouch plc (US Wireless Unit),bell atlantic wireless unit,vodafone airtouch plc us wireless unit,70.0
+saudi-aramco|sabic|2019,2019.0,2010.0,Saudi Aramco,SABIC,saudi aramco,sabic,69.1
+cvs-health|aetna|2017,2017.0,2010.0,CVS Health,Aetna,cvs health,aetna,69.0
+avalonbay-communities|equity-residential|2026,2026.0,2020.0,AvalonBay Communities,Equity Residential,avalonbay communities,equity residential,69.0
+microsoft|activision-blizzard|2022,2022.0,2020.0,Microsoft,Activision Blizzard,microsoft,activision blizzard,68.7
+unilever|glaxosmithkline-consumer-health-unit|2021,2021.0,2020.0,Unilever,GlaxoSmithKline (Consumer Health Unit),unilever,glaxosmithkline consumer health unit,68.4
+xstrata|anglo-american|2009,2009.0,2000.0,Xstrata,Anglo American plc,xstrata,anglo american,68.0
+pfizer|wyeth|2009,2009.0,2000.0,Pfizer,Wyeth,pfizer,wyeth,68.0
+united-states-department-of-the-treasury|american-international|2008,2008.0,2000.0,United States Department of the Treasury,American International Group,united states department of the treasury,american international,67.8
+atandt|bellsouth|2006,2006.0,2000.0,AT&T,BellSouth,atandt,bellsouth,67.0
+dell|emc|2015,2015.0,2010.0,Dell,EMC Corporation,dell,emc,67.0
+zeneca|astra-ab|1998,1998.0,1990.0,Zeneca,Astra AB,zeneca,astra ab,67.0
+nextera-energy|dominion-energy|2026,2026.0,2020.0,NextEra Energy,Dominion Energy,nextera energy,dominion energy,66.8
+comcast|disney|2004,2004.0,2000.0,Comcast,Disney,comcast,disney,66.0
+enel-acciona|endesa|2008,2008.0,2000.0,Enel Acciona,Endesa,enel acciona,endesa,65.3
+pershing-square-capital-management|universal-music|2026,2026.0,2020.0,Pershing Square Capital Management,Universal Music Group,pershing square capital management,universal music,65.03
+unilever-plc-food-business|mccormick-and|2026,2026.0,2020.0,Unilever plc (Food Business),McCormick & Company,unilever plc food business,mccormick and,65.0
+comcast|21st-century-fox|2018,2018.0,2010.0,Comcast,21st Century Fox,comcast,21st century fox,65.0
+warner-lambert|american-home-products|1999,1999.0,1990.0,Warner–Lambert,American Home Products,warner lambert,american home products,65.0
+takeda-pharmaceutical|shire|2018,2018.0,2010.0,Takeda Pharmaceutical,Shire plc,takeda pharmaceutical,shire,64.3
+sanofi|aventis|2004,2004.0,2000.0,Sanofi,Aventis,sanofi,aventis,64.2
+abbvie|allergan|2019,2019.0,2010.0,AbbVie,Allergan plc,abbvie,allergan,63.0
+glaxosmithkline-consumer-health-unit|pfizer-consumer-health-unit|2019,2019.0,2010.0,GlaxoSmithKline (Consumer Health Unit),Pfizer (Consumer Health Unit),glaxosmithkline consumer health unit,pfizer consumer health unit,62.8
+atandt|mediaone|2002,2002.0,2000.0,AT&T,MediaOne,atandt,mediaone,62.0
+sbc-communications|ameritech|1999,1999.0,1990.0,SBC Communications,Ameritech Corporation,sbc communications,ameritech,62.0
+nationsbank|bank-america|1998,1998.0,1990.0,NationsBank,Bank America,nationsbank,bank america,62.0
+broadcom|vmware|2022,2022.0,2020.0,Broadcom Inc.,VMware,broadcom,vmware,61.0
+nextera-energy|duke-energy|2020,2020.0,2020.0,NextEra Energy,Duke Energy,nextera energy,duke energy,60.0
+spacex|cursor|2026,2026.0,2020.0,SpaceX,Cursor,spacex,cursor,60.0
+hdfc-bank|housing-development-finance|2022,2022.0,2020.0,HDFC Bank,Housing Development Finance Corporation,hdfc bank,housing development finance,60.0
+holcim|lafarge-s-a|2014,2014.0,2010.0,Holcim,Lafarge S.A.,holcim,lafarge s a,60.0
+comcast|mediaone|2002,2002.0,2000.0,Comcast,MediaOne,comcast,mediaone,60.0
+pfizer|pharmacia|2002,2002.0,2000.0,Pfizer,Pharmacia Corp.,pfizer,pharmacia,60.0
+omv-borealis-75-stake-adnoc-borealis-25-stake|adnoc-borouge-54-stake-borealis-borouge-36-stake|2025,2025.0,2020.0,OMV ( Borealis 75% stake) ADNOC ( Borealis 25% stake),ADNOC ( Borouge 54% stake) Borealis ( Borouge 36% stake),omv borealis 75 stake adnoc borealis 25 stake,adnoc borouge 54 stake borealis borouge 36 stake,60.0
+exxonmobil|pioneer-natural-resources|2023,2023.0,2020.0,ExxonMobil,Pioneer Natural Resources,exxonmobil,pioneer natural resources,59.5
+essilor|luxottica|2017,2017.0,2010.0,Essilor,Luxottica,essilor,luxottica,58.5
+jpmorgan-chase|bank-one|2004,2004.0,2000.0,JPMorgan Chase,Bank One Corporation,jpmorgan chase,bank one,58.0
+hm-treasury|royal-bank-of-scotland|2008,2008.0,2000.0,HM Treasury,Royal Bank of Scotland Group,hm treasury,royal bank of scotland,58.0
+devon-energy|coterra|2026,2026.0,2020.0,Devon Energy,Coterra,devon energy,coterra,58.0
+procter-and-gamble|gillette|2005,2005.0,2000.0,Procter & Gamble,Gillette,procter and gamble,gillette,57.0
+edizione-blackstone|atlantia|2022,2022.0,2020.0,Edizione Blackstone Inc.,Atlantia,edizione blackstone,atlantia,56.32
+vodafone|airtouch-communications|1999,1999.0,1990.0,Vodafone Group,AirTouch Communications,vodafone,airtouch communications,56.0
+gamestop|ebay|2026,2026.0,2020.0,GameStop,eBay,gamestop,ebay,56.0
+china-oil-and-gas-pipeline-network-pipechina|petrochina-major-oil-and-gas-pipelines-and-storage-facility-assets-sinopec-kanton-s-yulin-pipeline-co-and-beihai-lng-terminal|2020,2020.0,2020.0,China Oil and Gas Pipeline Network (PipeChina),PetroChina (Major oil and gas pipelines and storage facility assets) Sinopec (Kanton's Yulin Pipeline Co & Beihai LNG terminal),china oil and gas pipeline network pipechina,petrochina major oil and gas pipelines and storage facility assets sinopec kanton s yulin pipeline co and beihai lng terminal,55.9
+public-investment-fund-silver-lake-affinity-partners|electronic-arts|2025,2025.0,2020.0,Public Investment Fund Silver Lake Affinity Partners,Electronic Arts,public investment fund silver lake affinity partners,electronic arts,55.0
+rosneft|tnk-bp|2013,2013.0,2010.0,Rosneft,TNK-BP,rosneft,tnk bp,55.0
+bayer|monsanto|2016,2016.0,2010.0,Bayer,Monsanto,bayer,monsanto,54.5
+totalfina|elf-aquitaine|1999,1999.0,1990.0,TotalFina,Elf Aquitaine,totalfina,elf aquitaine,54.3
+abbvie|shire|2014,2014.0,2010.0,AbbVie,Shire,abbvie,shire,54.0
+cigna|express-scripts|2018,2018.0,2010.0,Cigna,Express Scripts,cigna,express scripts,54.0
+e-on|endesa|2007,2007.0,2000.0,E.ON,Endesa,e on,endesa,54.0
+valeant-pharmaceuticals|allergan|2014,2014.0,2010.0,Valeant Pharmaceuticals,Allergan Inc,valeant pharmaceuticals,allergan,54.0
+bell-atlantic|gte|1998,1998.0,1990.0,Bell Atlantic,GTE,bell atlantic,gte,53.36
+advent-international-stripe|paypal|2026,2026.0,2020.0,"Advent International Stripe, Inc.",PayPal,advent international stripe,paypal,53.0
+anglo-american|teck-resources|2025,2025.0,2020.0,Anglo American plc,Teck Resources,anglo american,teck resources,53.0
+chevron|hess|2023,2023.0,2020.0,Chevron Corporation,Hess Corporation,chevron,hess,53.0
+disney|21st-century-fox|2017,2017.0,2010.0,Disney,21st Century Fox,disney,21st century fox,52.4
+inbev|anheuser-busch|2008,2008.0,2000.0,InBev,Anheuser-Busch,inbev,anheuser busch,52.0
+bell-atlantic|nynex|1996,1996.0,1990.0,Bell Atlantic,NYNEX,bell atlantic,nynex,52.0
+deutsche-telekom|voicestream|2000,2000.0,2000.0,Deutsche Telekom,Voicestream,deutsche telekom,voicestream,50.7
+softbank|switch|2026,2026.0,2020.0,SoftBank Group,Switch,softbank,switch,50.0
+elf-aquitaine|totalfina|1999,1999.0,1990.0,Elf Aquitaine,TotalFina,elf aquitaine,totalfina,50.0
+lloyds-tsb|hbos|2008,2008.0,2000.0,Lloyds TSB Group,HBOS,lloyds tsb,hbos,50.0
+groupe-psa|fiat-chrysler|2019,2019.0,2010.0,Groupe PSA,Fiat Chrysler,groupe psa,fiat chrysler,50.0
+bharti-airtel|mtn|2008,2008.0,2000.0,Bharti Airtel,MTN Group,bharti airtel,mtn,50.0
+citic-pacific|citic|2014,2014.0,2010.0,CITIC Pacific,CITIC Limited,citic pacific,citic,50.0
+bank-of-america|merrill-lynch-and|2008,2008.0,2000.0,Bank of America,Merrill Lynch & Co.,bank of america,merrill lynch and,50.0
+united-states-department-of-the-treasury|general-motors|2009,2009.0,2000.0,United States Department of the Treasury,General Motors,united states department of the treasury,general motors,49.5
+bhp|anglo-american|2024,2024.0,2020.0,BHP Group Limited,Anglo American plc,bhp,anglo american,49.18
+atandt|directv|2014,2014.0,2010.0,AT&T,DirecTV,atandt,directv,49.0
+bp|amoco|1998,1998.0,1990.0,BP,Amoco,bp,amoco,49.0
+british-american-tobacco|r-j-reynolds-tobacco|2017,2017.0,2010.0,British American Tobacco,R. J. Reynolds Tobacco Company,british american tobacco,r j reynolds tobacco,49.0
+kimberly-clark|kenvue|2025,2025.0,2020.0,Kimberly-Clark,Kenvue,kimberly clark,kenvue,48.7
+teachers-private-capital-providence-equity-madison-dearborn-partners|bce|2007,2007.0,2000.0,Teachers' Private Capital Providence Equity Madison Dearborn Partners,BCE Inc,teachers private capital providence equity madison dearborn partners,bce,48.5
+atandt|tele-communications|1999,1999.0,1990.0,AT&T,Tele-Communications Inc.,atandt,tele communications,48.0
+anthem|cigna|2015,2015.0,2010.0,Anthem,Cigna,anthem,cigna,48.0
+microsoft|yahoo|2008,2008.0,2000.0,Microsoft,Yahoo!,microsoft,yahoo,47.5
+bank-of-america|fleetboston-financial|2003,2003.0,2000.0,Bank of America,FleetBoston Financial,bank of america,fleetboston financial,47.0
+roche-holding|genentech|2009,2009.0,2000.0,Roche Holding AG,Genentech,roche holding,genentech,46.8
+monsanto|syngenta|2015,2015.0,2010.0,Monsanto,Syngenta,monsanto,syngenta,46.5
+the-sumitomo-bank|the-sakura-bank|1999,1999.0,1990.0,The Sumitomo Bank,The Sakura Bank,the sumitomo bank,the sakura bank,45.5
+dupont-nutrition-and-biosciences-division|international-flavors-and-fragrances|2019,2019.0,2010.0,DuPont (Nutrition & Biosciences Division),International Flavors & Fragrances,dupont nutrition and biosciences division,international flavors and fragrances,45.4
+unicredit|commerzbank|2026,2026.0,2020.0,UniCredit,Commerzbank,unicredit,commerzbank,45.37
+comcast|time-warner-cable|2014,2014.0,2010.0,Comcast,Time Warner Cable,comcast,time warner cable,45.2
+eads|bae-systems|2012,2012.0,2010.0,EADS,BAE Systems,eads,bae systems,45.0
+general-electric|honeywell|2000,2000.0,2000.0,General Electric,Honeywell,general electric,honeywell,45.0
+united-states-department-of-the-treasury|bank-of-america|2008,2008.0,2000.0,United States Department of the Treasury,Bank of America,united states department of the treasury,bank of america,45.0
+credit-suisse|union-bank-of-switzerland|1996,1996.0,1990.0,Credit Suisse,Union Bank of Switzerland,credit suisse,union bank of switzerland,45.0
+united-states-department-of-the-treasury|citigroup|2008,2008.0,2000.0,United States Department of the Treasury,Citigroup,united states department of the treasury,citigroup,45.0
+qualcomm|nxp-semiconductors|2018,2018.0,2010.0,Qualcomm,NXP Semiconductors,qualcomm,nxp semiconductors,44.0
+elon-musk|twitter|2022,2022.0,2020.0,Elon Musk,"Twitter, Inc.",elon musk,twitter,44.0
+sandp-global|ihs-markit|2020,2020.0,2020.0,S&P Global,IHS Markit,sandp global,ihs markit,44.0
+qwest-communications|us-west|1999,1999.0,1990.0,Qwest Communications,US West,qwest communications,us west,44.0
+pfizer|seagen|2023,2023.0,2020.0,Pfizer,Seagen,pfizer,seagen,43.0
+chemchina|syngenta|2016,2016.0,2010.0,ChemChina,Syngenta,chemchina,syngenta,43.0
+discovery|atandt-warnermedia|2021,2021.0,2020.0,"Discovery, Inc.",AT&T ( WarnerMedia ),discovery,atandt warnermedia,43.0
+hoechst|rh-ne-poulenc|1998,1998.0,1990.0,Hoechst AG,Rhône-Poulenc,hoechst,rh ne poulenc,43.0
+medtronic|covidien|2014,2014.0,2010.0,Medtronic,Covidien,medtronic,covidien,42.9
+royal-bank-of-scotland|national-westminster-bank|1999,1999.0,1990.0,Royal Bank of Scotland Group,National Westminster Bank plc,royal bank of scotland,national westminster bank,42.5
+merck-and|schering-plough|2009,2009.0,2000.0,Merck & Co.,Schering-Plough,merck and,schering plough,41.1
+jds-uniphase|sdl|2000,2000.0,2000.0,JDS Uniphase,SDL Inc.,jds uniphase,sdl,41.0
+exxonmobil|xto-energy|2009,2009.0,2000.0,ExxonMobil,XTO Energy,exxonmobil,xto energy,41.0
+banque-nationale-de-paris|paribas-soci-t-g-n-rale|1999,1999.0,1990.0,Banque Nationale de Paris,Paribas Société Générale,banque nationale de paris,paribas soci t g n rale,41.0
+cingular|atandt-wireless|2004,2004.0,2000.0,Cingular,AT&T Wireless,cingular,atandt wireless,41.0
+teva-pharmaceutical-industries|allergan-plc-actavis-generics|2015,2015.0,2010.0,Teva Pharmaceutical Industries,Allergan plc ( Actavis Generics ),teva pharmaceutical industries,allergan plc actavis generics,40.5
+france-t-l-com|vodafone-airtouch-plc-orange-uk|2000,2000.0,2000.0,France Télécom,Vodafone Airtouch plc ( Orange UK ),france t l com,vodafone airtouch plc orange uk,40.3
+fuji-bank|dai-ichi-kangyo-bank-industrial-bank-of-japan|1999,1999.0,1990.0,Fuji Bank,Dai-Ichi Kangyo Bank Industrial Bank of Japan,fuji bank,dai ichi kangyo bank industrial bank of japan,40.1
+teva-pharmaceutical-industries|mylan|2015,2015.0,2010.0,Teva Pharmaceutical Industries,Mylan,teva pharmaceutical industries,mylan,40.0
+est-e-lauder-companies|puig|2026,2026.0,2020.0,Estée Lauder Companies,Puig,est e lauder companies,puig,40.0
+nvidia|softbank-group-arm-holdings|2020,2020.0,2020.0,Nvidia Corporation,SoftBank Group ( Arm Holdings ),nvidia,softbank group arm holdings,40.0
+bhp-billiton|potashcorp|2010,2010.0,2010.0,BHP Billiton,PotashCorp,bhp billiton,potashcorp,40.0
+france-t-l-com|teliasonera|2008,2008.0,2000.0,France Télécom,TeliaSonera,france t l com,teliasonera,40.0
+ai-infrastructure-partnership-microsoft-nvidia-blackrock-blackrock-global-infrastructure-partners-xai-mgx-fund-management-limited-temasek|macquarie-group-aligned-data-centers|2025,2025.0,2020.0,AI Infrastructure Partnership Microsoft Nvidia BlackRock BlackRock ( Global Infrastructure Partners ) xAI MGX Fund Management Limited Temasek,Macquarie Group ( Aligned Data Centers),ai infrastructure partnership microsoft nvidia blackrock blackrock global infrastructure partners xai mgx fund management limited temasek,macquarie group aligned data centers,40.0
+nippon-telegraph-and-telephone|ntt-docomo|2020,2020.0,2020.0,Nippon Telegraph and Telephone,NTT Docomo,nippon telegraph and telephone,ntt docomo,40.0
+united-technologies|honeywell|2000,2000.0,2000.0,United Technologies,Honeywell,united technologies,honeywell,40.0
+toyota-motor|toyota-industries|2025,2025.0,2020.0,Toyota Motor Corporation,Toyota Industries,toyota motor,toyota industries,39.66
+novartis|alcon|2008,2008.0,2000.0,Novartis,Alcon,novartis,alcon,39.0
+hong-kong-exchanges-and-clearing|london-stock-exchange|2019,2019.0,2010.0,Hong Kong Exchanges and Clearing,London Stock Exchange,hong kong exchanges and clearing,london stock exchange,39.0
+atandt|t-mobile-us|2011,2011.0,2010.0,AT&T,T-Mobile US,atandt,t mobile us,39.0
+comcast|sky|2018,2018.0,2010.0,Comcast Corporation,Sky plc,comcast,sky,39.0
+astrazeneca|alexion-pharmaceuticals|2020,2020.0,2020.0,AstraZeneca,Alexion Pharmaceuticals,astrazeneca,alexion pharmaceuticals,39.0
+e-on|innogy|2018,2018.0,2010.0,E.ON SE,Innogy SE,e on,innogy,38.5
+alimentation-couche-tard|seven-and-i|2024,2024.0,2020.0,Alimentation Couche-Tard,Seven & i Holdings,alimentation couche tard,seven and i,38.5
+rio-tinto|alcan|2007,2007.0,2000.0,Rio Tinto,Alcan,rio tinto,alcan,38.1
+tokyo-mitsubishi|ufj|2005,2005.0,2000.0,Tokyo Mitsubishi,UFJ Holdings,tokyo mitsubishi,ufj,38.0
+pacific-century-cyber-works|cable-and-wireless-hkt|2000,2000.0,2000.0,Pacific Century Cyber Works,Cable & Wireless HKT Ltd,pacific century cyber works,cable and wireless hkt,38.0
+liberty-global-virgin-media|telef-nica-o2|2020,2020.0,2020.0,Liberty Global ( Virgin Media ),Telefónica ( O2 ),liberty global virgin media,telef nica o2,38.0
+zurich-insurance|british-american-tobacco-financial-division|1997,1997.0,1990.0,Zurich Insurance Group,British American Tobacco (Financial Division),zurich insurance,british american tobacco financial division,38.0
+daimler-benz|chrysler|1998,1998.0,1990.0,Daimler-Benz,Chrysler,daimler benz,chrysler,38.0
+occidental-petroleum|anadarko-petroleum|2019,2019.0,2010.0,Occidental Petroleum Corp,Anadarko Petroleum,occidental petroleum,anadarko petroleum,38.0
+berkshire-hathaway|precision-castparts|2015,2015.0,2010.0,Berkshire Hathaway,Precision Castparts,berkshire hathaway,precision castparts,37.2
+global-crossing|us-west|1999,1999.0,1990.0,Global Crossing,US West,global crossing,us west,37.0
+aetna|humana|2015,2015.0,2010.0,Aetna,Humana,aetna,humana,37.0
+avago-technologies|broadcom|2015,2015.0,2010.0,Avago Technologies,Broadcom Corporation,avago technologies,broadcom,37.0
+t-mobile-us|sprint|2018,2018.0,2010.0,T-Mobile US,Sprint Corporation,t mobile us,sprint,37.0
+worldcom|mci-communications|1997,1997.0,1990.0,Worldcom,MCI Communications,worldcom,mci communications,37.0
+am-rica-m-vil|am-rica-telecom|2006,2006.0,2000.0,América Móvil,América Telecom,am rica m vil,am rica telecom,37.0
+the-blackstone|equity-office|2006,2006.0,2000.0,The Blackstone Group,Equity Office,the blackstone,equity office,36.0
+mannesmann|orange-uk|1999,1999.0,1990.0,Mannesmann,Orange UK,mannesmann,orange uk,36.0
+conocophillips|burlington-resources|2005,2005.0,2000.0,ConocoPhillips,Burlington Resources,conocophillips,burlington resources,35.6
+viacom|cbs|1999,1999.0,1990.0,Viacom,CBS Corporation,viacom,cbs,35.6
+prudential|aia|2010,2010.0,2010.0,Prudential,AIA Group,prudential,aia,35.5
+capital-one|discover-financial|2024,2024.0,2020.0,Capital One,Discover Financial,capital one,discover financial,35.3
+omnicom|publicis|2014,2014.0,2010.0,Omnicom,Publicis,omnicom,publicis,35.0
+synopsys|ansys|2024,2024.0,2020.0,Synopsys,Ansys,synopsys,ansys,35.0
+xerox|hp|2020,2020.0,2020.0,Xerox,HP Inc,xerox,hp,35.0
+fiat-chrysler|renault|2019,2019.0,2010.0,Fiat Chrysler,Renault,fiat chrysler,renault,35.0
+chevron|texaco|2000,2000.0,2000.0,Chevron Corporation,Texaco,chevron,texaco,35.0
+sprint|nextel-communications|2005,2005.0,2000.0,Sprint Corporation,Nextel Communications,sprint,nextel communications,35.0
+advanced-micro-devices|xilinx|2020,2020.0,2020.0,Advanced Micro Devices,Xilinx,advanced micro devices,xilinx,35.0
+fidelity-national-information-services|worldpay|2019,2019.0,2010.0,Fidelity National Information Services,"Worldpay, Inc.",fidelity national information services,worldpay,35.0
+american-home-products|monsanto|1998,1998.0,1990.0,American Home Products,Monsanto,american home products,monsanto,34.4
+bank-of-scotland|natwest|1999,1999.0,1990.0,Bank of Scotland,NatWest,bank of scotland,natwest,34.3
+china-mobile-hong-kong|beijing-mobile-shanghai-mobile-tianjin-mobile-hebei-mobile-liaoning-mobile-shandong-mobile-guangxi-mobile|2000,2000.0,2000.0,China Mobile (Hong Kong) Ltd,Beijing Mobile Shanghai Mobile Tianjin Mobile Hebei Mobile Liaoning Mobile Shandong Mobile Guangxi Mobile,china mobile hong kong,beijing mobile shanghai mobile tianjin mobile hebei mobile liaoning mobile shandong mobile guangxi mobile,34.2
+bank-of-america|mbna|2005,2005.0,2000.0,Bank of America,MBNA,bank of america,mbna,34.2
+wells-fargo|norwest|1998,1998.0,1990.0,Wells Fargo,Norwest Corporation,wells fargo,norwest,34.0
+harris|l3-technologies|2018,2018.0,2010.0,Harris Corporation,L3 Technologies,harris,l3 technologies,34.0
+vivendi|seagram|2000,2000.0,2000.0,Vivendi,Seagram,vivendi,seagram,34.0
+olivetti|telecom-italia-55-stake|1999,1999.0,1990.0,Olivetti,Telecom Italia (55% Stake),olivetti,telecom italia 55 stake,34.0
+blackstone-inc-the-carlyle-group-hellman-and-friedman|medline-industries|2021,2021.0,2020.0,Blackstone Inc The Carlyle Group Hellman & Friedman,Medline Industries,blackstone inc the carlyle group hellman and friedman,medline industries,34.0
+bunge|viterra|2023,2023.0,2020.0,Bunge Limited,Viterra,bunge,viterra,34.0
+ibm|red-hat|2018,2018.0,2010.0,IBM,Red Hat,ibm,red hat,34.0
+mitsubishi-bank|the-bank-of-tokyo|1995,1995.0,1990.0,Mitsubishi Bank,The Bank of Tokyo,mitsubishi bank,the bank of tokyo,33.8
+mittal-steel|arcelor|2006,2006.0,2000.0,Mittal Steel Company,Arcelor,mittal steel,arcelor,33.65
+canadian-national-railway|kansas-city-southern|2021,2021.0,2020.0,Canadian National Railway,Kansas City Southern,canadian national railway,kansas city southern,33.6
+xerox|hp|2019,2019.0,2010.0,Xerox,HP Inc,xerox,hp,33.5
+xai|x|2025,2025.0,2020.0,xAI,X Corp.,xai,x,33.0
+chevron|anadarko-petroleum|2019,2019.0,2010.0,Chevron Corporation,Anadarko Petroleum,chevron,anadarko petroleum,33.0
+bell-atlantic|tele-communications|1994,1994.0,1990.0,Bell Atlantic,Tele-Communications Inc,bell atlantic,tele communications,33.0
+energy-transfer-equity|williams-companies|2016,2016.0,2010.0,Energy Transfer Equity,Williams Companies,energy transfer equity,williams companies,33.0
+21st-century-fox|sky|2018,2018.0,2010.0,21st Century Fox,Sky plc,21st century fox,sky,32.5
+shire|baxalta|2016,2016.0,2010.0,Shire plc,Baxalta,shire,baxalta,32.0
+alphabet|wiz|2025,2025.0,2020.0,Alphabet Inc.,"Wiz, Inc.",alphabet,wiz,32.0
+kohlberg-kravis-roberts-texas-pacific|txu|2007,2007.0,2000.0,Kohlberg Kravis Roberts Texas Pacific Group,TXU Corp.,kohlberg kravis roberts texas pacific,txu,31.8
+telef-nica|o2|2005,2005.0,2000.0,Telefónica,O2,telef nica,o2,31.6
+nokia-corporation-telecommunication-network-equipment-unit|siemens-ag-telecommunication-network-equipment-unit|2006,2006.0,2000.0,Nokia Corporation (Telecommunication Network Equipment Unit),Siemens AG (Telecommunication Network Equipment Unit),nokia corporation telecommunication network equipment unit,siemens ag telecommunication network equipment unit,31.6
+softbank|arm|2016,2016.0,2010.0,Softbank Group,Arm Holdings,softbank,arm,31.4
+citigroup|associates-first-capital|2000,2000.0,2000.0,Citigroup,Associates First Capital Corporation,citigroup,associates first capital,31.0
+canadian-pacific-railway|kansas-city-southern|2021,2021.0,2020.0,Canadian Pacific Railway,Kansas City Southern,canadian pacific railway,kansas city southern,31.0
+deutsche-b-rse|london-stock-exchange|2016,2016.0,2010.0,Deutsche Börse,London Stock Exchange Group,deutsche b rse,london stock exchange,31.0
+glencore|xstrata|2012,2012.0,2010.0,Glencore,Xstrata,glencore,xstrata,31.0
+kohlberg-kravis-roberts|rjr-nabisco|1989,1989.0,1980.0,Kohlberg Kravis Roberts,RJR Nabisco,kohlberg kravis roberts,rjr nabisco,31.0
+chase-manhattan-bank|j-p-morgan-and|2000,2000.0,2000.0,Chase Manhattan Bank,J.P. Morgan & Co.,chase manhattan bank,j p morgan and,30.9
+comcast|general-electric-nbcuniversal|2009,2009.0,2000.0,Comcast,General Electric ( NBCUniversal ),comcast,general electric nbcuniversal,30.0
+aercap|general-electric-gecas|2021,2021.0,2020.0,AerCap,General Electric ( GECAS ),aercap,general electric gecas,30.0
+yahoo-japan|line|2019,2019.0,2010.0,Yahoo! Japan,Line Corporation,yahoo japan,line,30.0
+deutsche-bank|dresdner-bank|2000,2000.0,2000.0,Deutsche Bank,Dresdner Bank,deutsche bank,dresdner bank,30.0
+johnson-and-johnson|actelion|2017,2017.0,2010.0,Johnson & Johnson,Actelion,johnson and johnson,actelion,30.0
+united-technologies|rockwell-collins|2017,2017.0,2010.0,United Technologies,Rockwell Collins,united technologies,rockwell collins,30.0
+mars|kellanova|2024,2024.0,2020.0,Mars Inc.,Kellanova,mars,kellanova,30.0
+aon|willis-towers-watson|2020,2020.0,2020.0,Aon plc,Willis Towers Watson,aon,willis towers watson,30.0
+gdf-suez|international-power|2010,2010.0,2010.0,GDF Suez,International Power,gdf suez,international power,30.0
+general-electric-ge-oil-and-gas|baker-hughes|2016,2016.0,2010.0,General Electric ( GE Oil and Gas ),Baker Hughes,general electric ge oil and gas,baker hughes,30.0
+statoil|norsk-hydro|2007,2007.0,2000.0,Statoil,Norsk Hydro,statoil,norsk hydro,30.0
+banc-one|first-chicago-bank|1998,1998.0,1990.0,Banc One,First Chicago Bank,banc one,first chicago bank,29.8
+t-mobile-us|metropcs|2012,2012.0,2010.0,T-Mobile US,MetroPCS,t mobile us,metropcs,29.6
+aviva|prudential|2006,2006.0,2000.0,Aviva,Prudential,aviva,prudential,29.6
+ppg-industries|akzo-nobel|2017,2017.0,2010.0,PPG Industries,Akzo Nobel,ppg industries,akzo nobel,29.5
+sumitomo-mitsui-financial|ufj-bank|2004,2004.0,2000.0,Sumitomo Mitsui Financial Group,UFJ Bank,sumitomo mitsui financial,ufj bank,29.2
+express-scripts|medco-health-solutions|2011,2011.0,2010.0,Express Scripts,Medco Health Solutions,express scripts,medco health solutions,29.1
+square|afterpay|2021,2021.0,2020.0,"Square, Inc.",Afterpay,square,afterpay,29.0
+emerson-electric|rockwell-automation|2017,2017.0,2010.0,Emerson Electric,Rockwell Automation,emerson electric,rockwell automation,29.0
+sysco|kirsh-group-jetro-restaurant-depot|2026,2026.0,2020.0,Sysco,Kirsh Group ( Jetro Restaurant Depot ),sysco,kirsh group jetro restaurant depot,29.0
+kohlberg-kravis-roberts|first-data|2007,2007.0,2000.0,Kohlberg Kravis Roberts,First Data,kohlberg kravis roberts,first data,29.0
+unicredit|capitalia|2007,2007.0,2000.0,UniCredit,Capitalia,unicredit,capitalia,29.0
+ministry-of-finance|central-bank-of-russia-sberbank-of-russia-50-stake|2020,2020.0,2020.0,Ministry of Finance,Central Bank of Russia ( Sberbank of Russia 50% Stake),ministry of finance,central bank of russia sberbank of russia 50 stake,28.31
+ace|chubb|2015,2015.0,2010.0,ACE Ltd,Chubb Corporation,ace,chubb,28.3
+oracle|cerner|2021,2021.0,2020.0,Oracle Corporation,Cerner Corporation,oracle,cerner,28.3
+kbc-bank|almanij|2004,2004.0,2000.0,KBC Bank,Almanij,kbc bank,almanij,28.12
+verizon-wireless|alltel|2008,2008.0,2000.0,Verizon Wireless,Alltel,verizon wireless,alltel,28.1
+halliburton|baker-hughes|2016,2016.0,2010.0,Halliburton,Baker Hughes,halliburton,baker hughes,28.0
+bhp|billiton|2001,2001.0,2000.0,BHP Ltd.,Billiton plc,bhp,billiton,28.0
+canadian-pacific|norfolk-southern|2016,2016.0,2010.0,Canadian Pacific,Norfolk Southern,canadian pacific,norfolk southern,28.0
+bbandt|suntrust-banks|2019,2019.0,2010.0,BB&T,SunTrust Banks,bbandt,suntrust banks,28.0
+gte|mci|1997,1997.0,1990.0,GTE,MCI,gte,mci,28.0
+lloyds-tsb|abbey-national|2001,2001.0,2000.0,Lloyds TSB Group,Abbey National,lloyds tsb,abbey national,28.0
+cisco|splunk|2023,2023.0,2020.0,Cisco,Splunk,cisco,splunk,28.0
+enbridge|spectra-energy|2016,2016.0,2010.0,Enbridge,Spectra Energy,enbridge,spectra energy,28.0
+gas-natural|endesa|2005,2005.0,2000.0,Gas Natural,Endesa,gas natural,endesa,28.0
+amgen|horizon-therapeutics|2022,2022.0,2020.0,Amgen,Horizon Therapeutics,amgen,horizon therapeutics,27.8
+olivetti|telecom-italia-remaining-45-stake|2003,2003.0,2000.0,Olivetti,Telecom Italia (Remaining 45% Stake),olivetti,telecom italia remaining 45 stake,27.8
+salesforce-com|slack-technologies|2020,2020.0,2020.0,Salesforce.com,Slack Technologies,salesforce com,slack technologies,27.7
+alcoa|alcan|2007,2007.0,2000.0,Alcoa,Alcan,alcoa,alcan,27.6
+texas-pacific-group-goldman-sachs-capital-partners|alltel|2007,2007.0,2000.0,Texas Pacific Group Goldman Sachs Capital Partners,Alltel,texas pacific group goldman sachs capital partners,alltel,27.5
+reynolds-american|lorillard-tobacco|2014,2014.0,2010.0,Reynolds American,Lorillard Tobacco Company,reynolds american,lorillard tobacco,27.4
+boston-scientific|guidant|2006,2006.0,2000.0,Boston Scientific,Guidant,boston scientific,guidant,27.2
+gold-fields|northern-star-resources|2026,2026.0,2020.0,Gold Fields,Northern Star Resources,gold fields,northern star resources,27.1
+ciba-geigy|sandoz|1996,1996.0,1990.0,Ciba-Geigy,Sandoz,ciba geigy,sandoz,27.0
+london-stock-exchange|refinitiv|2019,2019.0,2010.0,London Stock Exchange Group,Refinitiv,london stock exchange,refinitiv,27.0
+agrium|potash-corp-of-saskatchewan|2016,2016.0,2010.0,Agrium,Potash Corp of Saskatchewan Inc,agrium,potash corp of saskatchewan,27.0
+bp-amoco|atlantic-richfield|1999,1999.0,1990.0,BP-Amoco,Atlantic Richfield Company,bp amoco,atlantic richfield,26.8
+thomas-h-lee-partners-bain-capital|clear-channel-broadcasting|2006,2006.0,2000.0,Thomas H. Lee Partners Bain Capital,Clear Channel Broadcasting,thomas h lee partners bain capital,clear channel broadcasting,26.7
+monsanto|pharmacia-and-upjohn|1999,1999.0,1990.0,Monsanto,Pharmacia & Upjohn,monsanto,pharmacia and upjohn,26.5
+prudential|american-general|2001,2001.0,2000.0,Prudential,American General,prudential,american general,26.5
+berkshire-hathaway|burlington-northern-santa-fe|2009,2009.0,2000.0,Berkshire Hathaway,Burlington Northern Santa Fe Corp.,berkshire hathaway,burlington northern santa fe,26.3
+microsoft|linkedin|2016,2016.0,2010.0,Microsoft,LinkedIn Corp,microsoft,linkedin,26.2
+express-scripts|caremark-rx|2007,2007.0,2000.0,Express Scripts,Caremark Rx,express scripts,caremark rx,26.0
+mylan|perrigo|2015,2015.0,2010.0,Mylan,Perrigo,mylan,perrigo,26.0
+the-blackstone|hilton-hotels|2007,2007.0,2000.0,The Blackstone Group,Hilton Hotels Corp,the blackstone,hilton hotels,26.0
+charles-schwab|td-ameritrade|2019,2019.0,2010.0,Charles Schwab,TD Ameritrade,charles schwab,td ameritrade,26.0
+duke-energy|progress-energy|2011,2011.0,2010.0,Duke Energy,Progress Energy Inc,duke energy,progress energy,26.0
+diamondback-energy|endeavor-energy-resources|2024,2024.0,2020.0,Diamondback Energy,Endeavor Energy Resources,diamondback energy,endeavor energy resources,26.0
+prologis|duke-realty|2022,2022.0,2020.0,Prologis,Duke Realty,prologis,duke realty,26.0
+freeport-mcmoran|phelps-dodge|2007,2007.0,2000.0,Freeport-McMoRan,Phelps Dodge,freeport mcmoran,phelps dodge,25.9
+hughes-electronics|echostar|2002,2002.0,2000.0,Hughes Electronics,EchoStar,hughes electronics,echostar,25.6
+dish-network|sprint|2013,2013.0,2010.0,Dish Network,Sprint Corporation,dish network,sprint,25.5
+wachovia|golden-west-financial|2006,2006.0,2000.0,Wachovia,Golden West Financial,wachovia,golden west financial,25.5
+hm-treasury|lloyds-banking|2008,2008.0,2000.0,HM Treasury,Lloyds Banking Group,hm treasury,lloyds banking,25.4
+johnson-and-johnson|guidant|2004,2004.0,2000.0,Johnson & Johnson,Guidant,johnson and johnson,guidant,25.4
+lucent|ascend-communications|1999,1999.0,1990.0,Lucent,Ascend Communications,lucent,ascend communications,25.2
+apollo-management-texas-pacific|harrahs-entertainment|2008,2008.0,2000.0,Apollo Management Texas Pacific Group,Harrahs Entertainment,apollo management texas pacific,harrahs entertainment,25.1
+hewlett-packard|compaq|2001,2001.0,2000.0,Hewlett Packard Company,Compaq,hewlett packard,compaq,25.0
+union-bank-of-switzerland|swiss-bank|1997,1997.0,1990.0,Union Bank of Switzerland,Swiss Bank Corporation,union bank of switzerland,swiss bank,25.0
+kroger|albertsons|2022,2022.0,2020.0,Kroger,Albertsons,kroger,albertsons,25.0
+enbridge-income-fund|enbridge-canadian-liquids-pipeline-business-and-certain-renewable-energy-assets|2015,2015.0,2010.0,Enbridge Income Fund,Enbridge (Canadian liquids pipeline business & certain renewable energy assets),enbridge income fund,enbridge canadian liquids pipeline business and certain renewable energy assets,25.0
+pfizer-upjohn-off-patent-medicine-division|mylan|2019,2019.0,2010.0,Pfizer (Upjohn Off-Patent Medicine Division),Mylan,pfizer upjohn off patent medicine division,mylan,25.0
+actavis|forest-laboratories|2014,2014.0,2010.0,Actavis,Forest Laboratories,actavis,forest laboratories,25.0
+abbott-laboratories|st-jude-medical|2016,2016.0,2010.0,Abbott Laboratories,St Jude Medical,abbott laboratories,st jude medical,25.0
+viacom|cbs|2019,2019.0,2010.0,Viacom,CBS Corporation,viacom,cbs,25.0
+palo-alto-networks|cyberark|2025,2025.0,2020.0,Palo Alto Networks,CyberArk,palo alto networks,cyberark,25.0
+united-states-department-of-the-treasury|jpmorgan-chase|2008,2008.0,2000.0,United States Department of the Treasury,JPMorgan Chase,united states department of the treasury,jpmorgan chase,25.0
+united-states-department-of-the-treasury|wells-fargo|2008,2008.0,2000.0,United States Department of the Treasury,Wells Fargo,united states department of the treasury,wells fargo,25.0
+the-blackstone|dell|2013,2013.0,2010.0,The Blackstone Group,Dell,the blackstone,dell,25.0
+chubb|the-hartford|2021,2021.0,2020.0,Chubb,The Hartford,chubb,the hartford,25.0
+j-c-flowers-and-co-friedman-fleischer-and-lowe-bank-of-america-jpmorgan-chase-and|sallie-mae|2007,2007.0,2000.0,J.C. Flowers & Co. Friedman Fleischer & Lowe Bank of America JPMorgan Chase & Co.,Sallie Mae,j c flowers and co friedman fleischer and lowe bank of america jpmorgan chase and,sallie mae,25.0
+unibail-rodamco|westfield|2017,2017.0,2010.0,Unibail-Rodamco SE,Westfield Corporation,unibail rodamco,westfield,24.7
+boston-scientific|guidant|2005,2005.0,2000.0,Boston Scientific,Guidant,boston scientific,guidant,24.6
+michael-dell-silver-lake-partners|dell|2013,2013.0,2010.0,Michael Dell Silver Lake Partners,Dell,michael dell silver lake partners,dell,24.4
+global-payments|gtcr-worldpay-55-stake-fis-worldpay-45-stake|2025,2025.0,2020.0,Global Payments,GTCR ( Worldpay 55% stake) FIS ( Worldpay 45% stake),global payments,gtcr worldpay 55 stake fis worldpay 45 stake,24.25
+johnson-and-johnson|guidant|2006,2006.0,2000.0,Johnson & Johnson,Guidant,johnson and johnson,guidant,24.2
+vimpelcom-italian-assets|ck-hutchison-holdings-italian-assets|2015,2015.0,2010.0,VimpelCom (Italian Assets),CK Hutchison Holdings (Italian Assets),vimpelcom italian assets,ck hutchison holdings italian assets,24.0
+ministry-of-economy|bankia|2012,2012.0,2010.0,Ministry of Economy,Bankia,ministry of economy,bankia,24.0
+becton-dickinson-and|c-r-bard|2017,2017.0,2010.0,"Becton, Dickinson and Company",C. R. Bard,becton dickinson and,c r bard,24.0
+bank-of-new-york|mellon-bank|1998,1998.0,1990.0,Bank of New York,Mellon Bank Corporation,bank of new york,mellon bank,24.0
+kone|advent-international-thyssenkrupp-elevator-stake-cinven-thyssenkrupp-elevator-stake|2026,2026.0,2020.0,Kone,Advent International ( ThyssenKrupp Elevator stake) Cinven ( ThyssenKrupp Elevator stake),kone,advent international thyssenkrupp elevator stake cinven thyssenkrupp elevator stake,24.0
+centurylink|level-3-communications|2016,2016.0,2010.0,CenturyLink,Level 3 Communications,centurylink,level 3 communications,24.0
+centurylink|qwest|2010,2010.0,2010.0,CenturyLink,Qwest Corporation,centurylink,qwest,24.0
+albertsons|rite-aid|2018,2018.0,2010.0,Albertsons,Rite Aid,albertsons,rite aid,24.0
+china-unicom|china-netcom|2008,2008.0,2000.0,China Unicom,China Netcom,china unicom,china netcom,24.0
+dell|vmware|2018,2018.0,2010.0,Dell,VMware,dell,vmware,23.9
+clear-channel-broadcasting|amfm-broadcasting-licenses|1999,1999.0,1990.0,Clear Channel Broadcasting,"AMFM Broadcasting Licenses, LLC",clear channel broadcasting,amfm broadcasting licenses,23.8
+bouygues-bouygues-telecom-orange-group-iliad-sa-free|altice-sfr|2026,2026.0,2020.0,Bouygues ( Bouygues Telecom ) Orange Group Iliad SA ( Free ),Altice ( SFR ),bouygues bouygues telecom orange group iliad sa free,altice sfr,23.44
+first-boston-pritzker-family-philip-anschutz|rjr-nabisco|1988,1988.0,1980.0,First Boston Pritzker family Philip Anschutz,RJR Nabisco,first boston pritzker family philip anschutz,rjr nabisco,23.38
+ministry-of-finance|fortis-dutch-unit|2008,2008.0,2000.0,Ministry of Finance,Fortis (Dutch Unit),ministry of finance,fortis dutch unit,23.3
+liberty-global|virgin-media|2013,2013.0,2010.0,Liberty Global,Virgin Media,liberty global,virgin media,23.3
+visa|visa-europe|2017,2017.0,2010.0,Visa Inc.,Visa Europe,visa,visa europe,23.3
+atandt|echostar-various-wireless-spectrum-licenses|2025,2025.0,2020.0,AT&T,EchoStar ( Various Wireless Spectrum Licenses ),atandt,echostar various wireless spectrum licenses,23.0
+mondelez-international|the-hershey|2016,2016.0,2010.0,Mondelez International,The Hershey Company,mondelez international,the hershey,23.0
+alphabet|wiz|2024,2024.0,2020.0,Alphabet,Wiz,alphabet,wiz,23.0
+berkshire-hathaway-3g-capital|heinz|2013,2013.0,2010.0,Berkshire Hathaway 3G Capital,Heinz,berkshire hathaway 3g capital,heinz,23.0
+numericable|sfr|2014,2014.0,2010.0,Numericable,SFR,numericable,sfr,23.0
+vodafone-group-indian-operations|idea-cellular|2017,2017.0,2010.0,Vodafone Group (Indian Operations),Idea Cellular,vodafone group indian operations,idea cellular,23.0
+marathon-petroleum|andeavor|2018,2018.0,2010.0,Marathon Petroleum Corp,Andeavor,marathon petroleum,andeavor,23.0
+american-international|american-general|2001,2001.0,2000.0,American International Group,American General,american international,american general,23.0
+mars|wm-wrigley-jr|2008,2008.0,2000.0,"Mars, Incorporated",Wm. Wrigley Jr. Company,mars,wm wrigley jr,23.0
+shearson-lehman-hutton-f-ross-johnson|rjr-nabisco|1988,1988.0,1980.0,Shearson Lehman Hutton F. Ross Johnson,RJR Nabisco,shearson lehman hutton f ross johnson,rjr nabisco,22.9
+tracinda|chrysler|1995,1995.0,1990.0,Tracinda,Chrysler,tracinda,chrysler,22.8
+mitsui-bank|taiyo-kobe-bank|1989,1989.0,1980.0,Mitsui Bank,Taiyo Kobe Bank,mitsui bank,taiyo kobe bank,22.8
+vonovia|deutsche-wohnen|2021,2021.0,2020.0,Vonovia,Deutsche Wohnen,vonovia,deutsche wohnen,22.7
+schneider-electric|ptc|2026,2026.0,2020.0,Schneider Electric,PTC Inc.,schneider electric,ptc,22.6
+iberdrola|scottish-power|2007,2007.0,2000.0,Iberdrola,Scottish Power,iberdrola,scottish power,22.5
+glencore|teck-resources|2023,2023.0,2020.0,Glencore,Teck Resources,glencore,teck resources,22.5
+nippon-steel|sumitomo-metal-industries|2012,2012.0,2010.0,Nippon Steel,Sumitomo Metal Industries,nippon steel,sumitomo metal industries,22.45
+draftkings|entain|2021,2021.0,2020.0,DraftKings,Entain,draftkings,entain,22.0
+british-telecom|mci|1996,1996.0,1990.0,British Telecom,MCI,british telecom,mci,22.0
+seven-and-i|marathon-petroleum-speedway|2020,2020.0,2020.0,Seven & i Holdings,Marathon Petroleum ( Speedway ),seven and i,marathon petroleum speedway,22.0
+fox|roku|2026,2026.0,2020.0,Fox Corporation,"Roku, Inc.",fox,roku,22.0
+berkshire-hathaway|gen-re|1998,1998.0,1990.0,Berkshire Hathaway,Gen Re,berkshire hathaway,gen re,22.0
+huntington-bancshares|tcf-financial|2020,2020.0,2020.0,Huntington Bancshares,TCF Financial Corporation,huntington bancshares,tcf financial,22.0
+equitable|corebridge-financial|2026,2026.0,2020.0,Equitable Holdings,Corebridge Financial,equitable,corebridge financial,22.0
+kohlberg-kravis-roberts-stefano-pessina|alliance-boots|2007,2007.0,2000.0,Kohlberg Kravis Roberts Stefano Pessina,Alliance Boots,kohlberg kravis roberts stefano pessina,alliance boots,22.0
+fiserv|first-data|2019,2019.0,2010.0,Fiserv,First Data,fiserv,first data,22.0
+facebook|whatsapp|2014,2014.0,2010.0,"Facebook, Inc",WhatsApp Inc.,facebook,whatsapp,22.0
+richard-kinder-goldman-sachs-capital-partners-the-carlyle-group-riverstone-holdings-american-international|kinder-morgan|2006,2006.0,2000.0,Richard Kinder Goldman Sachs Capital Partners The Carlyle Group Riverstone Holdings American International Group,Kinder Morgan,richard kinder goldman sachs capital partners the carlyle group riverstone holdings american international,kinder morgan,22.0
+atlantia-grupo-acs|abertis|2018,2018.0,2010.0,Atlantia Grupo ACS,Abertis,atlantia grupo acs,abertis,22.0
+charter-communications|cox-enterprises-cox-communications|2025,2025.0,2020.0,Charter Communications,Cox Enterprises ( Cox Communications ),charter communications,cox enterprises cox communications,21.9
+vodafone|liberty-global-germany-and-eastern-europe-ops|2018,2018.0,2010.0,Vodafone Group,Liberty Global (Germany & Eastern Europe Ops),vodafone,liberty global germany and eastern europe ops,21.8
+vornado-realty-trust-starwood-capital-group-walton-street-capital|equity-office|2007,2007.0,2000.0,Vornado Realty Trust Starwood Capital Group Walton Street Capital,Equity Office,vornado realty trust starwood capital group walton street capital,equity office,21.6
+softbank|sprint|2012,2012.0,2010.0,Softbank Group,Sprint Corporation,softbank,sprint,21.6
+terra-firma-capital-partners-wellcome-trust-hbos|alliance-boots|2007,2007.0,2000.0,Terra Firma Capital Partners Wellcome Trust HBOS,Alliance Boots,terra firma capital partners wellcome trust hbos,alliance boots,21.6
+vimpelcom|weather-investments|2010,2010.0,2010.0,VimpelCom,Weather Investments,vimpelcom,weather investments,21.5
+global-payments|tsys|2019,2019.0,2010.0,Global Payments,TSYS,global payments,tsys,21.5
+bayer|schering|2006,2006.0,2000.0,Bayer,Schering AG,bayer,schering,21.5
+danaher|ge-biopharma-division|2019,2019.0,2010.0,Danaher Corporation,GE (Biopharma Division),danaher,ge biopharma division,21.4
+orange-s-a-orange-espa-a|grupo-m-sm-vil|2022,2022.0,2020.0,Orange S.A. ( Orange España ),Grupo MásMóvil,orange s a orange espa a,grupo m sm vil,21.3
+johnson-and-johnson|synthes|2011,2011.0,2010.0,Johnson & Johnson,Synthes,johnson and johnson,synthes,21.3
+cvs|caremark-rx|2006,2006.0,2000.0,CVS,Caremark RX,cvs,caremark rx,21.0
+gilead-sciences|immunomedics|2020,2020.0,2020.0,Gilead Sciences,Immunomedics,gilead sciences,immunomedics,21.0
+endeavor-group-zuffa|wwe|2023,2023.0,2020.0,Endeavor Group ( Zuffa ),WWE,endeavor group zuffa,wwe,21.0
+bank-of-america|abn-amro-lasalle-bank|2007,2007.0,2000.0,Bank of America,ABN AMRO ( LaSalle Bank ),bank of america,abn amro lasalle bank,21.0
+seven-and-i|marathon-petroleum-speedway-llc|2020,2020.0,2020.0,Seven & i Holdings,Marathon Petroleum ( Speedway LLC ),seven and i,marathon petroleum speedway llc,21.0
+abbott-laboratories|exact-sciences|2025,2025.0,2020.0,Abbott Laboratories,Exact Sciences Corp.,abbott laboratories,exact sciences,21.0
+analog-devices|maxim-integrated|2020,2020.0,2020.0,Analog Devices,Maxim Integrated,analog devices,maxim integrated,21.0
+dsm|firmenich|2022,2022.0,2020.0,DSM,Firmenich,dsm,firmenich,21.0
+james-goldsmith-jacob-rothschild-kerry-packer|british-american-tobacco|1989,1989.0,1980.0,James Goldsmith Jacob Rothschild Kerry Packer,British American Tobacco,james goldsmith jacob rothschild kerry packer,british american tobacco,21.0
+thomas-f-frist-jr-bain-capital-kohlberg-kravis-roberts-merrill-lynch-global-private-equity|hca-healthcare|2006,2006.0,2000.0,Thomas F. Frist Jr. Bain Capital Kohlberg Kravis Roberts Merrill Lynch Global Private Equity,HCA Healthcare,thomas f frist jr bain capital kohlberg kravis roberts merrill lynch global private equity,hca healthcare,21.0
+kinder-morgan|el-paso|2011,2011.0,2010.0,Kinder Morgan,El Paso Corporation,kinder morgan,el paso,21.0
+keurig-green-mountain|dr-pepper-snapple|2018,2018.0,2010.0,Keurig Green Mountain,Dr Pepper Snapple Group,keurig green mountain,dr pepper snapple,21.0
+abbvie|pharmacyclics|2015,2015.0,2010.0,AbbVie,Pharmacyclics,abbvie,pharmacyclics,21.0
+mplx|markwest-energy|2015,2015.0,2010.0,MPLX,MarkWest Energy,mplx,markwest energy,21.0
+am-rica-m-vil|telmex|2010,2010.0,2010.0,América Móvil,Telmex,am rica m vil,telmex,21.0
+verisign|network-solutions|2000,2000.0,2000.0,Verisign,Network Solutions,verisign,network solutions,21.0
+firstar|u-s-bancorp|2000,2000.0,2000.0,Firstar Corporation,U.S. Bancorp,firstar,u s bancorp,21.0
+rogers-communications|shaw-communications|2021,2021.0,2020.0,Rogers Communications,Shaw Communications,rogers communications,shaw communications,20.8
+roche|novartis-entire-1-3-voting-stake-in-roche|2021,2021.0,2020.0,Roche,Novartis ( Entire 1/3 voting stake in Roche ),roche,novartis entire 1 3 voting stake in roche,20.7
+bouygues|sfr|2014,2014.0,2010.0,Bouygues,SFR,bouygues,sfr,20.6
+advent-international-cinven-rag-stiftung|thyssenkrupp-elevator-division|2020,2020.0,2020.0,Advent International Cinven RAG-Stiftung,ThyssenKrupp (Elevator Division),advent international cinven rag stiftung,thyssenkrupp elevator division,20.4
+unilever|bestfoods|2000,2000.0,2000.0,Unilever,Bestfoods,unilever,bestfoods,20.3
+sanofi|genzyme|2011,2011.0,2010.0,Sanofi,Genzyme,sanofi,genzyme,20.1
+ab-inbev|grupo-modelo|2012,2012.0,2010.0,AB InBev,Grupo Modelo,ab inbev,grupo modelo,20.1
+hochtief|abertis|2017,2017.0,2010.0,Hochtief,Abertis,hochtief,abertis,20.1
+ferrovial|baa|2006,2006.0,2000.0,Ferrovial,BAA plc,ferrovial,baa,20.0
+allianz|dresdner-bank|2001,2001.0,2000.0,Allianz,Dresdner Bank,allianz,dresdner bank,20.0
+banque-nationale-de-paris|paribas|1999,1999.0,1990.0,Banque Nationale de Paris,Paribas,banque nationale de paris,paribas,20.0
+clariant|huntsman|2017,2017.0,2010.0,Clariant,Huntsman,clariant,huntsman,20.0
+cvc-capital-partners|j-sainsbury|2007,2007.0,2000.0,CVC Capital Partners,J Sainsbury plc,cvc capital partners,j sainsbury,20.0
+alimentation-couche-tard|carrefour|2021,2021.0,2020.0,Alimentation Couche-Tard,Carrefour,alimentation couche tard,carrefour,20.0
+kkr|tim-group-fixed-line-network|2023,2023.0,2020.0,KKR,TIM Group (Fixed Line Network),kkr,tim group fixed line network,20.0
+adobe|figma|2022,2022.0,2020.0,Adobe,Figma,adobe,figma,20.0
+the-blackstone|thomson-reuters-financial-and-risk-unit|2018,2018.0,2010.0,The Blackstone Group,Thomson Reuters (Financial & Risk Unit),the blackstone,thomson reuters financial and risk unit,20.0
+blackstone-inc-global-infrastructure-partners|kansas-city-southern|2020,2020.0,2020.0,Blackstone Inc Global Infrastructure Partners,Kansas City Southern,blackstone inc global infrastructure partners,kansas city southern,20.0
+sacam-mutualisation|cr-dit-agricole-39-regional-operators|2016,2016.0,2010.0,SACAM Mutualisation,Crédit Agricole (39 Regional Operators),sacam mutualisation,cr dit agricole 39 regional operators,20.0
+energy-transfer-partners|sunoco-logistics-partners|2016,2016.0,2010.0,Energy Transfer Partners,Sunoco Logistics Partners,energy transfer partners,sunoco logistics partners,20.0
+cvc-capital-partners|toshiba|2021,2021.0,2020.0,CVC Capital Partners,Toshiba,cvc capital partners,toshiba,20.0
+time|warner-communications|1989,1989.0,1980.0,Time Inc.,Warner Communications,time,warner communications,15.2
+standard-oil-of-california|gulf-oil|1984,1984.0,1980.0,Standard Oil of California,Gulf Oil,standard oil of california,gulf oil,13.2
+philip-morris|kraft-foods|1988,1988.0,1980.0,Philip Morris,Kraft Foods,philip morris,kraft foods,13.1
+bristol-myers|squibb|1989,1989.0,1980.0,Bristol Myers,Squibb,bristol myers,squibb,12.0
+texaco|getty-oil|1984,1984.0,1980.0,Texaco,Getty Oil,texaco,getty oil,10.1
+beecham|smithkline-beckman|1989,1989.0,1980.0,Beecham Group,SmithKline Beckman,beecham,smithkline beckman,7.9
+bp|standard-oil-of-ohio|1987,1987.0,1980.0,BP,Standard Oil of Ohio,bp,standard oil of ohio,7.8
+e-i-du-pont-de-nemours-and|conoco|1981,1981.0,1980.0,E. I. du Pont de Nemours and Company,Conoco,e i du pont de nemours and,conoco,7.3
+campeau|federated-department-stores|1988,1988.0,1980.0,Campeau Corporation,Federated Department Stores,campeau,federated department stores,6.6
+general-electric|rca|1985,1985.0,1980.0,General Electric,RCA,general electric,rca,6.3
+kohlberg-kravis-roberts|beatrice-companies|1985,1985.0,1980.0,Kohlberg Kravis Roberts,Beatrice Companies,kohlberg kravis roberts,beatrice companies,6.0
+united-states-steel|marathon-oil|1982,1982.0,1980.0,United States Steel Corp.,Marathon Oil,united states steel,marathon oil,6.0
+dome-mines|placer-development-campbell-red-lake-mines|1987,1987.0,1980.0,Dome Mines,Placer Development Campbell Red Lake Mines,dome mines,placer development campbell red lake mines,5.8
+philip-morris-companies|general-foods|1985,1985.0,1980.0,Philip Morris Companies,General Foods,philip morris companies,general foods,5.8
+grand-metropolitan|pillsbury|1988,1988.0,1980.0,Grand Metropolitan,Pillsbury Company,grand metropolitan,pillsbury,5.7
+dow-chemical|marion-laboratories|1989,1989.0,1980.0,Dow Chemical Company,Marion Laboratories,dow chemical,marion laboratories,5.7
+mobil|superior-oil|1984,1984.0,1980.0,Mobil,Superior Oil Company,mobil,superior oil,5.7
+royal-dutch-shell|shell-oil|1984,1984.0,1980.0,Royal Dutch/Shell Group,Shell Oil Company,royal dutch shell,shell oil,5.5
+hanson|consolidated-gold-fields|1989,1989.0,1980.0,Hanson plc,Consolidated Gold Fields,hanson,consolidated gold fields,5.5
+general-motors|hughes-aircraft|1985,1985.0,1980.0,General Motors,Hughes Aircraft Company,general motors,hughes aircraft,5.2
+british-american-tobacco-batus-inc|farmers-insurance|1988,1988.0,1980.0,British American Tobacco ( Batus Inc. ),Farmers Insurance Group,british american tobacco batus inc,farmers insurance,5.2
+john-philp-thompson-sr|southland|1987,1987.0,1980.0,John Philp Thompson Sr.,Southland Corporation,john philp thompson sr,southland,5.1
+eastman-kodak|sterling-drug|1988,1988.0,1980.0,Eastman Kodak,Sterling Drug,eastman kodak,sterling drug,5.1
+thomas-f-frist-jr-richard-rainwater|hca-healthcare|1988,1988.0,1980.0,Thomas F. Frist Jr. Richard Rainwater,HCA Healthcare,thomas f frist jr richard rainwater,hca healthcare,5.1
+elf-aquitaine|texasgulf|1981,1981.0,1980.0,Elf Aquitaine,Texasgulf Inc.,elf aquitaine,texasgulf,5.0
+r-j-reynolds-industries|nabisco-brands|1985,1985.0,1980.0,R.J. Reynolds Industries,Nabisco Brands,r j reynolds industries,nabisco brands,4.9
+sony|columbia-pictures|1989,1989.0,1980.0,Sony,Columbia Pictures,sony,columbia pictures,4.8
+burroughs|sperry|1986,1986.0,1980.0,Burroughs Corporation,Sperry Corporation,burroughs,sperry,4.8
+atlantic-richfield|sinclair-oil|1969,1969.0,1960.0,Atlantic Richfield,Sinclair Oil Corporation,atlantic richfield,sinclair oil,3.7
+shell-oil|belridge-oil|1979,1979.0,1970.0,Shell Oil Company,Belridge Oil Company,shell oil,belridge oil,3.65
+general-electric|utah-international|1976,1976.0,1970.0,General Electric,Utah International,general electric,utah international,2.17
+general-telephone|sylvania-electric-products|1959,1959.0,1950.0,General Telephone,Sylvania Electric Products,general telephone,sylvania electric products,1.8
+union-oil|pure-oil|1965,1965.0,1960.0,Union Oil,Pure Oil,union oil,pure oil,1.5
+rca|cit-financial|1979,1979.0,1970.0,RCA,CIT Financial,rca,cit financial,1.3
+consolidated-edison|brooklyn-edison-company-new-york-and-queens-light-and-power|1945,1945.0,1940.0,Consolidated Edison,Brooklyn Edison Company New York and Queens Light and Power Company,consolidated edison,brooklyn edison company new york and queens light and power,1.2
+exxon|reliance-electric|1979,1979.0,1970.0,Exxon,Reliance Electric,exxon,reliance electric,1.2
+united-technologies|carrier|1978,1978.0,1970.0,United Technologies,Carrier Corporation,united technologies,carrier,1.0
+consolidated-gas-company-of-new-york|brooklyn-edison|1928,1928.0,1920.0,Consolidated Gas Company of New York,Brooklyn Edison Company,consolidated gas company of new york,brooklyn edison,1.0
+hunt-wesson|canada-dry-mccall|1968,1968.0,1960.0,Hunt-Wesson,Canada Dry McCall Corporation,hunt wesson,canada dry mccall,1.0
+xerox|scientific-data-systems|1969,1969.0,1960.0,Xerox Corporation,Scientific Data Systems,xerox,scientific data systems,0.925
+rockwell-standard|north-american-aviation|1967,1967.0,1960.0,Rockwell-Standard,North American Aviation,rockwell standard,north american aviation,0.922
+armco|national-supply|1957,1957.0,1950.0,Armco,National Supply Company,armco,national supply,0.768
+mobil|general-crude-oil|1979,1979.0,1970.0,Mobil,General Crude Oil,mobil,general crude oil,0.765
+sun-oil|sunray-dx-oil|1968,1968.0,1960.0,Sun Oil,Sunray DX Oil Company,sun oil,sunray dx oil,0.763
+atlantic-richfield|anaconda-copper|1976,1976.0,1970.0,Atlantic Richfield,Anaconda Copper,atlantic richfield,anaconda copper,0.76
+american-can|marathon|1957,1957.0,1950.0,American Can Company,Marathon Corporation,american can,marathon,0.717
+niagara-and-eastern-power|mohawkhudson-power-corporation-northeastern-power|1929,1929.0,1920.0,Niagara and Eastern Power Corporation,MohawkHudson Power Corporation Northeastern Power Corporation,niagara and eastern power,mohawkhudson power corporation northeastern power,0.665
+pacific-gas-and-electric|great-western-power-company-san-joaquin-light-and-power-corporation-midland-counties-public-service|1930,1930.0,1930.0,Pacific Gas and Electric Company,Great Western Power Company San Joaquin Light and Power Corporation Midland Counties Public Service Corporation,pacific gas and electric,great western power company san joaquin light and power corporation midland counties public service,0.65
+r-j-reynolds-industries|del-monte|1978,1978.0,1970.0,R. J. Reynolds Industries,Del Monte Corporation,r j reynolds industries,del monte,0.62
+continental-oil|consolidation-coal|1965,1965.0,1960.0,Continental Oil Company,Consolidation Coal,continental oil,consolidation coal,0.62
+american-marietta|glenn-l-martin|1961,1961.0,1960.0,American-Marietta Corporation,Glenn L. Martin Company,american marietta,glenn l martin,0.6
+johns-manville|olinkraft|1978,1978.0,1970.0,Johns Manville,Olinkraft Inc,johns manville,olinkraft,0.585
+control-data|commercial-credit|1968,1968.0,1960.0,Control Data Corporation,Commercial Credit Company,control data,commercial credit,0.582
+kennecott-copper|carborundum|1977,1977.0,1970.0,Kennecott Copper,Carborundum Corporation,kennecott copper,carborundum,0.567
+monsanto|lion-oil|1955,1955.0,1950.0,Monsanto,Lion Oil,monsanto,lion oil,0.55
+studebaker|worthington|1967,1967.0,1960.0,Studebaker Corporation,Worthington Corporation,studebaker,worthington,0.55
+continental-can|robert-gair|1956,1956.0,1950.0,Continental Can Company,Robert Gair Company,continental can,robert gair,0.549
+sinclair-consolidated-oil|prairie-oil-and-gas-prairie-pipe-line|1932,1932.0,1930.0,Sinclair Consolidated Oil Corporation,Prairie Oil and Gas Prairie Pipe Line Company,sinclair consolidated oil,prairie oil and gas prairie pipe line,0.542
+united-light-and-power|american-light-and-traction|1928,1928.0,1920.0,United Light and Power Company,American Light and Traction,united light and power,american light and traction,0.522
+philip-morris|seven-up-bottling|1978,1978.0,1970.0,Philip Morris,Seven-Up Bottling Co,philip morris,seven up bottling,0.52
+olin-industries|mathieson-chemical|1954,1954.0,1950.0,Olin Industries,Mathieson Chemical,olin industries,mathieson chemical,0.5
+hodenpyl-and-hardy|stevens-and-wood|1928,1928.0,1920.0,Hodenpyl & Hardy,Stevens & Wood,hodenpyl and hardy,stevens and wood,0.5
+central-new-york-power|new-york-power-and-light-corporation-buffalo-niagara-electric|1948,1948.0,1940.0,Central New York Power Corporation,New York Power and Light Corporation Buffalo Niagara Electric Corporation,central new york power,new york power and light corporation buffalo niagara electric,0.5
+carnegie-steel|federal-steel-company-national-steel|1901,1901.0,1900.0,Carnegie Steel Company,Federal Steel Company National Steel Company,carnegie steel,federal steel company national steel,0.492
+beatrice-foods|tropicana-products|1978,1978.0,1970.0,Beatrice Foods,Tropicana Products,beatrice foods,tropicana products,0.488
+sunray-oil|mid-continent-petroleum|1955,1955.0,1950.0,Sunray Oil Corporation,Mid-Continent Petroleum Corporation,sunray oil,mid continent petroleum,0.486
+unilever|national-starch-and-chemical|1977,1977.0,1970.0,Unilever,National Starch and Chemical,unilever,national starch and chemical,0.485
+burmah-oil|signal-oil-and-gas|1974,1974.0,1970.0,Burmah Oil,Signal Oil & Gas,burmah oil,signal oil and gas,0.48
+sperry|remington-rand|1955,1955.0,1950.0,Sperry Corporation,Remington Rand,sperry,remington rand,0.466
+american-brands|franklin-life-insurance|1979,1979.0,1970.0,American Brands,Franklin Life Insurance,american brands,franklin life insurance,0.465
+gulf-oil|warren-petroleum|1953,1953.0,1950.0,Gulf Oil,Warren Petroleum Corporation,gulf oil,warren petroleum,0.42
+middle-west-utilities|national-electric-power-national-public-service-new-england-public-service-inland-power-and-light|1928,1928.0,1920.0,Middle West Utilities,National Electric Power National Public Service New England Public Service Inland Power and Light,middle west utilities,national electric power national public service new england public service inland power and light,0.4
+hudson-motor-car|nash-kelvinator|1954,1954.0,1950.0,Hudson Motor Car Company,Nash-Kelvinator,hudson motor car,nash kelvinator,0.355
+republic-steel|corrigan-mckinney-steel|1934,1934.0,1930.0,Republic Steel,Corrigan-McKinney Steel Corporation,republic steel,corrigan mckinney steel,0.323
+new-york-new-haven-and-hartford-railroad|boston-and-maine|1907,1907.0,1900.0,"New York, New Haven and Hartford Railroad Company",Boston and Maine Corporation,new york new haven and hartford railroad,boston and maine,0.31
+interborough-rapid-transit|metropolitan-street-railway|1909,1909.0,1900.0,Interborough Rapid Transit Company,Metropolitan Street Railway,interborough rapid transit,metropolitan street railway,0.222
+pittsburgh-coal|consolidation-coal|1945,1945.0,1940.0,Pittsburgh Coal Company,Consolidation Coal Company,pittsburgh coal,consolidation coal,0.16
+long-island-lighting|queens-borough-gas-and-electric-company-nassau-and-suffolk-lighting|1948,1948.0,1940.0,Long Island Lighting Company,Queens Borough Gas and Electric Company Nassau & Suffolk Lighting Company,long island lighting,queens borough gas and electric company nassau and suffolk lighting,0.14
+,,,American Spirits Manufacturing Company,Kentucky Distilleries and Warehouse Company Spirits Distributing Company,american spirits manufacturing,kentucky distilleries and warehouse company spirits distributing,0.125
+midvale-steel|remington-arms-company-worth-brothers|1915,1915.0,1910.0,Midvale Steel Company,Remington Arms Company Worth Brothers Company,midvale steel,remington arms company worth brothers,0.1
+celanese|celluoid|1941,1941.0,1940.0,Celanese Corporation,Celluoid Corporation,celanese,celluoid,0.096
+bethlehem-steel|pittsburgh-steel|1931,1931.0,1930.0,Bethlehem Steel,Pittsburgh Steel Company,bethlehem steel,pittsburgh steel,0.08
+united-dry-goods|associated-merchants|1915,1915.0,1910.0,United Dry Goods,Associated Merchants Company,united dry goods,associated merchants,0.05
+general-motors|united-motors|1918,1918.0,1910.0,General Motors,United Motors Company,general motors,united motors,0.045
+studebaker|white-motor|1932,1932.0,1930.0,Studebaker Corporation,White Motor Company,studebaker,white motor,0.026

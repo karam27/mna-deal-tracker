@@ -1,26 +1,26 @@
 filing_date,company,form,event_type,url
-2026-10-20,Umbrella Energy Co.,S-4,Merger registration,https://www.sec.gov/Archives/edgar/data/1000004/000100000426000008/doc0.htm
-2026-10-18,Umbrella Energy Co.,8-K,Acquisition completed (8-K 2.01),https://www.sec.gov/Archives/edgar/data/1000004/000100000426000044/doc3.htm
-2026-10-15,Initech Systems Corp.,425,Merger communication,https://www.sec.gov/Archives/edgar/data/1000003/000100000326000112/doc1.htm
-2026-10-14,Acme Holdings Inc.,8-K,Acquisition completed (8-K 2.01),https://www.sec.gov/Archives/edgar/data/1000001/000100000126000113/doc1.htm
-2026-10-06,Globex Corporation,DEFM14A,Definitive merger proxy,https://www.sec.gov/Archives/edgar/data/1000002/000100000226000014/doc1.htm
-2026-09-27,Initech Systems Corp.,8-K,Acquisition completed (8-K 2.01),https://www.sec.gov/Archives/edgar/data/1000003/000100000326000092/doc5.htm
-2026-09-25,Umbrella Energy Co.,S-4/A,Merger registration (amended),https://www.sec.gov/Archives/edgar/data/1000004/000100000426000126/doc4.htm
-2026-09-23,Initech Systems Corp.,425,Merger communication,https://www.sec.gov/Archives/edgar/data/1000003/000100000326000040/doc6.htm
-2026-09-01,Acme Holdings Inc.,DEFM14A,Definitive merger proxy,https://www.sec.gov/Archives/edgar/data/1000001/000100000126000089/doc7.htm
-2026-08-25,Umbrella Energy Co.,S-4,Merger registration,https://www.sec.gov/Archives/edgar/data/1000004/000100000426000089/doc9.htm
-2026-08-23,Umbrella Energy Co.,SC 14D9,Tender offer (target response),https://www.sec.gov/Archives/edgar/data/1000004/000100000426000076/doc10.htm
-2026-08-21,Globex Corporation,SC 14D9,Tender offer (target response),https://www.sec.gov/Archives/edgar/data/1000002/000100000226000090/doc9.htm
-2026-08-03,Globex Corporation,425,Merger communication,https://www.sec.gov/Archives/edgar/data/1000002/000100000226000080/doc12.htm
-2026-07-23,Umbrella Energy Co.,425,Merger communication,https://www.sec.gov/Archives/edgar/data/1000004/000100000426000029/doc17.htm
-2026-07-09,Initech Systems Corp.,425,Merger communication,https://www.sec.gov/Archives/edgar/data/1000003/000100000326000084/doc17.htm
-2026-06-26,Umbrella Energy Co.,SC 14D9,Tender offer (target response),https://www.sec.gov/Archives/edgar/data/1000004/000100000426000104/doc23.htm
-2026-06-24,Globex Corporation,425,Merger communication,https://www.sec.gov/Archives/edgar/data/1000002/000100000226000065/doc17.htm
-2026-05-26,Umbrella Energy Co.,8-K,Acquisition completed (8-K 2.01),https://www.sec.gov/Archives/edgar/data/1000004/000100000426000071/doc24.htm
-2026-05-03,Initech Systems Corp.,SC TO-T,Tender offer (bidder),https://www.sec.gov/Archives/edgar/data/1000003/000100000326000023/doc25.htm
-2026-04-27,Acme Holdings Inc.,425,Merger communication,https://www.sec.gov/Archives/edgar/data/1000001/000100000126000012/doc18.htm
-2026-04-27,Initech Systems Corp.,S-4,Merger registration,https://www.sec.gov/Archives/edgar/data/1000003/000100000326000071/doc26.htm
-2026-04-27,Globex Corporation,S-4/A,Merger registration (amended),https://www.sec.gov/Archives/edgar/data/1000002/000100000226000031/doc26.htm
-2026-04-21,Acme Holdings Inc.,425,Merger communication,https://www.sec.gov/Archives/edgar/data/1000001/000100000126000003/doc19.htm
-2026-04-20,Initech Systems Corp.,SC TO-T,Tender offer (bidder),https://www.sec.gov/Archives/edgar/data/1000003/000100000326000126/doc27.htm
-2026-04-12,Umbrella Energy Co.,SC TO-T,Tender offer (bidder),https://www.sec.gov/Archives/edgar/data/1000004/000100000426000021/doc29.htm
+2026-09-10,Broadcom Inc.,S-4,Merger registration,https://www.sec.gov/Archives/edgar/data/1730168/000119312526387881/d154803ds4.htm
+2026-08-14,AMAZON COM INC,S-4/A,Merger registration (amended),https://www.sec.gov/Archives/edgar/data/1018724/000110465926096195/tm2617924-3_s4a.htm
+2026-07-31,AMAZON COM INC,S-4,Merger registration,https://www.sec.gov/Archives/edgar/data/1018724/000110465926089294/tm2617924-1_s4.htm
+2026-06-09,Broadcom Inc.,S-4,Merger registration,https://www.sec.gov/Archives/edgar/data/1730168/000119312526263125/d227941ds4.htm
+2026-06-09,Broadcom Inc.,S-4,Merger registration,https://www.sec.gov/Archives/edgar/data/1730168/000119312526263128/d227938ds4.htm
+2026-05-05,"Merck & Co., Inc.",SC TO-T/A,"Tender offer (bidder, amended)",https://www.sec.gov/Archives/edgar/data/310158/000119312526205232/d81127dsctota.htm
+2026-04-24,"Merck & Co., Inc.",SC TO-T/A,"Tender offer (bidder, amended)",https://www.sec.gov/Archives/edgar/data/310158/000119312526174972/d114406dsctota.htm
+2026-04-14,AMAZON COM INC,425,Merger communication,https://www.sec.gov/Archives/edgar/data/1018724/000110465926042891/tm2611746d2_425.htm
+2026-04-07,"Merck & Co., Inc.",SC TO-T,Tender offer (bidder),https://www.sec.gov/Archives/edgar/data/310158/000119312526144514/d43298dsctot.htm
+2026-01-07,"Merck & Co., Inc.",SC TO-T/A,"Tender offer (bidder, amended)",https://www.sec.gov/Archives/edgar/data/310158/000119312526005513/d55695dsctota.htm
+2025-12-19,"Merck & Co., Inc.",SC TO-T/A,"Tender offer (bidder, amended)",https://www.sec.gov/Archives/edgar/data/310158/000119312525326810/d31841dsctota.htm
+2025-12-17,"Merck & Co., Inc.",SC TO-T/A,"Tender offer (bidder, amended)",https://www.sec.gov/Archives/edgar/data/310158/000119312525322941/d87372dsctota.htm
+2025-12-05,"Merck & Co., Inc.",SC TO-T,Tender offer (bidder),https://www.sec.gov/Archives/edgar/data/310158/000119312525309877/d78449dsctot.htm
+2025-09-10,Broadcom Inc.,S-4,Merger registration,https://www.sec.gov/Archives/edgar/data/1730168/000119312525200194/d89431ds4.htm
+2025-09-10,Broadcom Inc.,S-4,Merger registration,https://www.sec.gov/Archives/edgar/data/1730168/000119312525200188/d89314ds4.htm
+2025-05-19,CAPITAL ONE FINANCIAL CORP,8-K,Acquisition completed (8-K 2.01),https://www.sec.gov/Archives/edgar/data/927628/000119312525122059/d934475d8k.htm
+2025-05-13,BRISTOL MYERS SQUIBB CO,SC TO-T/A,"Tender offer (bidder, amended)",https://www.sec.gov/Archives/edgar/data/14272/000114036125018510/ny20045431x7_sctota.htm
+2025-05-08,CONOCOPHILLIPS,S-4,Merger registration,https://www.sec.gov/Archives/edgar/data/1163165/000110465925046132/tm2513977-1_s4.htm
+2025-05-06,BRISTOL MYERS SQUIBB CO,SC TO-T/A,"Tender offer (bidder, amended)",https://www.sec.gov/Archives/edgar/data/14272/000114036125017439/ny20045431x6_sctota.htm
+2025-05-05,BRISTOL MYERS SQUIBB CO,SC TO-T/A,"Tender offer (bidder, amended)",https://www.sec.gov/Archives/edgar/data/14272/000114036125017234/ny20045431x5_sctota.htm
+2025-04-23,BRISTOL MYERS SQUIBB CO,SC TO-T/A,"Tender offer (bidder, amended)",https://www.sec.gov/Archives/edgar/data/14272/000114036125014959/ny20045431x4_sctota.htm
+2025-04-17,BRISTOL MYERS SQUIBB CO,SC TO-T/A,"Tender offer (bidder, amended)",https://www.sec.gov/Archives/edgar/data/14272/000114036125014416/ny20045431x3_sctota.htm
+2025-04-14,BRISTOL MYERS SQUIBB CO,SC TO-T,Tender offer (bidder),https://www.sec.gov/Archives/edgar/data/14272/000114036125013626/ny20045431x2_sctot.htm
+2025-02-10,CAPITAL ONE FINANCIAL CORP,425,Merger communication,https://www.sec.gov/Archives/edgar/data/927628/000119312525023101/d920511d425.htm
+2025-01-24,CAPITAL ONE FINANCIAL CORP,425,Merger communication,https://www.sec.gov/Archives/edgar/data/927628/000119312525011795/d918322d425.htm

@@ -1,100 +1,374 @@
 accession,cik,company_key,form,event_type,items,filing_date,filing_month,report_date,description,url
-0001000004-26-000008,1000004,umbrella energy,S-4,Merger registration,,2026-10-20,2026-10,,S-4,https://www.sec.gov/Archives/edgar/data/1000004/000100000426000008/doc0.htm
-0001000004-26-000044,1000004,umbrella energy,8-K,Acquisition completed (8-K 2.01),"2.01,9.01",2026-10-18,2026-10,,8-K,https://www.sec.gov/Archives/edgar/data/1000004/000100000426000044/doc3.htm
-0001000003-26-000112,1000003,initech systems,425,Merger communication,,2026-10-15,2026-10,,425,https://www.sec.gov/Archives/edgar/data/1000003/000100000326000112/doc1.htm
-0001000001-26-000113,1000001,acme,8-K,Acquisition completed (8-K 2.01),"2.01,9.01",2026-10-14,2026-10,,8-K,https://www.sec.gov/Archives/edgar/data/1000001/000100000126000113/doc1.htm
-0001000002-26-000014,1000002,globex,DEFM14A,Definitive merger proxy,,2026-10-06,2026-10,,DEFM14A,https://www.sec.gov/Archives/edgar/data/1000002/000100000226000014/doc1.htm
-0001000003-26-000092,1000003,initech systems,8-K,Acquisition completed (8-K 2.01),"2.01,9.01",2026-09-27,2026-09,,8-K,https://www.sec.gov/Archives/edgar/data/1000003/000100000326000092/doc5.htm
-0001000004-26-000126,1000004,umbrella energy,S-4/A,Merger registration (amended),,2026-09-25,2026-09,,S-4/A,https://www.sec.gov/Archives/edgar/data/1000004/000100000426000126/doc4.htm
-0001000003-26-000040,1000003,initech systems,425,Merger communication,,2026-09-23,2026-09,,425,https://www.sec.gov/Archives/edgar/data/1000003/000100000326000040/doc6.htm
-0001000001-26-000089,1000001,acme,DEFM14A,Definitive merger proxy,,2026-09-01,2026-09,,DEFM14A,https://www.sec.gov/Archives/edgar/data/1000001/000100000126000089/doc7.htm
-0001000004-26-000089,1000004,umbrella energy,S-4,Merger registration,,2026-08-25,2026-08,,S-4,https://www.sec.gov/Archives/edgar/data/1000004/000100000426000089/doc9.htm
-0001000004-26-000076,1000004,umbrella energy,SC 14D9,Tender offer (target response),,2026-08-23,2026-08,,SC 14D9,https://www.sec.gov/Archives/edgar/data/1000004/000100000426000076/doc10.htm
-0001000002-26-000090,1000002,globex,SC 14D9,Tender offer (target response),,2026-08-21,2026-08,,SC 14D9,https://www.sec.gov/Archives/edgar/data/1000002/000100000226000090/doc9.htm
-0001000002-26-000080,1000002,globex,425,Merger communication,,2026-08-03,2026-08,,425,https://www.sec.gov/Archives/edgar/data/1000002/000100000226000080/doc12.htm
-0001000004-26-000029,1000004,umbrella energy,425,Merger communication,,2026-07-23,2026-07,,425,https://www.sec.gov/Archives/edgar/data/1000004/000100000426000029/doc17.htm
-0001000003-26-000084,1000003,initech systems,425,Merger communication,,2026-07-09,2026-07,,425,https://www.sec.gov/Archives/edgar/data/1000003/000100000326000084/doc17.htm
-0001000004-26-000104,1000004,umbrella energy,SC 14D9,Tender offer (target response),,2026-06-26,2026-06,,SC 14D9,https://www.sec.gov/Archives/edgar/data/1000004/000100000426000104/doc23.htm
-0001000002-26-000065,1000002,globex,425,Merger communication,,2026-06-24,2026-06,,425,https://www.sec.gov/Archives/edgar/data/1000002/000100000226000065/doc17.htm
-0001000004-26-000071,1000004,umbrella energy,8-K,Acquisition completed (8-K 2.01),"2.01,9.01",2026-05-26,2026-05,,8-K,https://www.sec.gov/Archives/edgar/data/1000004/000100000426000071/doc24.htm
-0001000003-26-000023,1000003,initech systems,SC TO-T,Tender offer (bidder),,2026-05-03,2026-05,,SC TO-T,https://www.sec.gov/Archives/edgar/data/1000003/000100000326000023/doc25.htm
-0001000002-26-000031,1000002,globex,S-4/A,Merger registration (amended),,2026-04-27,2026-04,,S-4/A,https://www.sec.gov/Archives/edgar/data/1000002/000100000226000031/doc26.htm
-0001000003-26-000071,1000003,initech systems,S-4,Merger registration,,2026-04-27,2026-04,,S-4,https://www.sec.gov/Archives/edgar/data/1000003/000100000326000071/doc26.htm
-0001000001-26-000012,1000001,acme,425,Merger communication,,2026-04-27,2026-04,,425,https://www.sec.gov/Archives/edgar/data/1000001/000100000126000012/doc18.htm
-0001000001-26-000003,1000001,acme,425,Merger communication,,2026-04-21,2026-04,,425,https://www.sec.gov/Archives/edgar/data/1000001/000100000126000003/doc19.htm
-0001000003-26-000126,1000003,initech systems,SC TO-T,Tender offer (bidder),,2026-04-20,2026-04,,SC TO-T,https://www.sec.gov/Archives/edgar/data/1000003/000100000326000126/doc27.htm
-0001000004-26-000021,1000004,umbrella energy,SC TO-T,Tender offer (bidder),,2026-04-12,2026-04,,SC TO-T,https://www.sec.gov/Archives/edgar/data/1000004/000100000426000021/doc29.htm
-0001000002-26-000024,1000002,globex,8-K,Acquisition completed (8-K 2.01),"2.01,9.01",2026-04-01,2026-04,,8-K,https://www.sec.gov/Archives/edgar/data/1000002/000100000226000024/doc30.htm
-0001000003-26-000072,1000003,initech systems,SC 14D9,Tender offer (target response),,2026-03-29,2026-03,,SC 14D9,https://www.sec.gov/Archives/edgar/data/1000003/000100000326000072/doc32.htm
-0001000002-26-000045,1000002,globex,S-4,Merger registration,,2026-02-22,2026-02,,S-4,https://www.sec.gov/Archives/edgar/data/1000002/000100000226000045/doc35.htm
-0001000004-26-000053,1000004,umbrella energy,8-K,Acquisition completed (8-K 2.01),"2.01,9.01",2026-02-07,2026-02,,8-K,https://www.sec.gov/Archives/edgar/data/1000004/000100000426000053/doc34.htm
-0001000003-26-000063,1000003,initech systems,DEFM14A,Definitive merger proxy,,2026-01-12,2026-01,,DEFM14A,https://www.sec.gov/Archives/edgar/data/1000003/000100000326000063/doc39.htm
-0001000001-25-000122,1000001,acme,425,Merger communication,,2025-12-08,2025-12,,425,https://www.sec.gov/Archives/edgar/data/1000001/000100000125000122/doc38.htm
-0001000003-25-000135,1000003,initech systems,8-K,Acquisition completed (8-K 2.01),"2.01,9.01",2025-11-29,2025-11,,8-K,https://www.sec.gov/Archives/edgar/data/1000003/000100000325000135/doc45.htm
-0001000003-25-000059,1000003,initech systems,S-4/A,Merger registration (amended),,2025-11-05,2025-11,,S-4/A,https://www.sec.gov/Archives/edgar/data/1000003/000100000325000059/doc51.htm
-0001000001-25-000060,1000001,acme,425,Merger communication,,2025-10-25,2025-10,,425,https://www.sec.gov/Archives/edgar/data/1000001/000100000125000060/doc41.htm
-0001000001-25-000014,1000001,acme,SC TO-T,Tender offer (bidder),,2025-10-08,2025-10,,SC TO-T,https://www.sec.gov/Archives/edgar/data/1000001/000100000125000014/doc43.htm
-0001000003-25-000102,1000003,initech systems,425,Merger communication,,2025-09-29,2025-09,,425,https://www.sec.gov/Archives/edgar/data/1000003/000100000325000102/doc58.htm
-0001000003-25-000096,1000003,initech systems,SC TO-T,Tender offer (bidder),,2025-09-24,2025-09,,SC TO-T,https://www.sec.gov/Archives/edgar/data/1000003/000100000325000096/doc59.htm
-0001000001-25-000016,1000001,acme,S-4,Merger registration,,2025-08-14,2025-08,,S-4,https://www.sec.gov/Archives/edgar/data/1000001/000100000125000016/doc55.htm
-0001000001-25-000026,1000001,acme,SC TO-T,Tender offer (bidder),,2025-08-08,2025-08,,SC TO-T,https://www.sec.gov/Archives/edgar/data/1000001/000100000125000026/doc57.htm
-0001000002-25-000105,1000002,globex,8-K,Acquisition completed (8-K 2.01),"2.01,9.01",2025-07-22,2025-07,,8-K,https://www.sec.gov/Archives/edgar/data/1000002/000100000225000105/doc56.htm
-0001000001-25-000131,1000001,acme,425,Merger communication,,2025-06-30,2025-06,,425,https://www.sec.gov/Archives/edgar/data/1000001/000100000125000131/doc65.htm
-0001000002-25-000063,1000002,globex,425,Merger communication,,2025-06-28,2025-06,,425,https://www.sec.gov/Archives/edgar/data/1000002/000100000225000063/doc61.htm
-0001000004-25-000060,1000004,umbrella energy,SC TO-T,Tender offer (bidder),,2025-06-26,2025-06,,SC TO-T,https://www.sec.gov/Archives/edgar/data/1000004/000100000425000060/doc57.htm
-0001000004-25-000085,1000004,umbrella energy,SC TO-T,Tender offer (bidder),,2025-06-25,2025-06,,SC TO-T,https://www.sec.gov/Archives/edgar/data/1000004/000100000425000085/doc58.htm
-0001000002-25-000108,1000002,globex,DEFM14A,Definitive merger proxy,,2025-06-14,2025-06,,DEFM14A,https://www.sec.gov/Archives/edgar/data/1000002/000100000225000108/doc62.htm
-0001000001-25-000032,1000001,acme,425,Merger communication,,2025-05-24,2025-05,,425,https://www.sec.gov/Archives/edgar/data/1000001/000100000125000032/doc68.htm
-0001000004-25-000120,1000004,umbrella energy,DEFM14A,Definitive merger proxy,,2025-05-23,2025-05,,DEFM14A,https://www.sec.gov/Archives/edgar/data/1000004/000100000425000120/doc60.htm
-0001000003-25-000018,1000003,initech systems,425,Merger communication,,2025-05-22,2025-05,,425,https://www.sec.gov/Archives/edgar/data/1000003/000100000325000018/doc71.htm
-0001000001-25-000081,1000001,acme,S-4,Merger registration,,2025-05-12,2025-05,,S-4,https://www.sec.gov/Archives/edgar/data/1000001/000100000125000081/doc70.htm
-0001000004-25-000036,1000004,umbrella energy,425,Merger communication,,2025-05-10,2025-05,,425,https://www.sec.gov/Archives/edgar/data/1000004/000100000425000036/doc65.htm
-0001000002-25-000013,1000002,globex,DEFM14A,Definitive merger proxy,,2025-05-10,2025-05,,DEFM14A,https://www.sec.gov/Archives/edgar/data/1000002/000100000225000013/doc67.htm
-0001000001-25-000094,1000001,acme,SC TO-T,Tender offer (bidder),,2025-05-09,2025-05,,SC TO-T,https://www.sec.gov/Archives/edgar/data/1000001/000100000125000094/doc72.htm
-0001000002-25-000059,1000002,globex,DEFM14A,Definitive merger proxy,,2025-04-30,2025-04,,DEFM14A,https://www.sec.gov/Archives/edgar/data/1000002/000100000225000059/doc71.htm
-0001000001-25-000034,1000001,acme,S-4,Merger registration,,2025-04-22,2025-04,,S-4,https://www.sec.gov/Archives/edgar/data/1000001/000100000125000034/doc76.htm
-0001000001-25-000091,1000001,acme,425,Merger communication,,2025-04-13,2025-04,,425,https://www.sec.gov/Archives/edgar/data/1000001/000100000125000091/doc77.htm
-0001000002-25-000022,1000002,globex,SC TO-T,Tender offer (bidder),,2025-03-21,2025-03,,SC TO-T,https://www.sec.gov/Archives/edgar/data/1000002/000100000225000022/doc78.htm
-0001000004-25-000022,1000004,umbrella energy,425,Merger communication,,2025-02-14,2025-02,,425,https://www.sec.gov/Archives/edgar/data/1000004/000100000425000022/doc75.htm
-0001000001-25-000070,1000001,acme,8-K,Acquisition completed (8-K 2.01),"2.01,9.01",2025-02-12,2025-02,,8-K,https://www.sec.gov/Archives/edgar/data/1000001/000100000125000070/doc85.htm
-0001000001-25-000092,1000001,acme,8-K,Acquisition completed (8-K 2.01),"2.01,9.01",2025-02-06,2025-02,,8-K,https://www.sec.gov/Archives/edgar/data/1000001/000100000125000092/doc89.htm
-0001000001-25-000085,1000001,acme,DEFM14A,Definitive merger proxy,,2025-01-14,2025-01,,DEFM14A,https://www.sec.gov/Archives/edgar/data/1000001/000100000125000085/doc90.htm
-0001000002-24-000017,1000002,globex,SC 14D9,Tender offer (target response),,2024-12-19,2024-12,,SC 14D9,https://www.sec.gov/Archives/edgar/data/1000002/000100000224000017/doc92.htm
-0001000004-24-000048,1000004,umbrella energy,425,Merger communication,,2024-12-17,2024-12,,425,https://www.sec.gov/Archives/edgar/data/1000004/000100000424000048/doc77.htm
-0001000002-24-000134,1000002,globex,425,Merger communication,,2024-12-14,2024-12,,425,https://www.sec.gov/Archives/edgar/data/1000002/000100000224000134/doc93.htm
-0001000001-24-000133,1000001,acme,SC TO-T,Tender offer (bidder),,2024-12-04,2024-12,,SC TO-T,https://www.sec.gov/Archives/edgar/data/1000001/000100000124000133/doc95.htm
-0001000001-24-000125,1000001,acme,SC 14D9,Tender offer (target response),,2024-11-02,2024-11,,SC 14D9,https://www.sec.gov/Archives/edgar/data/1000001/000100000124000125/doc99.htm
-0001000004-24-000014,1000004,umbrella energy,SC TO-T,Tender offer (bidder),,2024-10-20,2024-10,,SC TO-T,https://www.sec.gov/Archives/edgar/data/1000004/000100000424000014/doc84.htm
-0001000003-24-000110,1000003,initech systems,8-K,Acquisition completed (8-K 2.01),"2.01,9.01",2024-10-20,2024-10,,8-K,https://www.sec.gov/Archives/edgar/data/1000003/000100000324000110/doc97.htm
-0001000004-24-000051,1000004,umbrella energy,425,Merger communication,,2024-09-22,2024-09,,425,https://www.sec.gov/Archives/edgar/data/1000004/000100000424000051/doc89.htm
-0001000004-24-000098,1000004,umbrella energy,425,Merger communication,,2024-08-29,2024-08,,425,https://www.sec.gov/Archives/edgar/data/1000004/000100000424000098/doc98.htm
-0001000004-24-000080,1000004,umbrella energy,425,Merger communication,,2024-08-27,2024-08,,425,https://www.sec.gov/Archives/edgar/data/1000004/000100000424000080/doc99.htm
-0001000001-24-000134,1000001,acme,DEFM14A,Definitive merger proxy,,2024-08-17,2024-08,,DEFM14A,https://www.sec.gov/Archives/edgar/data/1000001/000100000124000134/doc106.htm
-0001000004-24-000091,1000004,umbrella energy,S-4/A,Merger registration (amended),,2024-08-17,2024-08,,S-4/A,https://www.sec.gov/Archives/edgar/data/1000004/000100000424000091/doc103.htm
-0001000002-24-000005,1000002,globex,S-4/A,Merger registration (amended),,2024-07-18,2024-07,,S-4/A,https://www.sec.gov/Archives/edgar/data/1000002/000100000224000005/doc107.htm
-0001000004-24-000129,1000004,umbrella energy,8-K,Acquisition completed (8-K 2.01),"2.01,9.01",2024-07-08,2024-07,,8-K,https://www.sec.gov/Archives/edgar/data/1000004/000100000424000129/doc113.htm
-0001000001-24-000065,1000001,acme,DEFM14A,Definitive merger proxy,,2024-06-22,2024-06,,DEFM14A,https://www.sec.gov/Archives/edgar/data/1000001/000100000124000065/doc114.htm
-0001000004-24-000038,1000004,umbrella energy,SC 14D9,Tender offer (target response),,2024-06-21,2024-06,,SC 14D9,https://www.sec.gov/Archives/edgar/data/1000004/000100000424000038/doc114.htm
-0001000002-24-000034,1000002,globex,425,Merger communication,,2024-06-09,2024-06,,425,https://www.sec.gov/Archives/edgar/data/1000002/000100000224000034/doc114.htm
-0001000002-24-000030,1000002,globex,DEFM14A,Definitive merger proxy,,2024-05-30,2024-05,,DEFM14A,https://www.sec.gov/Archives/edgar/data/1000002/000100000224000030/doc116.htm
-0001000004-24-000045,1000004,umbrella energy,425,Merger communication,,2024-05-23,2024-05,,425,https://www.sec.gov/Archives/edgar/data/1000004/000100000424000045/doc119.htm
-0001000003-24-000075,1000003,initech systems,SC TO-T,Tender offer (bidder),,2024-05-17,2024-05,,SC TO-T,https://www.sec.gov/Archives/edgar/data/1000003/000100000324000075/doc119.htm
-0001000003-24-000125,1000003,initech systems,S-4/A,Merger registration (amended),,2024-05-16,2024-05,,S-4/A,https://www.sec.gov/Archives/edgar/data/1000003/000100000324000125/doc121.htm
-0001000002-24-000052,1000002,globex,425,Merger communication,,2024-05-14,2024-05,,425,https://www.sec.gov/Archives/edgar/data/1000002/000100000224000052/doc118.htm
-0001000004-24-000119,1000004,umbrella energy,DEFM14A,Definitive merger proxy,,2024-04-22,2024-04,,DEFM14A,https://www.sec.gov/Archives/edgar/data/1000004/000100000424000119/doc123.htm
-0001000001-24-000025,1000001,acme,S-4,Merger registration,,2024-04-16,2024-04,,S-4,https://www.sec.gov/Archives/edgar/data/1000001/000100000124000025/doc124.htm
-0001000001-24-000028,1000001,acme,425,Merger communication,,2024-04-10,2024-04,,425,https://www.sec.gov/Archives/edgar/data/1000001/000100000124000028/doc127.htm
-0001000001-24-000010,1000001,acme,425,Merger communication,,2024-04-03,2024-04,,425,https://www.sec.gov/Archives/edgar/data/1000001/000100000124000010/doc129.htm
-0001000001-24-000008,1000001,acme,8-K,Acquisition completed (8-K 2.01),"2.01,9.01",2024-03-30,2024-03,,8-K,https://www.sec.gov/Archives/edgar/data/1000001/000100000124000008/doc130.htm
-0001000003-24-000056,1000003,initech systems,S-4,Merger registration,,2024-03-28,2024-03,,S-4,https://www.sec.gov/Archives/edgar/data/1000003/000100000324000056/doc126.htm
-0001000002-24-000129,1000002,globex,S-4/A,Merger registration (amended),,2024-03-27,2024-03,,S-4/A,https://www.sec.gov/Archives/edgar/data/1000002/000100000224000129/doc127.htm
-0001000001-24-000039,1000001,acme,425,Merger communication,,2024-03-25,2024-03,,425,https://www.sec.gov/Archives/edgar/data/1000001/000100000124000039/doc132.htm
-0001000003-24-000098,1000003,initech systems,S-4/A,Merger registration (amended),,2024-03-21,2024-03,,S-4/A,https://www.sec.gov/Archives/edgar/data/1000003/000100000324000098/doc127.htm
-0001000001-24-000050,1000001,acme,425,Merger communication,,2024-03-21,2024-03,,425,https://www.sec.gov/Archives/edgar/data/1000001/000100000124000050/doc134.htm
-0001000003-24-000121,1000003,initech systems,S-4,Merger registration,,2024-03-18,2024-03,,S-4,https://www.sec.gov/Archives/edgar/data/1000003/000100000324000121/doc128.htm
-0001000004-24-000007,1000004,umbrella energy,8-K,Acquisition completed (8-K 2.01),"2.01,9.01",2024-03-08,2024-03,,8-K,https://www.sec.gov/Archives/edgar/data/1000004/000100000424000007/doc131.htm
-0001000004-24-000123,1000004,umbrella energy,S-4/A,Merger registration (amended),,2024-02-28,2024-02,,S-4/A,https://www.sec.gov/Archives/edgar/data/1000004/000100000424000123/doc132.htm
-0001000003-24-000078,1000003,initech systems,SC TO-T,Tender offer (bidder),,2024-02-22,2024-02,,SC TO-T,https://www.sec.gov/Archives/edgar/data/1000003/000100000324000078/doc130.htm
-0001000004-24-000025,1000004,umbrella energy,8-K,Acquisition completed (8-K 2.01),"2.01,9.01",2024-02-21,2024-02,,8-K,https://www.sec.gov/Archives/edgar/data/1000004/000100000424000025/doc135.htm
-0001000001-24-000019,1000001,acme,425,Merger communication,,2024-02-18,2024-02,,425,https://www.sec.gov/Archives/edgar/data/1000001/000100000124000019/doc140.htm
-0001000003-24-000079,1000003,initech systems,SC TO-T,Tender offer (bidder),,2024-01-21,2024-01,,SC TO-T,https://www.sec.gov/Archives/edgar/data/1000003/000100000324000079/doc137.htm
+0001193125-26-387881,1730168,broadcom,S-4,Merger registration,,2026-09-10,2026-09,,S-4,https://www.sec.gov/Archives/edgar/data/1730168/000119312526387881/d154803ds4.htm
+0001104659-26-096195,1018724,amazon com,S-4/A,Merger registration (amended),,2026-08-14,2026-08,,S-4/A,https://www.sec.gov/Archives/edgar/data/1018724/000110465926096195/tm2617924-3_s4a.htm
+0001104659-26-089294,1018724,amazon com,S-4,Merger registration,,2026-07-31,2026-07,,S-4,https://www.sec.gov/Archives/edgar/data/1018724/000110465926089294/tm2617924-1_s4.htm
+0001193125-26-263128,1730168,broadcom,S-4,Merger registration,,2026-06-09,2026-06,,S-4,https://www.sec.gov/Archives/edgar/data/1730168/000119312526263128/d227938ds4.htm
+0001193125-26-263125,1730168,broadcom,S-4,Merger registration,,2026-06-09,2026-06,,S-4,https://www.sec.gov/Archives/edgar/data/1730168/000119312526263125/d227941ds4.htm
+0001193125-26-205232,310158,merck and,SC TO-T/A,"Tender offer (bidder, amended)",,2026-05-05,2026-05,,SC TO-T/A,https://www.sec.gov/Archives/edgar/data/310158/000119312526205232/d81127dsctota.htm
+0001193125-26-174972,310158,merck and,SC TO-T/A,"Tender offer (bidder, amended)",,2026-04-24,2026-04,,SC TO-T/A,https://www.sec.gov/Archives/edgar/data/310158/000119312526174972/d114406dsctota.htm
+0001104659-26-042891,1018724,amazon com,425,Merger communication,,2026-04-14,2026-04,,425,https://www.sec.gov/Archives/edgar/data/1018724/000110465926042891/tm2611746d2_425.htm
+0001193125-26-144514,310158,merck and,SC TO-T,Tender offer (bidder),,2026-04-07,2026-04,,SC TO-T,https://www.sec.gov/Archives/edgar/data/310158/000119312526144514/d43298dsctot.htm
+0001193125-26-005513,310158,merck and,SC TO-T/A,"Tender offer (bidder, amended)",,2026-01-07,2026-01,,SC TO-T/A,https://www.sec.gov/Archives/edgar/data/310158/000119312526005513/d55695dsctota.htm
+0001193125-25-326810,310158,merck and,SC TO-T/A,"Tender offer (bidder, amended)",,2025-12-19,2025-12,,SC TO-T/A,https://www.sec.gov/Archives/edgar/data/310158/000119312525326810/d31841dsctota.htm
+0001193125-25-322941,310158,merck and,SC TO-T/A,"Tender offer (bidder, amended)",,2025-12-17,2025-12,,SC TO-T/A,https://www.sec.gov/Archives/edgar/data/310158/000119312525322941/d87372dsctota.htm
+0001193125-25-309877,310158,merck and,SC TO-T,Tender offer (bidder),,2025-12-05,2025-12,,SC TO-T,https://www.sec.gov/Archives/edgar/data/310158/000119312525309877/d78449dsctot.htm
+0001193125-25-200188,1730168,broadcom,S-4,Merger registration,,2025-09-10,2025-09,,S-4,https://www.sec.gov/Archives/edgar/data/1730168/000119312525200188/d89314ds4.htm
+0001193125-25-200194,1730168,broadcom,S-4,Merger registration,,2025-09-10,2025-09,,S-4,https://www.sec.gov/Archives/edgar/data/1730168/000119312525200194/d89431ds4.htm
+0001193125-25-122059,927628,capital one financial,8-K,Acquisition completed (8-K 2.01),"2.01,2.03,3.03,5.02,5.03,8.01,9.01",2025-05-19,2025-05,2025-05-18,8-K,https://www.sec.gov/Archives/edgar/data/927628/000119312525122059/d934475d8k.htm
+0001140361-25-018510,14272,bristol myers squibb,SC TO-T/A,"Tender offer (bidder, amended)",,2025-05-13,2025-05,,SC TO-T/A,https://www.sec.gov/Archives/edgar/data/14272/000114036125018510/ny20045431x7_sctota.htm
+0001104659-25-046132,1163165,conocophillips,S-4,Merger registration,,2025-05-08,2025-05,,S-4,https://www.sec.gov/Archives/edgar/data/1163165/000110465925046132/tm2513977-1_s4.htm
+0001140361-25-017439,14272,bristol myers squibb,SC TO-T/A,"Tender offer (bidder, amended)",,2025-05-06,2025-05,,SC TO-T/A,https://www.sec.gov/Archives/edgar/data/14272/000114036125017439/ny20045431x6_sctota.htm
+0001140361-25-017234,14272,bristol myers squibb,SC TO-T/A,"Tender offer (bidder, amended)",,2025-05-05,2025-05,,SC TO-T/A,https://www.sec.gov/Archives/edgar/data/14272/000114036125017234/ny20045431x5_sctota.htm
+0001140361-25-014959,14272,bristol myers squibb,SC TO-T/A,"Tender offer (bidder, amended)",,2025-04-23,2025-04,,SC TO-T/A,https://www.sec.gov/Archives/edgar/data/14272/000114036125014959/ny20045431x4_sctota.htm
+0001140361-25-014416,14272,bristol myers squibb,SC TO-T/A,"Tender offer (bidder, amended)",,2025-04-17,2025-04,,SC-TO-T/A,https://www.sec.gov/Archives/edgar/data/14272/000114036125014416/ny20045431x3_sctota.htm
+0001140361-25-013626,14272,bristol myers squibb,SC TO-T,Tender offer (bidder),,2025-04-14,2025-04,,SC TO-T,https://www.sec.gov/Archives/edgar/data/14272/000114036125013626/ny20045431x2_sctot.htm
+0001193125-25-023101,927628,capital one financial,425,Merger communication,,2025-02-10,2025-02,,425,https://www.sec.gov/Archives/edgar/data/927628/000119312525023101/d920511d425.htm
+0001193125-25-011795,927628,capital one financial,425,Merger communication,,2025-01-24,2025-01,,425,https://www.sec.gov/Archives/edgar/data/927628/000119312525011795/d918322d425.htm
+0000927628-25-000011,927628,capital one financial,425,Merger communication,,2025-01-23,2025-01,,425,https://www.sec.gov/Archives/edgar/data/927628/000092762825000011/a425-01222025q4cofearnings.htm
+0001193125-25-001580,927628,capital one financial,S-4/A,Merger registration (amended),,2025-01-03,2025-01,,S-4/A,https://www.sec.gov/Archives/edgar/data/927628/000119312525001580/d743340ds4a.htm
+0001193125-24-284251,927628,capital one financial,S-4/A,Merger registration (amended),,2024-12-23,2024-12,,S-4/A,https://www.sec.gov/Archives/edgar/data/927628/000119312524284251/d743340ds4a.htm
+0000927628-24-000336,927628,capital one financial,425,Merger communication,,2024-12-19,2024-12,,425,https://www.sec.gov/Archives/edgar/data/927628/000092762824000336/a425-12192024pressrelease.htm
+0000927628-24-000334,927628,capital one financial,425,Merger communication,,2024-12-17,2024-12,,425,https://www.sec.gov/Archives/edgar/data/927628/000092762824000334/a425-12172024pressrelease.htm
+0001104659-24-122112,1163165,conocophillips,8-K,Acquisition completed (8-K 2.01),"2.01,7.01,8.01,9.01",2024-11-22,2024-11,2024-11-20,FORM 8-K,https://www.sec.gov/Archives/edgar/data/1163165/000110465924122112/tm2428935d2_8k.htm
+0000927628-24-000314,927628,capital one financial,425,Merger communication,,2024-11-12,2024-11,,425,https://www.sec.gov/Archives/edgar/data/927628/000092762824000314/a425-11122024nprads.htm
+0000927628-24-000300,927628,capital one financial,425,Merger communication,,2024-10-25,2024-10,,425,https://www.sec.gov/Archives/edgar/data/927628/000092762824000300/a425-10252024q3cofearnings.htm
+0000927628-24-000282,927628,capital one financial,425,Merger communication,,2024-09-13,2024-09,,425,https://www.sec.gov/Archives/edgar/data/927628/000092762824000282/a425-09132024dealwebsite.htm
+0001104659-24-084987,1163165,conocophillips,425,Merger communication,,2024-08-01,2024-08,,425,https://www.sec.gov/Archives/edgar/data/1163165/000110465924084987/tm2415645d11_425.htm
+0001193125-24-184991,927628,capital one financial,S-4/A,Merger registration (amended),,2024-07-26,2024-07,,S-4/A,https://www.sec.gov/Archives/edgar/data/927628/000119312524184991/d743340ds4a.htm
+0001193125-24-183265,927628,capital one financial,425,Merger communication,,2024-07-24,2024-07,,425,https://www.sec.gov/Archives/edgar/data/927628/000119312524183265/d801972d425.htm
+0000927628-24-000256,927628,capital one financial,425,Merger communication,,2024-07-24,2024-07,,425,https://www.sec.gov/Archives/edgar/data/927628/000092762824000256/a425-07242024q2cofearnings.htm
+0001193125-24-180490,927628,capital one financial,425,Merger communication,,2024-07-17,2024-07,,425,https://www.sec.gov/Archives/edgar/data/927628/000119312524180490/d852710d425.htm
+0001104659-24-080579,1163165,conocophillips,S-4/A,Merger registration (amended),,2024-07-17,2024-07,,S-4/A,https://www.sec.gov/Archives/edgar/data/1163165/000110465924080579/tm2416360-5_s4a.htm
+0001104659-24-079374,1163165,conocophillips,425,Merger communication,,2024-07-12,2024-07,,425,https://www.sec.gov/Archives/edgar/data/1163165/000110465924079374/tm2415645d10_425.htm
+0001104659-24-074456,1163165,conocophillips,S-4,Merger registration,,2024-06-25,2024-06,,S-4,https://www.sec.gov/Archives/edgar/data/1163165/000110465924074456/tm2416360-3_s4.htm
+0001193125-24-161657,927628,capital one financial,S-4/A,Merger registration (amended),,2024-06-14,2024-06,,S-4/A,https://www.sec.gov/Archives/edgar/data/927628/000119312524161657/d743340ds4a.htm
+0001104659-24-065817,1163165,conocophillips,425,Merger communication,,2024-05-29,2024-05,,425,https://www.sec.gov/Archives/edgar/data/1163165/000110465924065817/tm2415645d2_425.htm
+0001104659-24-066133,1163165,conocophillips,425,Merger communication,,2024-05-29,2024-05,,425,https://www.sec.gov/Archives/edgar/data/1163165/000110465924066133/tm2415645d3_425.htm
+0001104659-24-066136,1163165,conocophillips,425,Merger communication,,2024-05-29,2024-05,,425,https://www.sec.gov/Archives/edgar/data/1163165/000110465924066136/tm2415645d4_425.htm
+0001104659-24-066140,1163165,conocophillips,425,Merger communication,,2024-05-29,2024-05,,425,https://www.sec.gov/Archives/edgar/data/1163165/000110465924066140/tm2415645d5_425.htm
+0001104659-24-066143,1163165,conocophillips,425,Merger communication,,2024-05-29,2024-05,,425,https://www.sec.gov/Archives/edgar/data/1163165/000110465924066143/tm2415645d6_425.htm
+0001104659-24-066147,1163165,conocophillips,425,Merger communication,,2024-05-29,2024-05,,425,https://www.sec.gov/Archives/edgar/data/1163165/000110465924066147/tm2415645d7_425.htm
+0001104659-24-066151,1163165,conocophillips,425,Merger communication,,2024-05-29,2024-05,,425,https://www.sec.gov/Archives/edgar/data/1163165/000110465924066151/tm2415645d8_425.htm
+0000950142-24-001442,93410,chevron,425,Merger communication,,2024-05-28,2024-05,,FORM 425,https://www.sec.gov/Archives/edgar/data/93410/000095014224001442/eh240487783_425.htm
+0000927628-24-000172,927628,capital one financial,425,Merger communication,,2024-05-02,2024-05,,425,https://www.sec.gov/Archives/edgar/data/927628/000092762824000172/a425-05022024presentation.htm
+0000927628-24-000162,927628,capital one financial,425,Merger communication,,2024-04-26,2024-04,,425,https://www.sec.gov/Archives/edgar/data/927628/000092762824000162/a425-04262024dealwebsite.htm
+0001193125-24-118081,789019,microsoft,S-4,Merger registration,,2024-04-26,2024-04,,FORM S-4,https://www.sec.gov/Archives/edgar/data/789019/000119312524118081/d671682ds4.htm
+0000927628-24-000164,927628,capital one financial,425,Merger communication,,2024-04-26,2024-04,,425,https://www.sec.gov/Archives/edgar/data/927628/000092762824000164/a425-04252024cofearningstr.htm
+0001193125-24-110233,93410,chevron,S-4/A,Merger registration (amended),,2024-04-24,2024-04,,S-4/A,https://www.sec.gov/Archives/edgar/data/93410/000119312524110233/d576159ds4a.htm
+0000927628-24-000151,927628,capital one financial,425,Merger communication,,2024-04-22,2024-04,,425,https://www.sec.gov/Archives/edgar/data/927628/000092762824000151/a425-04222024newspaperarti.htm
+0001193125-24-101304,927628,capital one financial,S-4,Merger registration,,2024-04-19,2024-04,,S-4,https://www.sec.gov/Archives/edgar/data/927628/000119312524101304/d743340ds4.htm
+0001193125-24-093570,93410,chevron,S-4/A,Merger registration (amended),,2024-04-12,2024-04,,S-4/A,https://www.sec.gov/Archives/edgar/data/93410/000119312524093570/d576159ds4a.htm
+0000950142-24-000901,93410,chevron,425,Merger communication,,2024-04-03,2024-04,,FORM 425,https://www.sec.gov/Archives/edgar/data/93410/000095014224000901/eh240462171_425.htm
+0001193125-24-080599,93410,chevron,S-4/A,Merger registration (amended),,2024-03-28,2024-03,,S-4/A,https://www.sec.gov/Archives/edgar/data/93410/000119312524080599/d576159ds4a.htm
+0000950142-24-000755,93410,chevron,425,Merger communication,,2024-03-22,2024-03,,FORM 425,https://www.sec.gov/Archives/edgar/data/93410/000095014224000755/eh240461134_425.htm
+0000950142-24-000753,93410,chevron,425,Merger communication,,2024-03-22,2024-03,,FORM 425,https://www.sec.gov/Archives/edgar/data/93410/000095014224000753/eh240461100_425.htm
+0000927628-24-000142,927628,capital one financial,425,Merger communication,,2024-03-21,2024-03,,425,https://www.sec.gov/Archives/edgar/data/927628/000092762824000142/a425-03212024newspaperarti.htm
+0001193125-24-070175,858877,cisco systems,8-K,Acquisition completed (8-K 2.01),"2.01,7.01,9.01",2024-03-18,2024-03,2024-03-18,8-K,https://www.sec.gov/Archives/edgar/data/858877/000119312524070175/d783088d8k.htm
+0001193125-24-064255,927628,capital one financial,425,Merger communication,,2024-03-11,2024-03,,425,https://www.sec.gov/Archives/edgar/data/927628/000119312524064255/d796210d425.htm
+0000927628-24-000114,927628,capital one financial,425,Merger communication,,2024-03-06,2024-03,,425,https://www.sec.gov/Archives/edgar/data/927628/000092762824000114/a425-03052024conference.htm
+0000927628-24-000101,927628,capital one financial,425,Merger communication,,2024-02-27,2024-02,,425,https://www.sec.gov/Archives/edgar/data/927628/000092762824000101/a425-02272024conference.htm
+0000927628-24-000099,927628,capital one financial,425,Merger communication,,2024-02-27,2024-02,,425,https://www.sec.gov/Archives/edgar/data/927628/000092762824000099/a425-02272024.htm
+0001193125-24-046223,93410,chevron,S-4,Merger registration,,2024-02-26,2024-02,,S-4,https://www.sec.gov/Archives/edgar/data/93410/000119312524046223/d576159ds4.htm
+0001140361-24-009146,14272,bristol myers squibb,SC TO-T/A,"Tender offer (bidder, amended)",,2024-02-23,2024-02,,SC TO-T/A,https://www.sec.gov/Archives/edgar/data/14272/000114036124009146/ny20021323x4_sctota.htm
+0001193125-24-042832,927628,capital one financial,425,Merger communication,,2024-02-22,2024-02,,425,https://www.sec.gov/Archives/edgar/data/927628/000119312524042832/d780383d425.htm
+0001193125-24-040125,927628,capital one financial,425,Merger communication,,2024-02-20,2024-02,,425,https://www.sec.gov/Archives/edgar/data/927628/000119312524040125/d797639d425.htm
+0001193125-24-039275,927628,capital one financial,425,Merger communication,,2024-02-20,2024-02,,425,https://www.sec.gov/Archives/edgar/data/927628/000119312524039275/d743843d425.htm
+0001193125-24-039259,927628,capital one financial,425,Merger communication,,2024-02-20,2024-02,,425,https://www.sec.gov/Archives/edgar/data/927628/000119312524039259/d772981d425.htm
+0001140361-24-008300,14272,bristol myers squibb,SC TO-T/A,"Tender offer (bidder, amended)",,2024-02-16,2024-02,,SC TO-T/A,https://www.sec.gov/Archives/edgar/data/14272/000114036124008300/ny20021323x2_sctota.htm
+0001140361-24-006876,14272,bristol myers squibb,SC TO-T/A,"Tender offer (bidder, amended)",,2024-02-12,2024-02,,SC TO-T/A,https://www.sec.gov/Archives/edgar/data/14272/000114036124006876/ny20021323x1_sctota.htm
+0000950142-24-000277,93410,chevron,425,Merger communication,,2024-02-02,2024-02,,FORM 425,https://www.sec.gov/Archives/edgar/data/93410/000095014224000277/eh240445043_425.htm
+0001140361-24-003759,14272,bristol myers squibb,SC TO-T,Tender offer (bidder),,2024-01-25,2024-01,,SC TO-T,https://www.sec.gov/Archives/edgar/data/14272/000114036124003759/ny20019237x1_sctot.htm
+0001193125-23-295562,78003,pfizer,8-K/A,Acquisition completed (8-K 2.01),"2.01,7.01,9.01",2023-12-14,2023-12,2023-12-14,8-K/A,https://www.sec.gov/Archives/edgar/data/78003/000119312523295562/d612444d8ka.htm
+0000950142-23-002920,93410,chevron,425,Merger communication,,2023-12-08,2023-12,,FORM 425,https://www.sec.gov/Archives/edgar/data/93410/000095014223002920/eh230427176_425.htm
+0001140361-23-054354,1730168,broadcom,8-K,Acquisition completed (8-K 2.01),"2.01,2.03,8.01,9.01",2023-11-22,2023-11,2023-11-22,8-K,https://www.sec.gov/Archives/edgar/data/1730168/000114036123054354/ef20015100_form8k.htm
+0000950142-23-002716,93410,chevron,425,Merger communication,,2023-11-02,2023-11,,FORM 425,https://www.sec.gov/Archives/edgar/data/93410/000095014223002716/eh230416972_425.htm
+0001140361-23-050222,1730168,broadcom,425,Merger communication,,2023-10-30,2023-10,,425,https://www.sec.gov/Archives/edgar/data/1730168/000114036123050222/ef20013645_425.htm
+0000950142-23-002692,93410,chevron,425,Merger communication,,2023-10-27,2023-10,,FORM 425,https://www.sec.gov/Archives/edgar/data/93410/000095014223002692/eh230415217_425.htm
+0000950142-23-002684,93410,chevron,425,Merger communication,,2023-10-26,2023-10,,FORM 425,https://www.sec.gov/Archives/edgar/data/93410/000095014223002684/eh230414522_425.htm
+0000950142-23-002676,93410,chevron,425,Merger communication,,2023-10-24,2023-10,,FORM 425,https://www.sec.gov/Archives/edgar/data/93410/000095014223002676/eh230413689_425-th.htm
+0000950142-23-002674,93410,chevron,425,Merger communication,,2023-10-23,2023-10,,FORM 425,https://www.sec.gov/Archives/edgar/data/93410/000095014223002674/eh230413272_425-transcript.htm
+0000950142-23-002671,93410,chevron,425,Merger communication,,2023-10-23,2023-10,,FORM 425,https://www.sec.gov/Archives/edgar/data/93410/000095014223002671/eh230413260_425-agmt.htm
+0000950142-23-002663,93410,chevron,425,Merger communication,,2023-10-23,2023-10,,FORM 425,https://www.sec.gov/Archives/edgar/data/93410/000095014223002663/eh230413270_425-eml.htm
+0000950142-23-002661,93410,chevron,425,Merger communication,,2023-10-23,2023-10,,FORM 425,https://www.sec.gov/Archives/edgar/data/93410/000095014223002661/eh230413261_425-ip.htm
+0000950142-23-002659,93410,chevron,425,Merger communication,,2023-10-23,2023-10,,FORM 425,https://www.sec.gov/Archives/edgar/data/93410/000095014223002659/eh230413257_425.htm
+0000950142-23-002672,93410,chevron,425,Merger communication,,2023-10-23,2023-10,,FORM 425,https://www.sec.gov/Archives/edgar/data/93410/000095014223002672/eh230413269_425-x.htm
+0001140361-23-048719,1730168,broadcom,425,Merger communication,,2023-10-18,2023-10,,425,https://www.sec.gov/Archives/edgar/data/1730168/000114036123048719/ef20012700_425.htm
+0001193125-23-255762,789019,microsoft,8-K,Acquisition completed (8-K 2.01),2.01,2023-10-13,2023-10,2023-10-13,8-K,https://www.sec.gov/Archives/edgar/data/789019/000119312523255762/d537928d8k.htm
+0001104659-23-102595,858877,cisco systems,425,Merger communication,,2023-09-21,2023-09,,425,https://www.sec.gov/Archives/edgar/data/858877/000110465923102595/tm2326347d2_425.htm
+0001140361-23-041510,1730168,broadcom,425,Merger communication,,2023-08-28,2023-08,,425,https://www.sec.gov/Archives/edgar/data/1730168/000114036123041510/brhc20058091_425.htm
+0000200406-23-000086,200406,johnson and johnson,8-K,Acquisition completed (8-K 2.01),2.01,2023-08-25,2023-08,2023-08-23,8-K,https://www.sec.gov/Archives/edgar/data/200406/000020040623000086/jnj-20230823.htm
+0001628280-23-030298,200406,johnson and johnson,425,Merger communication,,2023-08-23,2023-08,,425,https://www.sec.gov/Archives/edgar/data/200406/000162828023030298/a425-pressrelease08232023.htm
+0001628280-23-030039,200406,johnson and johnson,425,Merger communication,,2023-08-21,2023-08,,425,https://www.sec.gov/Archives/edgar/data/200406/000162828023030039/pre-marketpressrelease425x.htm
+0001140361-23-040703,1730168,broadcom,425,Merger communication,,2023-08-21,2023-08,,425,https://www.sec.gov/Archives/edgar/data/1730168/000114036123040703/brhc20057846_425.htm
+0001628280-23-030009,200406,johnson and johnson,425,Merger communication,,2023-08-18,2023-08,,425,https://www.sec.gov/Archives/edgar/data/200406/000162828023030009/vwapday20.htm
+0001628280-23-029728,200406,johnson and johnson,425,Merger communication,,2023-08-17,2023-08,,425,https://www.sec.gov/Archives/edgar/data/200406/000162828023029728/vwapday18-2.htm
+0001628280-23-029851,200406,johnson and johnson,425,Merger communication,,2023-08-17,2023-08,,425,https://www.sec.gov/Archives/edgar/data/200406/000162828023029851/vwapday19.htm
+0001628280-23-029703,200406,johnson and johnson,425,Merger communication,,2023-08-17,2023-08,,425,https://www.sec.gov/Archives/edgar/data/200406/000162828023029703/jj425pressrelease8162023.htm
+0001628280-23-029676,200406,johnson and johnson,425,Merger communication,,2023-08-16,2023-08,,425,https://www.sec.gov/Archives/edgar/data/200406/000162828023029676/vwapday18.htm
+0001193125-23-213017,93410,chevron,S-4/A,Merger registration (amended),,2023-08-15,2023-08,,S-4/A,https://www.sec.gov/Archives/edgar/data/93410/000119312523213017/d528944ds4a.htm
+0001628280-23-029573,200406,johnson and johnson,425,Merger communication,,2023-08-15,2023-08,,425,https://www.sec.gov/Archives/edgar/data/200406/000162828023029573/vwapday17.htm
+0001628280-23-029421,200406,johnson and johnson,425,Merger communication,,2023-08-14,2023-08,,425,https://www.sec.gov/Archives/edgar/data/200406/000162828023029421/vwapday16.htm
+0001628280-23-029104,200406,johnson and johnson,425,Merger communication,,2023-08-11,2023-08,,425,https://www.sec.gov/Archives/edgar/data/200406/000162828023029104/vwapday15.htm
+0001628280-23-028908,200406,johnson and johnson,425,Merger communication,,2023-08-10,2023-08,,425,https://www.sec.gov/Archives/edgar/data/200406/000162828023028908/vwapday14.htm
+0001628280-23-028617,200406,johnson and johnson,425,Merger communication,,2023-08-09,2023-08,,425,https://www.sec.gov/Archives/edgar/data/200406/000162828023028617/vwapday13.htm
+0001628280-23-028238,200406,johnson and johnson,425,Merger communication,,2023-08-08,2023-08,,425,https://www.sec.gov/Archives/edgar/data/200406/000162828023028238/vwapday12.htm
+0001628280-23-027810,200406,johnson and johnson,425,Merger communication,,2023-08-07,2023-08,,425,https://www.sec.gov/Archives/edgar/data/200406/000162828023027810/vwapday11.htm
+0001193125-23-204563,93410,chevron,425,Merger communication,,2023-08-07,2023-08,,425,https://www.sec.gov/Archives/edgar/data/93410/000119312523204563/d443510d425.htm
+0001628280-23-027551,200406,johnson and johnson,425,Merger communication,,2023-08-04,2023-08,,425,https://www.sec.gov/Archives/edgar/data/200406/000162828023027551/vwapday10.htm
+0001628280-23-027300,200406,johnson and johnson,425,Merger communication,,2023-08-03,2023-08,,425,https://www.sec.gov/Archives/edgar/data/200406/000162828023027300/vwapday9.htm
+0001628280-23-027240,200406,johnson and johnson,425,Merger communication,,2023-08-03,2023-08,,425,https://www.sec.gov/Archives/edgar/data/200406/000162828023027240/jj-425informationagenttalk.htm
+0001193125-23-202848,93410,chevron,S-4,Merger registration,,2023-08-03,2023-08,,S-4,https://www.sec.gov/Archives/edgar/data/93410/000119312523202848/d528944ds4.htm
+0001628280-23-026804,200406,johnson and johnson,425,Merger communication,,2023-08-02,2023-08,,425,https://www.sec.gov/Archives/edgar/data/200406/000162828023026804/vwapday8.htm
+0001628280-23-026471,200406,johnson and johnson,425,Merger communication,,2023-08-01,2023-08,,425,https://www.sec.gov/Archives/edgar/data/200406/000162828023026471/vwapday7.htm
+0001628280-23-026255,200406,johnson and johnson,425,Merger communication,,2023-07-31,2023-07,,425,https://www.sec.gov/Archives/edgar/data/200406/000162828023026255/vwapday6.htm
+0001628280-23-026169,200406,johnson and johnson,425,Merger communication,,2023-07-31,2023-07,,425,https://www.sec.gov/Archives/edgar/data/200406/000162828023026169/jj425-shareholderfaqrefi.htm
+0001628280-23-026111,200406,johnson and johnson,425,Merger communication,,2023-07-28,2023-07,,425,https://www.sec.gov/Archives/edgar/data/200406/000162828023026111/vwapday5.htm
+0001628280-23-026100,200406,johnson and johnson,425,Merger communication,,2023-07-28,2023-07,,425,https://www.sec.gov/Archives/edgar/data/200406/000162828023026100/jj425-kenvuesavingsplans.htm
+0001628280-23-026098,200406,johnson and johnson,425,Merger communication,,2023-07-28,2023-07,,425,https://www.sec.gov/Archives/edgar/data/200406/000162828023026098/jj425-retireeportalposting.htm
+0001628280-23-026096,200406,johnson and johnson,425,Merger communication,,2023-07-28,2023-07,,425,https://www.sec.gov/Archives/edgar/data/200406/000162828023026096/jj8-k07282023.htm
+0001628280-23-025933,200406,johnson and johnson,425,Merger communication,,2023-07-27,2023-07,,425,https://www.sec.gov/Archives/edgar/data/200406/000162828023025933/jj-425finalseparationleade.htm
+0001628280-23-025948,200406,johnson and johnson,425,Merger communication,,2023-07-27,2023-07,,425,https://www.sec.gov/Archives/edgar/data/200406/000162828023025948/vwapday4.htm
+0001628280-23-025706,200406,johnson and johnson,425,Merger communication,,2023-07-26,2023-07,,425,https://www.sec.gov/Archives/edgar/data/200406/000162828023025706/jj-425updatedfaq.htm
+0001628280-23-025738,200406,johnson and johnson,425,Merger communication,,2023-07-26,2023-07,,425,https://www.sec.gov/Archives/edgar/data/200406/000162828023025738/vwapday3.htm
+0001628280-23-025575,200406,johnson and johnson,425,Merger communication,,2023-07-25,2023-07,,425,https://www.sec.gov/Archives/edgar/data/200406/000162828023025575/jj425-day2xsavingsplans.htm
+0001628280-23-025598,200406,johnson and johnson,425,Merger communication,,2023-07-25,2023-07,,425,https://www.sec.gov/Archives/edgar/data/200406/000162828023025598/vwapday2.htm
+0001628280-23-025576,200406,johnson and johnson,425,Merger communication,,2023-07-25,2023-07,,425,https://www.sec.gov/Archives/edgar/data/200406/000162828023025576/kenvue425-day2postxroadsho.htm
+0001628280-23-025580,200406,johnson and johnson,425,Merger communication,,2023-07-25,2023-07,,425,https://www.sec.gov/Archives/edgar/data/200406/000162828023025580/kenvue425-kenvuesavingsp.htm
+0001628280-23-025578,200406,johnson and johnson,425,Merger communication,,2023-07-25,2023-07,,425,https://www.sec.gov/Archives/edgar/data/200406/000162828023025578/kenvue425-roadshowpresen.htm
+0001628280-23-025396,200406,johnson and johnson,425,Merger communication,,2023-07-24,2023-07,,425,https://www.sec.gov/Archives/edgar/data/200406/000162828023025396/kenvue425-day1prexallken.htm
+0001628280-23-025395,200406,johnson and johnson,425,Merger communication,,2023-07-24,2023-07,,425,https://www.sec.gov/Archives/edgar/data/200406/000162828023025395/kenvue425-day1prexvueart.htm
+0001628280-23-025398,200406,johnson and johnson,425,Merger communication,,2023-07-24,2023-07,,425,https://www.sec.gov/Archives/edgar/data/200406/000162828023025398/jj425-prehomearticleunde.htm
+0001628280-23-025394,200406,johnson and johnson,425,Merger communication,,2023-07-24,2023-07,,425,https://www.sec.gov/Archives/edgar/data/200406/000162828023025394/kenvue425-prepressrelease.htm
+0001628280-23-025389,200406,johnson and johnson,425,Merger communication,,2023-07-24,2023-07,,425,https://www.sec.gov/Archives/edgar/data/200406/000162828023025389/jj425-prepressrelease.htm
+0001628280-23-025399,200406,johnson and johnson,425,Merger communication,,2023-07-24,2023-07,,425,https://www.sec.gov/Archives/edgar/data/200406/000162828023025399/jj425-day1prexallemploye.htm
+0001628280-23-025397,200406,johnson and johnson,425,Merger communication,,2023-07-24,2023-07,,425,https://www.sec.gov/Archives/edgar/data/200406/000162828023025397/kenvue425-day1prextop500.htm
+0001628280-23-025447,200406,johnson and johnson,425,Merger communication,,2023-07-24,2023-07,,425,https://www.sec.gov/Archives/edgar/data/200406/000162828023025447/jj425-day1xltionepagerwp.htm
+0001628280-23-025460,200406,johnson and johnson,425,Merger communication,,2023-07-24,2023-07,,425,https://www.sec.gov/Archives/edgar/data/200406/000162828023025460/jj425-day1xmessageonfory.htm
+0001628280-23-025448,200406,johnson and johnson,425,Merger communication,,2023-07-24,2023-07,,425,https://www.sec.gov/Archives/edgar/data/200406/000162828023025448/jjltinopsueml.htm
+0001628280-23-025449,200406,johnson and johnson,425,Merger communication,,2023-07-24,2023-07,,425,https://www.sec.gov/Archives/edgar/data/200406/000162828023025449/kenvue425-messageonforyo.htm
+0001628280-23-025451,200406,johnson and johnson,425,Merger communication,,2023-07-24,2023-07,,425,https://www.sec.gov/Archives/edgar/data/200406/000162828023025451/jj425-day1xltionexpagerw.htm
+0001628280-23-025453,200406,johnson and johnson,425,Merger communication,,2023-07-24,2023-07,,425,https://www.sec.gov/Archives/edgar/data/200406/000162828023025453/jj425-day1xltifinalsepar.htm
+0001628280-23-025454,200406,johnson and johnson,425,Merger communication,,2023-07-24,2023-07,,425,https://www.sec.gov/Archives/edgar/data/200406/000162828023025454/jj425day1-shareholderfaq.htm
+0001628280-23-025455,200406,johnson and johnson,425,Merger communication,,2023-07-24,2023-07,,425,https://www.sec.gov/Archives/edgar/data/200406/000162828023025455/jj425-day1xlticonversion.htm
+0001628280-23-025456,200406,johnson and johnson,425,Merger communication,,2023-07-24,2023-07,,425,https://www.sec.gov/Archives/edgar/data/200406/000162828023025456/kenvue425-kenvuebenefits.htm
+0001628280-23-025457,200406,johnson and johnson,425,Merger communication,,2023-07-24,2023-07,,425,https://www.sec.gov/Archives/edgar/data/200406/000162828023025457/jj425-day1xbenefitservic.htm
+0001628280-23-025458,200406,johnson and johnson,425,Merger communication,,2023-07-24,2023-07,,425,https://www.sec.gov/Archives/edgar/data/200406/000162828023025458/jjltiwithpsuupdate.htm
+0001628280-23-025480,200406,johnson and johnson,425,Merger communication,,2023-07-24,2023-07,,425,https://www.sec.gov/Archives/edgar/data/200406/000162828023025480/vwapday1.htm
+0001628280-23-025258,200406,johnson and johnson,425,Merger communication,,2023-07-20,2023-07,,425,https://www.sec.gov/Archives/edgar/data/200406/000162828023025258/jj-425xearningsscript.htm
+0001628280-23-025257,200406,johnson and johnson,425,Merger communication,,2023-07-20,2023-07,,425,https://www.sec.gov/Archives/edgar/data/200406/000162828023025257/jj-425xearningsrelease.htm
+0001628280-23-025263,200406,johnson and johnson,425,Merger communication,,2023-07-20,2023-07,,425,https://www.sec.gov/Archives/edgar/data/200406/000162828023025263/kenvue425filing.htm
+0001628280-23-025261,200406,johnson and johnson,425,Merger communication,,2023-07-20,2023-07,,425,https://www.sec.gov/Archives/edgar/data/200406/000162828023025261/jj-425xlinkedinpost.htm
+0001628280-23-025259,200406,johnson and johnson,425,Merger communication,,2023-07-20,2023-07,,425,https://www.sec.gov/Archives/edgar/data/200406/000162828023025259/jj-425xbeyondthenumbers.htm
+0001140361-23-034197,1730168,broadcom,425,Merger communication,,2023-07-12,2023-07,,425,https://www.sec.gov/Archives/edgar/data/1730168/000114036123034197/brhc20055813_425.htm
+0001193125-23-181673,93410,chevron,S-4/A,Merger registration (amended),,2023-07-05,2023-07,,S-4/A,https://www.sec.gov/Archives/edgar/data/93410/000119312523181673/d512919ds4a.htm
+0001140361-23-032277,1730168,broadcom,425,Merger communication,,2023-06-30,2023-06,,425,https://www.sec.gov/Archives/edgar/data/1730168/000114036123032277/brhc20055273_425.htm
+0001193125-23-177799,93410,chevron,S-4/A,Merger registration (amended),,2023-06-29,2023-06,,S-4/A,https://www.sec.gov/Archives/edgar/data/93410/000119312523177799/d512919ds4a.htm
+0001140361-23-031537,1730168,broadcom,425,Merger communication,,2023-06-27,2023-06,,425,https://www.sec.gov/Archives/edgar/data/1730168/000114036123031537/brhc20054962_425.htm
+0001140361-23-031460,1730168,broadcom,425,Merger communication,,2023-06-26,2023-06,,425,https://www.sec.gov/Archives/edgar/data/1730168/000114036123031460/brhc20054944_425.htm
+0001193125-23-170147,93410,chevron,S-4,Merger registration,,2023-06-20,2023-06,,S-4,https://www.sec.gov/Archives/edgar/data/93410/000119312523170147/d512919ds4.htm
+0001140361-23-028806,1730168,broadcom,425,Merger communication,,2023-06-07,2023-06,,425,https://www.sec.gov/Archives/edgar/data/1730168/000114036123028806/brhc20054180_425.htm
+0000950142-23-001503,93410,chevron,425,Merger communication,,2023-05-22,2023-05,,FORM 425,https://www.sec.gov/Archives/edgar/data/93410/000095014223001503/eh230361400_425-email.htm
+0000950142-23-001514,93410,chevron,425,Merger communication,,2023-05-22,2023-05,,FORM 425,https://www.sec.gov/Archives/edgar/data/93410/000095014223001514/eh230361612_425-transcript.htm
+0000950142-23-001504,93410,chevron,425,Merger communication,,2023-05-22,2023-05,,FORM 425,https://www.sec.gov/Archives/edgar/data/93410/000095014223001504/eh230361425_425-tweet.htm
+0000950142-23-001493,93410,chevron,425,Merger communication,,2023-05-22,2023-05,,FORM 425,https://www.sec.gov/Archives/edgar/data/93410/000095014223001493/eh230361401_425-prsnt.htm
+0000950142-23-001492,93410,chevron,425,Merger communication,,2023-05-22,2023-05,,FORM 425,https://www.sec.gov/Archives/edgar/data/93410/000095014223001492/eh230361399_425.htm
+0001140361-23-023002,1730168,broadcom,425,Merger communication,,2023-05-04,2023-05,,425,https://www.sec.gov/Archives/edgar/data/1730168/000114036123023002/brhc20052526_425.htm
+0001140361-23-022798,1730168,broadcom,425,Merger communication,,2023-05-04,2023-05,,425,https://www.sec.gov/Archives/edgar/data/1730168/000114036123022798/brhc20052472_425.htm
+0001140361-23-020234,1730168,broadcom,425,Merger communication,,2023-04-25,2023-04,,425,https://www.sec.gov/Archives/edgar/data/1730168/000114036123020234/brhc20051941_425.htm
+0001140361-23-014891,1730168,broadcom,425,Merger communication,,2023-03-30,2023-03,,425,https://www.sec.gov/Archives/edgar/data/1730168/000114036123014891/brhc10050686_425.htm
+0001140361-23-012040,1730168,broadcom,425,Merger communication,,2023-03-16,2023-03,,425,https://www.sec.gov/Archives/edgar/data/1730168/000114036123012040/brhc10049896_425.htm
+0001140361-23-011821,1730168,broadcom,425,Merger communication,,2023-03-15,2023-03,,425,https://www.sec.gov/Archives/edgar/data/1730168/000114036123011821/brhc10049861_425.htm
+0001140361-23-010932,1730168,broadcom,425,Merger communication,,2023-03-09,2023-03,,425,https://www.sec.gov/Archives/edgar/data/1730168/000114036123010932/brhc10049574_425.htm
+0001140361-23-007243,1730168,broadcom,425,Merger communication,,2023-02-15,2023-02,,425,https://www.sec.gov/Archives/edgar/data/1730168/000114036123007243/brhc10048361_425.htm
+0001140361-23-005547,1730168,broadcom,425,Merger communication,,2023-02-09,2023-02,,425,https://www.sec.gov/Archives/edgar/data/1730168/000114036123005547/brhc10047951_425.htm
+0001140361-23-003566,1730168,broadcom,425,Merger communication,,2023-01-31,2023-01,,425,https://www.sec.gov/Archives/edgar/data/1730168/000114036123003566/brhc10047307_425.htm
+0001140361-23-003586,1730168,broadcom,425,Merger communication,,2023-01-31,2023-01,,425,https://www.sec.gov/Archives/edgar/data/1730168/000114036123003586/brhc10047319_425.htm
+0001140361-23-003613,1730168,broadcom,425,Merger communication,,2023-01-31,2023-01,,425,https://www.sec.gov/Archives/edgar/data/1730168/000114036123003613/brhc10047320_425.htm
+0001140361-23-002423,1730168,broadcom,425,Merger communication,,2023-01-23,2023-01,,425,https://www.sec.gov/Archives/edgar/data/1730168/000114036123002423/brhc10046908_425.htm
+0001140361-23-001479,1730168,broadcom,425,Merger communication,,2023-01-12,2023-01,,425,https://www.sec.gov/Archives/edgar/data/1730168/000114036123001479/brhc10046617_425.htm
+0001140361-23-001383,796343,adobe,425,Merger communication,,2023-01-11,2023-01,,425,https://www.sec.gov/Archives/edgar/data/796343/000114036123001383/ny20005310x22_425.htm
+0001140361-23-000921,796343,adobe,S-4/A,Merger registration (amended),,2023-01-09,2023-01,,S-4/A,https://www.sec.gov/Archives/edgar/data/796343/000114036123000921/ny20005310x19_s4a.htm
+0001140361-23-001047,1730168,broadcom,425,Merger communication,,2023-01-09,2023-01,,425,https://www.sec.gov/Archives/edgar/data/1730168/000114036123001047/brhc10046462_425.htm
+0001193125-22-311072,200406,johnson and johnson,8-K,Acquisition completed (8-K 2.01),"1.01,2.01,7.01,9.01",2022-12-22,2022-12,2022-12-22,8-K,https://www.sec.gov/Archives/edgar/data/200406/000119312522311072/d428734d8k.htm
+0001193125-22-310626,200406,johnson and johnson,SC TO-T/A,"Tender offer (bidder, amended)",,2022-12-22,2022-12,,SC TO-T/A,https://www.sec.gov/Archives/edgar/data/200406/000119312522310626/d434768dsctota.htm
+0001193125-22-307881,200406,johnson and johnson,SC TO-T/A,"Tender offer (bidder, amended)",,2022-12-19,2022-12,,SC TO-T/A,https://www.sec.gov/Archives/edgar/data/200406/000119312522307881/d411208dsctota.htm
+0001140361-22-045850,796343,adobe,425,Merger communication,,2022-12-16,2022-12,,425,https://www.sec.gov/Archives/edgar/data/796343/000114036122045850/ny20005310x18_425.htm
+0001193125-22-306007,200406,johnson and johnson,SC TO-T/A,"Tender offer (bidder, amended)",,2022-12-15,2022-12,,SC TO-T/A,https://www.sec.gov/Archives/edgar/data/200406/000119312522306007/d395835dsctota.htm
+0001193125-22-304358,200406,johnson and johnson,SC TO-T/A,"Tender offer (bidder, amended)",,2022-12-14,2022-12,,SC TO-T/A,https://www.sec.gov/Archives/edgar/data/200406/000119312522304358/d411806dsctota.htm
+0001140361-22-045534,1730168,broadcom,425,Merger communication,,2022-12-14,2022-12,,425,https://www.sec.gov/Archives/edgar/data/1730168/000114036122045534/brhc10045446_425.htm
+0001193125-22-300528,200406,johnson and johnson,SC TO-T/A,"Tender offer (bidder, amended)",,2022-12-08,2022-12,,SC TO-T/A,https://www.sec.gov/Archives/edgar/data/200406/000119312522300528/d383562dsctota.htm
+0001140361-22-044606,1730168,broadcom,425,Merger communication,,2022-12-06,2022-12,,425,https://www.sec.gov/Archives/edgar/data/1730168/000114036122044606/brhc10045149_425.htm
+0001140361-22-044456,1730168,broadcom,425,Merger communication,,2022-12-05,2022-12,,425,https://www.sec.gov/Archives/edgar/data/1730168/000114036122044456/brhc10045120_425.htm
+0001140361-22-044068,1730168,broadcom,425,Merger communication,,2022-12-01,2022-12,,425,https://www.sec.gov/Archives/edgar/data/1730168/000114036122044068/brhc10045004_form425.htm
+0001140361-22-043748,1730168,broadcom,425,Merger communication,,2022-11-30,2022-11,,425,https://www.sec.gov/Archives/edgar/data/1730168/000114036122043748/brhc10044935_425.htm
+0001140361-22-042819,1730168,broadcom,425,Merger communication,,2022-11-23,2022-11,,425,https://www.sec.gov/Archives/edgar/data/1730168/000114036122042819/brhc10044600_425.htm
+0001140361-22-041949,1730168,broadcom,425,Merger communication,,2022-11-16,2022-11,,425,https://www.sec.gov/Archives/edgar/data/1730168/000114036122041949/brhc10043853_425.htm
+0001140361-22-041527,796343,adobe,S-4,Merger registration,,2022-11-15,2022-11,,S-4,https://www.sec.gov/Archives/edgar/data/796343/000114036122041527/ny20005310x1_s4.htm
+0001140361-22-041543,1730168,broadcom,425,Merger communication,,2022-11-15,2022-11,,425,https://www.sec.gov/Archives/edgar/data/1730168/000114036122041543/ny20005884x1_425.htm
+0001193125-22-285216,200406,johnson and johnson,SC TO-T,Tender offer (bidder),,2022-11-15,2022-11,,SC TO-T,https://www.sec.gov/Archives/edgar/data/200406/000119312522285216/d411777dsctot.htm
+0001140361-22-040525,796343,adobe,425,Merger communication,,2022-11-08,2022-11,,425,https://www.sec.gov/Archives/edgar/data/796343/000114036122040525/ny20005310x17_425.htm
+0001140361-22-040334,1730168,broadcom,425,Merger communication,,2022-11-07,2022-11,,425,https://www.sec.gov/Archives/edgar/data/1730168/000114036122040334/brhc10043853_425.htm
+0001140361-22-039843,1730168,broadcom,425,Merger communication,,2022-11-03,2022-11,,425,https://www.sec.gov/Archives/edgar/data/1730168/000114036122039843/brhc10043727_425.htm
+0001140361-22-038505,1730168,broadcom,425,Merger communication,,2022-10-26,2022-10,,425,https://www.sec.gov/Archives/edgar/data/1730168/000114036122038505/brhc10043316_425.htm
+0001140361-22-037987,796343,adobe,425,Merger communication,,2022-10-21,2022-10,,425,https://www.sec.gov/Archives/edgar/data/796343/000114036122037987/ny20005310x15_425.htm
+0001140361-22-038077,796343,adobe,425,Merger communication,,2022-10-21,2022-10,,425,https://www.sec.gov/Archives/edgar/data/796343/000114036122038077/ny20005310x16_425.htm
+0001140361-22-037702,796343,adobe,425,Merger communication,,2022-10-19,2022-10,,425,https://www.sec.gov/Archives/edgar/data/796343/000114036122037702/ny20005310x14_425.htm
+0001140361-22-036965,796343,adobe,425,Merger communication,,2022-10-12,2022-10,,425,https://www.sec.gov/Archives/edgar/data/796343/000114036122036965/ny20005310x13_425.htm
+0001140361-22-035837,796343,adobe,425,Merger communication,,2022-10-03,2022-10,,425,https://www.sec.gov/Archives/edgar/data/796343/000114036122035837/ny20005310x12_425.htm
+0001140361-22-035491,796343,adobe,425,Merger communication,,2022-09-30,2022-09,,425,https://www.sec.gov/Archives/edgar/data/796343/000114036122035491/ny20005310x11_425.htm
+0001140361-22-035003,796343,adobe,425,Merger communication,,2022-09-28,2022-09,,425,https://www.sec.gov/Archives/edgar/data/796343/000114036122035003/ny20005310x10_425.htm
+0001140361-22-034724,796343,adobe,425,Merger communication,,2022-09-26,2022-09,,425,https://www.sec.gov/Archives/edgar/data/796343/000114036122034724/ny20005310x9_425.htm
+0001140361-22-034421,796343,adobe,425,Merger communication,,2022-09-22,2022-09,,425,https://www.sec.gov/Archives/edgar/data/796343/000114036122034421/ny20005310x8_425.htm
+0001140361-22-034306,796343,adobe,425,Merger communication,,2022-09-21,2022-09,,425,https://www.sec.gov/Archives/edgar/data/796343/000114036122034306/ny20005310x7_425.htm
+0001140361-22-034076,796343,adobe,425,Merger communication,,2022-09-20,2022-09,,425,https://www.sec.gov/Archives/edgar/data/796343/000114036122034076/ny20005310x6_425.htm
+0001140361-22-033631,1730168,broadcom,S-4/A,Merger registration (amended),,2022-09-16,2022-09,,S-4/A,https://www.sec.gov/Archives/edgar/data/1730168/000114036122033631/ny20004409x19_s4a.htm
+0001140361-22-033639,1730168,broadcom,425,Merger communication,,2022-09-16,2022-09,,425,https://www.sec.gov/Archives/edgar/data/1730168/000114036122033639/ny20004409x21_425.htm
+0001140361-22-033652,796343,adobe,425,Merger communication,,2022-09-16,2022-09,,425,https://www.sec.gov/Archives/edgar/data/796343/000114036122033652/ny20005310x5_425.htm
+0001140361-22-033504,796343,adobe,425,Merger communication,,2022-09-15,2022-09,,425,https://www.sec.gov/Archives/edgar/data/796343/000114036122033504/ny20005310x4_425.htm
+0001140361-22-033413,796343,adobe,425,Merger communication,,2022-09-15,2022-09,,425,https://www.sec.gov/Archives/edgar/data/796343/000114036122033413/ny20005310x2_8k.htm
+0001140361-22-033364,1730168,broadcom,425,Merger communication,,2022-09-14,2022-09,,425,https://www.sec.gov/Archives/edgar/data/1730168/000114036122033364/ny20004409x18_425.htm
+0001140361-22-033204,1730168,broadcom,425,Merger communication,,2022-09-13,2022-09,,425,https://www.sec.gov/Archives/edgar/data/1730168/000114036122033204/ny20004409x17_425.htm
+0001140361-22-032973,1730168,broadcom,425,Merger communication,,2022-09-12,2022-09,,425,https://www.sec.gov/Archives/edgar/data/1730168/000114036122032973/ny20004409x16_425.htm
+0001140361-22-031593,1730168,broadcom,425,Merger communication,,2022-08-31,2022-08,,425,https://www.sec.gov/Archives/edgar/data/1730168/000114036122031593/ny20004409x15_425.htm
+0001140361-22-031116,1730168,broadcom,425,Merger communication,,2022-08-29,2022-08,,FORM 425,https://www.sec.gov/Archives/edgar/data/1730168/000114036122031116/ny20004409x14_425.htm
+0001140361-22-031056,1730168,broadcom,S-4/A,Merger registration (amended),,2022-08-26,2022-08,,S-4/A,https://www.sec.gov/Archives/edgar/data/1730168/000114036122031056/ny20004409x12_s4a.htm
+0001104659-22-092586,1163165,conocophillips,S-4,Merger registration,,2022-08-18,2022-08,,S-4,https://www.sec.gov/Archives/edgar/data/1163165/000110465922092586/tm2223380-1_s4.htm
+0001140361-22-029751,14272,bristol myers squibb,SC TO-T/A,"Tender offer (bidder, amended)",,2022-08-16,2022-08,,SC TO-TA,https://www.sec.gov/Archives/edgar/data/14272/000114036122029751/brhc10040851_sctota.htm
+0001140361-22-028803,14272,bristol myers squibb,SC TO-T/A,"Tender offer (bidder, amended)",,2022-08-09,2022-08,,SC TO-TA,https://www.sec.gov/Archives/edgar/data/14272/000114036122028803/brhc10040530_sctota.htm
+0001140361-22-027312,1730168,broadcom,425,Merger communication,,2022-07-28,2022-07,,425,https://www.sec.gov/Archives/edgar/data/1730168/000114036122027312/ny20004409x11_425.htm
+0001140361-22-026304,14272,bristol myers squibb,SC TO-T/A,"Tender offer (bidder, amended)",,2022-07-19,2022-07,,SC TO-T/A,https://www.sec.gov/Archives/edgar/data/14272/000114036122026304/brhc10039766_sctota.htm
+0001140361-22-026160,1730168,broadcom,S-4,Merger registration,,2022-07-15,2022-07,,S-4,https://www.sec.gov/Archives/edgar/data/1730168/000114036122026160/ny20004409x1_s4.htm
+0001140361-22-025735,1730168,broadcom,425,Merger communication,,2022-07-11,2022-07,,425,https://www.sec.gov/Archives/edgar/data/1730168/000114036122025735/ny20004409x9_425.htm
+0001140361-22-024779,14272,bristol myers squibb,SC TO-T/A,"Tender offer (bidder, amended)",,2022-07-01,2022-07,,SC TO-T/A,https://www.sec.gov/Archives/edgar/data/14272/000114036122024779/brhc10039315_sctota.htm
+0001140361-22-023847,1730168,broadcom,425,Merger communication,,2022-06-22,2022-06,,425,https://www.sec.gov/Archives/edgar/data/1730168/000114036122023847/ny20004409x6_425.htm
+0001140361-22-023846,1730168,broadcom,425,Merger communication,,2022-06-22,2022-06,,425,https://www.sec.gov/Archives/edgar/data/1730168/000114036122023846/ny20004409x7_425.htm
+0001140361-22-023484,14272,bristol myers squibb,SC TO-T,Tender offer (bidder),,2022-06-17,2022-06,,SC TOT,https://www.sec.gov/Archives/edgar/data/14272/000114036122023484/ny20004554x1_sctot.htm
+0001140361-22-022393,1730168,broadcom,425,Merger communication,,2022-06-09,2022-06,,425,https://www.sec.gov/Archives/edgar/data/1730168/000114036122022393/ny20004409x5_425.htm
+0001140361-22-022394,1730168,broadcom,425,Merger communication,,2022-06-09,2022-06,,425,https://www.sec.gov/Archives/edgar/data/1730168/000114036122022394/ny20004409x4_425.htm
+0001193125-22-169835,1341439,oracle,8-K,Acquisition completed (8-K 2.01),"2.01,2.03",2022-06-08,2022-06,2022-06-08,8-K,https://www.sec.gov/Archives/edgar/data/1341439/000119312522169835/d290344d8k.htm
+0001140361-22-022251,1730168,broadcom,425,Merger communication,,2022-06-08,2022-06,,425,https://www.sec.gov/Archives/edgar/data/1730168/000114036122022251/ny20004409x3_425.htm
+0001193125-22-168870,1341439,oracle,SC TO-T/A,"Tender offer (bidder, amended)",,2022-06-07,2022-06,,SC TO-T/A,https://www.sec.gov/Archives/edgar/data/1341439/000119312522168870/d288757dsctota.htm
+0001193125-22-166314,1730168,broadcom,425,Merger communication,,2022-06-02,2022-06,,425,https://www.sec.gov/Archives/edgar/data/1730168/000119312522166314/d350487d425.htm
+0001193125-22-166336,1730168,broadcom,425,Merger communication,,2022-06-02,2022-06,,425,https://www.sec.gov/Archives/edgar/data/1730168/000119312522166336/d363410d425.htm
+0001193125-22-165331,1341439,oracle,SC TO-T/A,"Tender offer (bidder, amended)",,2022-06-01,2022-06,,SC TO-T/A,https://www.sec.gov/Archives/edgar/data/1341439/000119312522165331/d365398dsctota.htm
+0001193125-22-161147,1730168,broadcom,425,Merger communication,,2022-05-26,2022-05,,425,https://www.sec.gov/Archives/edgar/data/1730168/000119312522161147/d356079d425.htm
+0001193125-22-161119,1730168,broadcom,425,Merger communication,,2022-05-26,2022-05,,425,https://www.sec.gov/Archives/edgar/data/1730168/000119312522161119/d348533d425.htm
+0001193125-22-161109,1730168,broadcom,425,Merger communication,,2022-05-26,2022-05,,425,https://www.sec.gov/Archives/edgar/data/1730168/000119312522161109/d266286d425.htm
+0001193125-22-161025,1730168,broadcom,425,Merger communication,,2022-05-26,2022-05,,425,https://www.sec.gov/Archives/edgar/data/1730168/000119312522161025/d525235d425.htm
+0001193125-22-160402,1730168,broadcom,425,Merger communication,,2022-05-26,2022-05,,425,https://www.sec.gov/Archives/edgar/data/1730168/000119312522160402/d323890d425.htm
+0001193125-22-161170,1730168,broadcom,425,Merger communication,,2022-05-26,2022-05,,425,https://www.sec.gov/Archives/edgar/data/1730168/000119312522161170/d221115d425.htm
+0001193125-22-146400,1341439,oracle,SC TO-T/A,"Tender offer (bidder, amended)",,2022-05-10,2022-05,,SC TO-T/A,https://www.sec.gov/Archives/edgar/data/1341439/000119312522146400/d258210dsctota.htm
+0001193125-22-101855,1341439,oracle,SC TO-T/A,"Tender offer (bidder, amended)",,2022-04-11,2022-04,,SC TO-T/A,https://www.sec.gov/Archives/edgar/data/1341439/000119312522101855/d330317dsctota.htm
+0001104659-22-041149,1163165,conocophillips,S-4/A,Merger registration (amended),,2022-03-31,2022-03,,S-4/A,https://www.sec.gov/Archives/edgar/data/1163165/000110465922041149/tm225479-4_s4.htm
+0001193125-22-075463,1341439,oracle,SC TO-T/A,"Tender offer (bidder, amended)",,2022-03-15,2022-03,,SC TO-T/A,https://www.sec.gov/Archives/edgar/data/1341439/000119312522075463/d296340dsctota.htm
+0001193125-22-049389,1341439,oracle,SC TO-T/A,"Tender offer (bidder, amended)",,2022-02-23,2022-02,,SC TO-T/A,https://www.sec.gov/Archives/edgar/data/1341439/000119312522049389/d212431dsctota.htm
+0001104659-22-024788,1163165,conocophillips,S-4,Merger registration,,2022-02-17,2022-02,,S-4,https://www.sec.gov/Archives/edgar/data/1163165/000110465922024788/tm225479-1_s4.htm
+0001193125-22-037271,1341439,oracle,SC TO-T/A,"Tender offer (bidder, amended)",,2022-02-11,2022-02,,SC TO-T/A,https://www.sec.gov/Archives/edgar/data/1341439/000119312522037271/d266867dsctota.htm
+0001193125-22-028532,1341439,oracle,SC TO-T/A,"Tender offer (bidder, amended)",,2022-02-04,2022-02,,SC TO-T/A,https://www.sec.gov/Archives/edgar/data/1341439/000119312522028532/d255301dsctota.htm
+0001193125-22-012503,1341439,oracle,SC TO-T,Tender offer (bidder),,2022-01-19,2022-01,,SC TO-T,https://www.sec.gov/Archives/edgar/data/1341439/000119312522012503/d255477dsctot.htm
+0001104659-21-145670,1163165,conocophillips,8-K,Acquisition completed (8-K 2.01),"2.01,7.01,9.01",2021-12-02,2021-12,2021-12-01,FORM 8-K,https://www.sec.gov/Archives/edgar/data/1163165/000110465921145670/tm2134322d1_8k.htm
+0001193125-21-180657,310158,merck and,8-K,Acquisition completed (8-K 2.01),"2.01,9.01",2021-06-03,2021-06,2021-06-02,8-K,https://www.sec.gov/Archives/edgar/data/310158/000119312521180657/d190548d8k.htm
+0001193125-21-140835,93410,chevron,425,Merger communication,,2021-04-29,2021-04,,425,https://www.sec.gov/Archives/edgar/data/93410/000119312521140835/d173562d425.htm
+0001193125-21-110019,93410,chevron,S-4/A,Merger registration (amended),,2021-04-08,2021-04,,S-4/A,https://www.sec.gov/Archives/edgar/data/93410/000119312521110019/d153017ds4a.htm
+0001193125-21-089220,93410,chevron,S-4,Merger registration,,2021-03-22,2021-03,,S-4,https://www.sec.gov/Archives/edgar/data/93410/000119312521089220/d153017ds4.htm
+0001193125-21-071414,93410,chevron,425,Merger communication,,2021-03-05,2021-03,,425,https://www.sec.gov/Archives/edgar/data/93410/000119312521071414/d36132d425.htm
+0001193125-21-065741,789019,microsoft,S-4/A,Merger registration (amended),,2021-03-02,2021-03,,AMENDMENT NO. 1 TO FORM S-4,https://www.sec.gov/Archives/edgar/data/789019/000119312521065741/d30757ds4a.htm
+0001193125-21-044789,789019,microsoft,S-4,Merger registration,,2021-02-16,2021-02,,S-4,https://www.sec.gov/Archives/edgar/data/789019/000119312521044789/d30757ds4.htm
+0001193125-21-030401,93410,chevron,425,Merger communication,,2021-02-05,2021-02,,425,https://www.sec.gov/Archives/edgar/data/93410/000119312521030401/d115817d425.htm
+0001104659-21-004775,1163165,conocophillips,8-K,Acquisition completed (8-K 2.01),"2.01,5.02,5.07,8.01,9.01",2021-01-15,2021-01,2021-01-15,FORM 8-K,https://www.sec.gov/Archives/edgar/data/1163165/000110465921004775/tm211520d4_8k.htm
+0001104659-21-004365,1163165,conocophillips,425,Merger communication,,2021-01-15,2021-01,,FORM 425,https://www.sec.gov/Archives/edgar/data/1163165/000110465921004365/tm211520d3_425.htm
+0001104659-21-000502,1163165,conocophillips,425,Merger communication,,2021-01-05,2021-01,,425,https://www.sec.gov/Archives/edgar/data/1163165/000110465921000502/tm211520d2_425.htm
+0001104659-20-137739,1163165,conocophillips,425,Merger communication,,2020-12-21,2020-12,,425,https://www.sec.gov/Archives/edgar/data/1163165/000110465920137739/a20-38995_1425.htm
+0001047469-20-005662,1163165,conocophillips,S-4/A,Merger registration (amended),,2020-12-07,2020-12,,S-4/A,https://www.sec.gov/Archives/edgar/data/1163165/000104746920005662/a2242692zs-4a.htm
+0001104659-20-132885,1163165,conocophillips,425,Merger communication,,2020-12-07,2020-12,,425,https://www.sec.gov/Archives/edgar/data/1163165/000110465920132885/tm2033409d25_425.htm
+0001193125-20-310049,93410,chevron,S-4/A,Merger registration (amended),,2020-12-04,2020-12,,S-4/A,https://www.sec.gov/Archives/edgar/data/93410/000119312520310049/d88905ds4a.htm
+0001193125-20-308902,93410,chevron,S-4,Merger registration,,2020-12-03,2020-12,,S-4,https://www.sec.gov/Archives/edgar/data/93410/000119312520308902/d88905ds4.htm
+0001104659-20-131355,1163165,conocophillips,425,Merger communication,,2020-12-02,2020-12,,425,https://www.sec.gov/Archives/edgar/data/1163165/000110465920131355/tm2033409d24_425.htm
+0001047469-20-005536,1163165,conocophillips,S-4,Merger registration,,2020-11-18,2020-11,,S-4,https://www.sec.gov/Archives/edgar/data/1163165/000104746920005536/a2242584zs-4.htm
+0001104659-20-126919,1163165,conocophillips,425,Merger communication,,2020-11-18,2020-11,,425,https://www.sec.gov/Archives/edgar/data/1163165/000110465920126919/tm2033409d23_425.htm
+0001140361-20-025760,14272,bristol myers squibb,SC TO-T/A,"Tender offer (bidder, amended)",,2020-11-17,2020-11,,SC TO-T/A,https://www.sec.gov/Archives/edgar/data/14272/000114036120025760/nt10016009x4_sctota.htm
+0001140361-20-024480,14272,bristol myers squibb,SC TO-T/A,"Tender offer (bidder, amended)",,2020-11-04,2020-11,,SC TO-T/A,https://www.sec.gov/Archives/edgar/data/14272/000114036120024480/nt10016009x3_sctota.htm
+0001104659-20-120517,1163165,conocophillips,425,Merger communication,,2020-11-02,2020-11,,425,https://www.sec.gov/Archives/edgar/data/1163165/000110465920120517/tm2033409-21_425.htm
+0001104659-20-120512,1163165,conocophillips,425,Merger communication,,2020-11-02,2020-11,,425,https://www.sec.gov/Archives/edgar/data/1163165/000110465920120512/tm2033409-19_425.htm
+0001140361-20-024219,14272,bristol myers squibb,SC TO-T/A,"Tender offer (bidder, amended)",,2020-10-30,2020-10,,SC TO-T/A,https://www.sec.gov/Archives/edgar/data/14272/000114036120024219/nt10016009x2_sctota.htm
+0001104659-20-120072,1163165,conocophillips,425,Merger communication,,2020-10-30,2020-10,,425,https://www.sec.gov/Archives/edgar/data/1163165/000110465920120072/tm2033409-20_425.htm
+0001104659-20-119561,1163165,conocophillips,425,Merger communication,,2020-10-29,2020-10,,425,https://www.sec.gov/Archives/edgar/data/1163165/000110465920119561/tm2033409d18_425.htm
+0001104659-20-118545,1163165,conocophillips,425,Merger communication,,2020-10-27,2020-10,,425,https://www.sec.gov/Archives/edgar/data/1163165/000110465920118545/tm2033409d17_425.htm
+0001104659-20-117210,1163165,conocophillips,425,Merger communication,,2020-10-22,2020-10,,425,https://www.sec.gov/Archives/edgar/data/1163165/000110465920117210/tm2033409d14_425.htm
+0001104659-20-117214,1163165,conocophillips,425,Merger communication,,2020-10-22,2020-10,,425,https://www.sec.gov/Archives/edgar/data/1163165/000110465920117214/tm2033409-15_425.htm
+0001104659-20-117216,1163165,conocophillips,425,Merger communication,,2020-10-22,2020-10,,425,https://www.sec.gov/Archives/edgar/data/1163165/000110465920117216/tm2033409-16_425.htm
+0001104659-20-116564,1163165,conocophillips,425,Merger communication,,2020-10-21,2020-10,,425,https://www.sec.gov/Archives/edgar/data/1163165/000110465920116564/tm2033409d13_425.htm
+0001104659-20-116489,1163165,conocophillips,425,Merger communication,,2020-10-20,2020-10,,425,https://www.sec.gov/Archives/edgar/data/1163165/000110465920116489/tm2033409-12_425.htm
+0001104659-20-116207,1163165,conocophillips,425,Merger communication,,2020-10-20,2020-10,,425,https://www.sec.gov/Archives/edgar/data/1163165/000110465920116207/tm2033409-11_425.htm
+0001104659-20-116152,1163165,conocophillips,425,Merger communication,,2020-10-20,2020-10,,425,https://www.sec.gov/Archives/edgar/data/1163165/000110465920116152/tm2033409-6_425.htm
+0001104659-20-115819,1163165,conocophillips,425,Merger communication,,2020-10-19,2020-10,,425,https://www.sec.gov/Archives/edgar/data/1163165/000110465920115819/tm2033409-2_fwp.htm
+0001140361-20-023217,14272,bristol myers squibb,SC TO-T,Tender offer (bidder),,2020-10-19,2020-10,,SC TO-T,https://www.sec.gov/Archives/edgar/data/14272/000114036120023217/nt10016009x1_sctot.htm
+0001104659-20-116138,1163165,conocophillips,425,Merger communication,,2020-10-19,2020-10,,425,https://www.sec.gov/Archives/edgar/data/1163165/000110465920116138/tm2033409-4_425.htm
+0001104659-20-116140,1163165,conocophillips,425,Merger communication,,2020-10-19,2020-10,,425,https://www.sec.gov/Archives/edgar/data/1163165/000110465920116140/tm2033409d5_425.htm
+0001104659-20-116141,1163165,conocophillips,425,Merger communication,,2020-10-19,2020-10,,425,https://www.sec.gov/Archives/edgar/data/1163165/000110465920116141/tm2033409-7_425.htm
+0001104659-20-116143,1163165,conocophillips,425,Merger communication,,2020-10-19,2020-10,,425,https://www.sec.gov/Archives/edgar/data/1163165/000110465920116143/tm2033409-8_425.htm
+0001104659-20-115844,1163165,conocophillips,425,Merger communication,,2020-10-19,2020-10,,425,https://www.sec.gov/Archives/edgar/data/1163165/000110465920115844/tm2033409d3_425.htm
+0001193125-20-263375,93410,chevron,425,Merger communication,,2020-10-05,2020-10,,425,https://www.sec.gov/Archives/edgar/data/93410/000119312520263375/d91455d425.htm
+0001047469-20-005079,1551152,abbvie,S-4,Merger registration,,2020-10-02,2020-10,,S-4,https://www.sec.gov/Archives/edgar/data/1551152/000104746920005079/a2242436zs-4.htm
+0001193125-20-260647,200406,johnson and johnson,SC TO-T/A,"Tender offer (bidder, amended)",,2020-10-01,2020-10,,SC TO-T/A,https://www.sec.gov/Archives/edgar/data/200406/000119312520260647/d44162dsctota.htm
+0000950142-20-002306,93410,chevron,425,Merger communication,,2020-09-24,2020-09,,FORM 425,https://www.sec.gov/Archives/edgar/data/93410/000095014220002306/eh200102291_425-nble.htm
+0001193125-20-252379,200406,johnson and johnson,SC TO-T/A,"Tender offer (bidder, amended)",,2020-09-23,2020-09,,SC TO-T/A,https://www.sec.gov/Archives/edgar/data/200406/000119312520252379/d94228dsctota.htm
+0001193125-20-246257,200406,johnson and johnson,SC TO-T/A,"Tender offer (bidder, amended)",,2020-09-15,2020-09,,SC TO-T/A,https://www.sec.gov/Archives/edgar/data/200406/000119312520246257/d68116dsctota.htm
+0001193125-20-240177,200406,johnson and johnson,SC TO-T/A,"Tender offer (bidder, amended)",,2020-09-04,2020-09,,SC TO-T/A,https://www.sec.gov/Archives/edgar/data/200406/000119312520240177/d940620dsctota.htm
+0001193125-20-237578,200406,johnson and johnson,SC TO-T,Tender offer (bidder),,2020-09-02,2020-09,,SC TO-T,https://www.sec.gov/Archives/edgar/data/200406/000119312520237578/d35685dsctot.htm
+0001193125-20-227448,93410,chevron,S-4/A,Merger registration (amended),,2020-08-24,2020-08,,S-4/A,https://www.sec.gov/Archives/edgar/data/93410/000119312520227448/d943112ds4a.htm
+0001193125-20-216333,93410,chevron,S-4,Merger registration,,2020-08-11,2020-08,,S-4,https://www.sec.gov/Archives/edgar/data/93410/000119312520216333/d943112ds4.htm
+0000950142-20-001915,93410,chevron,425,Merger communication,,2020-08-06,2020-08,,FORM 425,https://www.sec.gov/Archives/edgar/data/93410/000095014220001915/eh2000981_425.htm
+0000950142-20-001858,93410,chevron,425,Merger communication,,2020-07-31,2020-07,,FORM 425,https://www.sec.gov/Archives/edgar/data/93410/000095014220001858/eh2000955_425-cc.htm
+0000950142-20-001857,93410,chevron,425,Merger communication,,2020-07-31,2020-07,,FORM 425,https://www.sec.gov/Archives/edgar/data/93410/000095014220001857/eh2000954_425.htm
+0000950142-20-001776,93410,chevron,425,Merger communication,,2020-07-22,2020-07,,FORM 425,https://www.sec.gov/Archives/edgar/data/93410/000095014220001776/eh2000949_425.htm
+0000950142-20-001758,93410,chevron,425,Merger communication,,2020-07-20,2020-07,,FORM 425,https://www.sec.gov/Archives/edgar/data/93410/000095014220001758/eh2000933_425.htm
+0000950142-20-001760,93410,chevron,425,Merger communication,,2020-07-20,2020-07,,FORM 425,https://www.sec.gov/Archives/edgar/data/93410/000095014220001760/eh2000938_425-deck.htm
+0000950142-20-001774,93410,chevron,425,Merger communication,,2020-07-20,2020-07,,FORM 425,https://www.sec.gov/Archives/edgar/data/93410/000095014220001774/eh2000944_425-ct.htm
+0000950142-20-001772,93410,chevron,425,Merger communication,,2020-07-20,2020-07,,FORM 425,https://www.sec.gov/Archives/edgar/data/93410/000095014220001772/eh2000940_425-ltr.htm
+0000950142-20-001771,93410,chevron,425,Merger communication,,2020-07-20,2020-07,,FORM 425,https://www.sec.gov/Archives/edgar/data/93410/000095014220001771/eh2000936_425-nbl.htm
+0000950142-20-001770,93410,chevron,425,Merger communication,,2020-07-20,2020-07,,FORM 425,https://www.sec.gov/Archives/edgar/data/93410/000095014220001770/eh2000935_425-cvx.htm
+0000950142-20-001769,93410,chevron,425,Merger communication,,2020-07-20,2020-07,,FORM 425,https://www.sec.gov/Archives/edgar/data/93410/000095014220001769/eh2000934_425-faq.htm
+0001193125-20-181016,1730168,broadcom,S-4,Merger registration,,2020-06-26,2020-06,,S-4,https://www.sec.gov/Archives/edgar/data/1730168/000119312520181016/d921026ds4.htm
+0001140361-20-012071,14272,bristol myers squibb,S-4,Merger registration,,2020-05-20,2020-05,,FORM S-4,https://www.sec.gov/Archives/edgar/data/14272/000114036120012071/nt10012108x1_s4.htm
+0001104659-20-061687,1551152,abbvie,8-K/A,Acquisition completed (8-K 2.01),"2.01,9.01",2020-05-14,2020-05,2020-05-08,FROM 8-K/A,https://www.sec.gov/Archives/edgar/data/1551152/000110465920061687/tm2019527-1_8ka.htm
+0001104659-20-058837,1551152,abbvie,8-K,Acquisition completed (8-K 2.01),"2.01,2.03,3.02,5.02,8.01,9.01",2020-05-08,2020-05,2020-05-08,FORM 8-K,https://www.sec.gov/Archives/edgar/data/1551152/000110465920058837/tm2018740d2_8k.htm
+0001140361-20-002397,14272,bristol myers squibb,8-K/A,Acquisition completed (8-K 2.01),"2.01,9.01",2020-02-05,2020-02,2019-11-20,CURRENT REPORT ON FORM 8-K/A,https://www.sec.gov/Archives/edgar/data/14272/000114036120002397/form8ka.htm
+0001140361-20-000884,310158,merck and,SC TO-T/A,"Tender offer (bidder, amended)",,2020-01-16,2020-01,,SC TO-T/A,https://www.sec.gov/Archives/edgar/data/310158/000114036120000884/formsctota.htm
+0001140361-20-000326,310158,merck and,SC TO-T/A,"Tender offer (bidder, amended)",,2020-01-06,2020-01,,SC TO-T/A,https://www.sec.gov/Archives/edgar/data/310158/000114036120000326/nc10007326x3_sctota.htm
+0001140361-20-000216,310158,merck and,SC TO-T/A,"Tender offer (bidder, amended)",,2020-01-03,2020-01,,SC TO-T/A,https://www.sec.gov/Archives/edgar/data/310158/000114036120000216/nc10007326x2_sctota.htm
+0001140361-20-000057,310158,merck and,SC TO-T/A,"Tender offer (bidder, amended)",,2020-01-02,2020-01,,SC TO-T/A,https://www.sec.gov/Archives/edgar/data/310158/000114036120000057/nc10007326x1_sctota.htm
+0001140361-19-023460,310158,merck and,SC TO-T/A,"Tender offer (bidder, amended)",,2019-12-30,2019-12,,SC-TO-T/A,https://www.sec.gov/Archives/edgar/data/310158/000114036119023460/nc10007267x1_sctota.htm
+0001140361-19-022734,310158,merck and,SC TO-T,Tender offer (bidder),,2019-12-17,2019-12,,SC TO-T,https://www.sec.gov/Archives/edgar/data/310158/000114036119022734/nt10006743x2_sctot.htm
+0001140361-19-021261,14272,bristol myers squibb,8-K,Acquisition completed (8-K 2.01),"1.01,1.02,2.01,2.03,8.01,9.01",2019-11-22,2019-11,2019-11-21,CURRENT REPORT,https://www.sec.gov/Archives/edgar/data/14272/000114036119021261/form8k.htm
+0001140361-19-021048,14272,bristol myers squibb,8-K,Acquisition completed (8-K 2.01),"1.01,2.01,2.03,5.02,8.01,9.01",2019-11-20,2019-11,2019-11-20,CURRENT REPORT,https://www.sec.gov/Archives/edgar/data/14272/000114036119021048/form8k.htm
+0001140361-19-020721,14272,bristol myers squibb,425,Merger communication,,2019-11-15,2019-11,,425,https://www.sec.gov/Archives/edgar/data/14272/000114036119020721/form425.htm
+0001193125-19-282605,1730168,broadcom,8-K,Acquisition completed (8-K 2.01),"1.01,2.01,2.03,7.01,9.01",2019-11-04,2019-11,2019-11-04,8-K,https://www.sec.gov/Archives/edgar/data/1730168/000119312519282605/d808250d8k.htm
+0000950142-19-001038,93410,chevron,425,Merger communication,,2019-05-09,2019-05,,FORM 8-K,https://www.sec.gov/Archives/edgar/data/93410/000095014219001038/eh1900642_8k.htm
+0000950142-19-001023,93410,chevron,425,Merger communication,,2019-05-07,2019-05,,FORM 425,https://www.sec.gov/Archives/edgar/data/93410/000095014219001023/eh1900638_425.htm
+0000950142-19-000983,93410,chevron,425,Merger communication,,2019-04-29,2019-04,,FORM 425,https://www.sec.gov/Archives/edgar/data/93410/000095014219000983/eh1900619_425.htm
+0000950142-19-000976,93410,chevron,425,Merger communication,,2019-04-26,2019-04,,FORM 425,https://www.sec.gov/Archives/edgar/data/93410/000095014219000976/eh1900605_425.htm
+0001140361-19-007047,14272,bristol myers squibb,425,Merger communication,,2019-04-12,2019-04,,8-K,https://www.sec.gov/Archives/edgar/data/14272/000114036119007047/form8k.htm
+0001140361-19-006511,14272,bristol myers squibb,425,Merger communication,,2019-04-04,2019-04,,FORM 8-K,https://www.sec.gov/Archives/edgar/data/14272/000114036119006511/s002621x44_8k.htm
+0001193125-19-095230,310158,merck and,SC TO-T/A,"Tender offer (bidder, amended)",,2019-04-02,2019-04,,SC TO-T/A,https://www.sec.gov/Archives/edgar/data/310158/000119312519095230/d745225dsctota.htm
+0001140361-19-006057,14272,bristol myers squibb,425,Merger communication,,2019-03-29,2019-03,,425,https://www.sec.gov/Archives/edgar/data/14272/000114036119006057/s002621x43_425.htm
+0001193125-19-086616,310158,merck and,SC TO-T/A,"Tender offer (bidder, amended)",,2019-03-26,2019-03,,SC TO-T/A,https://www.sec.gov/Archives/edgar/data/310158/000119312519086616/d690289dsctota.htm
+0001140361-19-005592,14272,bristol myers squibb,425,Merger communication,,2019-03-26,2019-03,,FORM 8-K,https://www.sec.gov/Archives/edgar/data/14272/000114036119005592/s002621x42_8k.htm
+0001193125-19-076936,310158,merck and,SC TO-T/A,"Tender offer (bidder, amended)",,2019-03-15,2019-03,,SC TO-T/A,https://www.sec.gov/Archives/edgar/data/310158/000119312519076936/d712361dsctota.htm
+0001193125-19-063345,310158,merck and,SC TO-T,Tender offer (bidder),,2019-03-05,2019-03,,SC TO-T,https://www.sec.gov/Archives/edgar/data/310158/000119312519063345/d692771dsctot.htm
+0000796343-18-000177,796343,adobe,8-K,Acquisition completed (8-K 2.01),"2.01,8.01,9.01",2018-11-05,2018-11,2018-10-31,8-K,https://www.sec.gov/Archives/edgar/data/796343/000079634318000177/adbe8-k11052018marketo.htm
+0001193125-18-317917,1730168,broadcom,8-K,Acquisition completed (8-K 2.01),"1.01,2.01,2.03,7.01,8.01,9.01",2018-11-05,2018-11,2018-11-05,FORM 8-K,https://www.sec.gov/Archives/edgar/data/1730168/000119312518317917/d648705d8k.htm
+0001193125-18-055975,1730168,broadcom,S-4/A,Merger registration (amended),,2018-02-23,2018-02,,AMENDMENT NO. 1 TO FORM S-4,https://www.sec.gov/Archives/edgar/data/1730168/000119312518055975/d510045ds4a.htm
+0001193125-18-033464,1730168,broadcom,S-4,Merger registration,,2018-02-06,2018-02,,FORM S-4,https://www.sec.gov/Archives/edgar/data/1730168/000119312518033464/d510045ds4.htm
+0001193125-16-760776,1341439,oracle,SC TO-T/A,"Tender offer (bidder, amended)",,2016-11-07,2016-11,,AMENDMENT NO. 7 TO THIRD-PARTY TENDER OFFER STATEMENT ON SCHEDULE TO,https://www.sec.gov/Archives/edgar/data/1341439/000119312516760776/d284098dsctota.htm
+0001193125-16-750729,1341439,oracle,SC TO-T/A,"Tender offer (bidder, amended)",,2016-10-28,2016-10,,AMENDMENT NO. 6 TO THIRD-PARTY TENDER OFFER STATEMENT ON SCHEDULE TO,https://www.sec.gov/Archives/edgar/data/1341439/000119312516750729/d268567dsctota.htm
+0001193125-16-733310,1341439,oracle,SC TO-T/A,"Tender offer (bidder, amended)",,2016-10-07,2016-10,,AMENDMENT NO. 5 TO THIRD-PARTY TENDER OFFER STATEMENT ON SCHEDULE TO,https://www.sec.gov/Archives/edgar/data/1341439/000119312516733310/d239898dsctota.htm
+0001193125-16-730453,1341439,oracle,SC TO-T/A,"Tender offer (bidder, amended)",,2016-10-04,2016-10,,AMENDMENT NO. 4 TO THIRD-PARTY TENDER OFFER STATEMENT ON SCHEDULE TO,https://www.sec.gov/Archives/edgar/data/1341439/000119312516730453/d240949dsctota.htm
+0001193125-16-720584,1341439,oracle,SC TO-T/A,"Tender offer (bidder, amended)",,2016-09-27,2016-09,,AMENDMENT NO. 3 TO THIRD-PARTY TENDER OFFER STATEMENT ON SCHEDULE TO,https://www.sec.gov/Archives/edgar/data/1341439/000119312516720584/d243820dsctota.htm
+0001193125-16-710620,1341439,oracle,SC TO-T/A,"Tender offer (bidder, amended)",,2016-09-15,2016-09,,AMENDMENT NO. 2 TO THIRD-PARTY TENDER OFFER STATEMENT ON SCHEDULE TO,https://www.sec.gov/Archives/edgar/data/1341439/000119312516710620/d212271dsctota.htm
+0001193125-16-706577,1341439,oracle,SC TO-T/A,"Tender offer (bidder, amended)",,2016-09-09,2016-09,,AMENDMENT NO. 1 TO THIRD-PARTY TENDER OFFER STATEMENT ON SCHEDULE TO,https://www.sec.gov/Archives/edgar/data/1341439/000119312516706577/d257260dsctota.htm
+0001193125-16-684804,1341439,oracle,SC TO-T,Tender offer (bidder),,2016-08-18,2016-08,,THIRD-PARTY TENDER OFFER STATEMENT ON SCHEDULE TO,https://www.sec.gov/Archives/edgar/data/1341439/000119312516684804/d340996dsctot.htm
+0001193125-16-620642,1341439,oracle,SC TO-T/A,"Tender offer (bidder, amended)",,2016-06-14,2016-06,,AMENDMENT NO. 2 TO SCHEDULE TO,https://www.sec.gov/Archives/edgar/data/1341439/000119312516620642/d211793dsctota.htm
+0001193125-16-618330,1341439,oracle,SC TO-T/A,"Tender offer (bidder, amended)",,2016-06-10,2016-06,,SC TO-T/A,https://www.sec.gov/Archives/edgar/data/1341439/000119312516618330/d177464dsctota.htm
+0001193125-16-611714,1341439,oracle,SC TO-T/A,"Tender offer (bidder, amended)",,2016-06-03,2016-06,,SC TO-T/A,https://www.sec.gov/Archives/edgar/data/1341439/000119312516611714/d197591dsctota.htm
+0001193125-16-600703,1341439,oracle,SC TO-T/A,"Tender offer (bidder, amended)",,2016-05-24,2016-05,,SC TO-T/A,https://www.sec.gov/Archives/edgar/data/1341439/000119312516600703/d196245dsctota.htm
